@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_002215535.1/GCF_002215535.1_ASM221553v1_genomic.fna	NZ_CP022247.1	1414727	1415368	-	fusB_1	1-642/642	===============	0/0	100.00	100.00	resfinder	AY373761	fusB	Fusidic_acid
+data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_002215535.1/GCF_002215535.1_ASM221553v1_genomic.fna	NZ_CP022250.1	8930	9827	+	blaZ_29	3-900/900	===============	0/0	99.78	98.78	resfinder	JDXN01000019	blaZ	Amoxicillin;Ampicillin;Penicillin;Piperacillin
+data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_002215535.1/GCF_002215535.1_ASM221553v1_genomic.fna	NZ_CP022251.1	640	2208	-	vga(A)LC_1	1-1569/1569	===============	0/0	100.00	100.00	resfinder	GQ891882	vga(A)LC	Clindamycin;Dalfopristin;Lincomycin;Pristinamycin_IIA;Tiamulin;Virginiamycin_M

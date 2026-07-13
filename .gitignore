@@ -1,0 +1,25 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+~$*
+*.aux
+
+# Conda/environment folders
+.env
+.venv
+__pycache__/
+.ipynb_checkpoints/
+
+# Very large raw files
+data/raw/*
+*.zip
+*.tar.gz
+*.gz
+
+# Keep important compressed submission packages only if intentionally forced
+!submission_package.zip

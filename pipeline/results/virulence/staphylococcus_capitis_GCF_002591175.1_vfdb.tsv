@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_002591175.1/GCF_002591175.1_ASM259117v1_genomic.fna	NZ_CP023966.1	1591448	1591687	-	isdG	1-240/324	============...	0/0	74.07	80.42	vfdb	WP_000670950	(isdG) iron-regulated surface determinant protein G [Isd (VF0015) - Nutritional/Metabolic factor (VFC0272)] [Staphylococcus aureus subsp. aureus str. Newman]	

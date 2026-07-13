@@ -1,0 +1,2 @@
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+WP_060628311.1	NZ_CP012646.1	1305704	1306132	+	aac(6')	aminoglycoside 6'-N-acetyltransferase	core	AMR	AMR	AMINOGLYCOSIDE	AMINOGLYCOSIDE	HMM	142	142	90.85	60.47	129	WP_318245538.1	aminoglycoside 6'-N-acetyltransferase	NF043067.1	aminoglycoside 6'-N-acetyltransferase

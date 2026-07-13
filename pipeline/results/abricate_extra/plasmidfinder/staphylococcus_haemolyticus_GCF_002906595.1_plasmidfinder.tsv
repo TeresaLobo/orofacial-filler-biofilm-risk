@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_002906595.1/GCF_002906595.1_ASM290659v1_genomic.fna	NZ_CP024809.1	2500109	2500804	-	rep5c_1_rep(pRJ9)	1-696/858	=============..	0/0	81.12	88.08	plasmidfinder	AF447813	rep5c_1_rep(pRJ9)_AF447813	
+data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_002906595.1/GCF_002906595.1_ASM290659v1_genomic.fna	NZ_CP024810.1	1	969	+	rep19b_1_repA(SAP105A)	1-969/969	===============	0/0	100.00	94.94	plasmidfinder	GQ900452	rep19b_1_repA(SAP105A)_GQ900452	
+data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_002906595.1/GCF_002906595.1_ASM290659v1_genomic.fna	NZ_CP024810.1	2696	3844	+	repUS70_1_repA(SAP047A)	303-1452/1452	..======/======	1/1	79.13	89.91	plasmidfinder	GQ900405	repUS70_1_repA(SAP047A)_GQ900405	

@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_002215535.1/GCF_002215535.1_ASM221553v1_genomic.fna	NZ_CP022247.1	2198870	2199163	+	esxA	1-294/294	===============	0/0	100.00	89.46	vfdb	WP_001240826	(esxA) type VII secretion system secreted protein EsxA [Type VII secretion system (VF0403) - Effector delivery system (VFC0086)] [Staphylococcus aureus subsp. aureus MW2]	

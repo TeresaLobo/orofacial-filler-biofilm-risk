@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_013267675.1/GCF_013267675.1_ASM1326767v1_genomic.fna	NZ_CP053958.1	13777	14528	-	rep5e_1_rep(pSHaeC)	1-752/867	==============.	0/0	86.74	86.97	plasmidfinder	AP006719	rep5e_1_rep(pSHaeC)_AP006719	
+data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_013267675.1/GCF_013267675.1_ASM1326767v1_genomic.fna	NZ_CP053959.1	3	868	-	rep13_13_repRC(pSK41)	1-866/924	========/======	2/2	93.61	85.93	plasmidfinder	AF051917	rep13_13_repRC(pSK41)_AF051917	

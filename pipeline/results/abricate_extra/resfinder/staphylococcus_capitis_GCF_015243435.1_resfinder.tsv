@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_015243435.1/GCF_015243435.1_ASM1524343v1_genomic.fna	NZ_CP042341.1	518613	519512	-	mph(C)_2	1-900/900	===============	0/0	100.00	100.00	resfinder	AF167161	mph(C)	Erythromycin;Spiramycin;Telithromycin
+data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_015243435.1/GCF_015243435.1_ASM1524343v1_genomic.fna	NZ_CP042341.1	519611	521077	-	msr(A)_1	1-1467/1467	===============	0/0	100.00	99.05	resfinder	X52085	msr(A)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Telithromycin;Virginiamycin_S

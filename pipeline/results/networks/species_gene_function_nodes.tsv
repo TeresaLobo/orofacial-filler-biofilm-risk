@@ -1,0 +1,117 @@
+id	label	type	degree
+actinomyces_naeslundii	actinomyces naeslundii	species	34
+adhesion_autolysin	adhesion autolysin	gene_or_function	17
+adhesion_collagen	adhesion collagen	gene_or_function	17
+adhesion_enolase	adhesion enolase	gene_or_function	17
+adhesion_fbp	adhesion fbp	gene_or_function	11
+adhesion_fibronectin	adhesion fibronectin	gene_or_function	15
+adhesion_sdr	adhesion sdr	gene_or_function	17
+biofilm_accumulation	biofilm accumulation	gene_or_function	17
+biofilm_ica	biofilm ica	gene_or_function	17
+biofilm_sasG	biofilm sasG	gene_or_function	17
+competence_com	competence com	gene_or_function	17
+enterococcus_ace	enterococcus ace	gene_or_function	17
+enterococcus_ebp	enterococcus ebp	gene_or_function	4
+enterococcus_efaA	enterococcus efaA	gene_or_function	17
+enterococcus_esp	enterococcus esp	gene_or_function	17
+enterococcus_fsr	enterococcus fsr	gene_or_function	17
+enterococcus_gelE	enterococcus gelE	gene_or_function	17
+fn_adhesin	fn adhesin	gene_or_function	17
+pg_fimbriae	pg fimbriae	gene_or_function	17
+pg_gingipain	pg gingipain	gene_or_function	17
+pg_hagA	pg hagA	gene_or_function	17
+pseudomonas_alg	pseudomonas alg	gene_or_function	17
+pseudomonas_las	pseudomonas las	gene_or_function	17
+pseudomonas_pel	pseudomonas pel	gene_or_function	17
+pseudomonas_pili	pseudomonas pili	gene_or_function	17
+pseudomonas_pqs	pseudomonas pqs	gene_or_function	17
+pseudomonas_psl	pseudomonas psl	gene_or_function	17
+pseudomonas_rhl	pseudomonas rhl	gene_or_function	17
+quorum_agr	quorum agr	gene_or_function	17
+regulation_sarA	regulation sarA	gene_or_function	17
+regulation_vicRK	regulation vicRK	gene_or_function	17
+sortase	sortase	gene_or_function	17
+streptococcus_gtf	streptococcus gtf	gene_or_function	17
+streptococcus_spaP	streptococcus spaP	gene_or_function	17
+td_virulence	td virulence	gene_or_function	17
+corynebacterium_striatum	corynebacterium striatum	species	42
+aac(3)-XI	aac(3)-XI	gene_or_function	1
+adhesion_clumping	adhesion clumping	gene_or_function	16
+aph(3'')-Ib	aph(3'')-Ib	gene_or_function	1
+aph(3')-Ia	aph(3')-Ia	gene_or_function	1
+aph(6)-Id	aph(6)-Id	gene_or_function	1
+cmx	cmx	gene_or_function	1
+erm(X)	erm(X)	gene_or_function	1
+pbp2m	pbp2m	gene_or_function	1
+tet(W)	tet(W)	gene_or_function	1
+tetA	tetA	gene_or_function	1
+cutibacterium_acnes	cutibacterium acnes	species	33
+enterococcus_faecalis	enterococcus faecalis	species	46
+aac(6')-Ie/aph(2'')-Ia	aac(6')-Ie/aph(2'')-Ia	gene_or_function	2
+ant(6)-Ia	ant(6)-Ia	gene_or_function	2
+aph(3')-IIIa	aph(3')-IIIa	gene_or_function	2
+dfrG	dfrG	gene_or_function	2
+enterococcus_asa	enterococcus asa	gene_or_function	1
+erm(B)	erm(B)	gene_or_function	2
+lsa(A)	lsa(A)	gene_or_function	1
+qacZ	qacZ	gene_or_function	1
+sat4	sat4	gene_or_function	2
+tet(M)	tet(M)	gene_or_function	6
+tf_bspA	tf bspA	gene_or_function	4
+fusobacterium_nucleatum	fusobacterium nucleatum	species	37
+porphyromonas_gingivalis	porphyromonas gingivalis	species	34
+erm	erm	gene_or_function	2
+prevotella_intermedia	prevotella intermedia	species	36
+cfxA	cfxA	gene_or_function	1
+tet(Q)	tet(Q)	gene_or_function	1
+staphylococcus_capitis	staphylococcus capitis	species	52
+aadD1	aadD1	gene_or_function	1
+ant(9)-Ia	ant(9)-Ia	gene_or_function	1
+blaI	blaI	gene_or_function	3
+blaR1	blaR1	gene_or_function	3
+blaZ	blaZ	gene_or_function	2
+bleO	bleO	gene_or_function	1
+dfrS1	dfrS1	gene_or_function	1
+erm(A)	erm(A)	gene_or_function	1
+fosB	fosB	gene_or_function	2
+mecA	mecA	gene_or_function	2
+mecI	mecI	gene_or_function	1
+mecR1	mecR1	gene_or_function	2
+mph(C)	mph(C)	gene_or_function	2
+msr(A)	msr(A)	gene_or_function	2
+qacB	qacB	gene_or_function	2
+stress_sigB	stress sigB	gene_or_function	3
+vga(A)	vga(A)	gene_or_function	2
+staphylococcus_epidermidis	staphylococcus epidermidis	species	44
+fusB	fusB	gene_or_function	1
+qacA	qacA	gene_or_function	2
+qacC	qacC	gene_or_function	1
+tet(K)	tet(K)	gene_or_function	2
+staphylococcus_haemolyticus	staphylococcus haemolyticus	species	52
+blaPC1	blaPC1	gene_or_function	1
+erm(C)	erm(C)	gene_or_function	1
+qac	qac	gene_or_function	1
+streptococcus_anginosus	streptococcus anginosus	species	50
+biofilm_brpA	biofilm brpA	gene_or_function	4
+mef(A)	mef(A)	gene_or_function	4
+msr(D)	msr(D)	gene_or_function	4
+streptococcus_gbp	streptococcus gbp	gene_or_function	2
+tet(32)	tet(32)	gene_or_function	1
+tet(O)	tet(O)	gene_or_function	1
+vanG	vanG	gene_or_function	1
+vanR-G	vanR-G	gene_or_function	1
+vanS-G	vanS-G	gene_or_function	1
+vanT-G	vanT-G	gene_or_function	1
+vanU-G	vanU-G	gene_or_function	1
+vanW-G	vanW-G	gene_or_function	1
+vanXY	vanXY	gene_or_function	1
+vanY-G1	vanY-G1	gene_or_function	1
+streptococcus_mitis	streptococcus mitis	species	39
+aac(6')	aac(6')	gene_or_function	2
+streptococcus_oralis	streptococcus oralis	species	38
+streptococcus_sanguinis	streptococcus sanguinis	species	38
+tannerella_forsythia	tannerella forsythia	species	35
+tet	tet	gene_or_function	1
+treponema_denticola	treponema denticola	species	34
+biofilm_bap	biofilm bap	gene_or_function	2
+veillonella_parvula	veillonella parvula	species	36

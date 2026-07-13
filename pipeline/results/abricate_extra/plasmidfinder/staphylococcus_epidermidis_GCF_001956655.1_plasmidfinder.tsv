@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_001956655.1/GCF_001956655.1_ASM195665v2_genomic.fna	NZ_CP018843.1	3920	4796	-	rep20_12_repA(SAP105B)	1-877/936	========/======	6/8	93.27	88.99	plasmidfinder	GQ900453	rep20_12_repA(SAP105B)_GQ900453	
+data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_001956655.1/GCF_001956655.1_ASM195665v2_genomic.fna	NZ_CP018844.1	5325	6181	-	rep5b_4_SAP106B007(SAP106B)	1-857/858	===============	0/0	99.88	96.85	plasmidfinder	GQ900455	rep5b_4_SAP106B007(SAP106B)_GQ900455	

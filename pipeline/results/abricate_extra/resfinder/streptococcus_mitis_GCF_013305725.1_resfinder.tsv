@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/streptococcus_mitis/ncbi_dataset/data/GCF_013305725.1/GCF_013305725.1_ASM1330572v1_genomic.fna	NZ_CP047883.1	982363	983580	+	mef(A)_2	1-1218/1218	===============	0/0	100.00	100.00	resfinder	U83667	mef(A)	Azithromycin;Erythromycin
+data/unzipped_genomes/streptococcus_mitis/ncbi_dataset/data/GCF_013305725.1/GCF_013305725.1_ASM1330572v1_genomic.fna	NZ_CP047883.1	983700	985163	+	msr(D)_2	1-1464/1464	===============	0/0	100.00	100.00	resfinder	AF274302	msr(D)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Telithromycin;Virginiamycin_S
+data/unzipped_genomes/streptococcus_mitis/ncbi_dataset/data/GCF_013305725.1/GCF_013305725.1_ASM1330572v1_genomic.fna	NZ_CP047883.1	1005010	1006929	+	tet(M)_13	1-1920/1920	===============	0/0	100.00	98.28	resfinder	AM990992	tet(M)	Doxycycline;Minocycline;Tetracycline

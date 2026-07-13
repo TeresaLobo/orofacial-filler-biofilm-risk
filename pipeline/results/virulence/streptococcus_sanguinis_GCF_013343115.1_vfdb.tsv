@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/streptococcus_sanguinis/ncbi_dataset/data/GCF_013343115.1/GCF_013343115.1_ASM1334311v1_genomic.fna	NZ_CP054570.1	1853306	1854142	+	psaA	94-930/930	.==============	0/0	90.00	80.41	vfdb	WP_000733059	(psaA) manganese ABC transporter manganese-binding adhesion liprotein [PsaA (VF0151) - Nutritional/Metabolic factor (VFC0272)] [Streptococcus pneumoniae TIGR4]	

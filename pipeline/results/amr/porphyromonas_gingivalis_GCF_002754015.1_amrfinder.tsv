@@ -1,0 +1,2 @@
+Protein id	Contig id	Start	Stop	Strand	Element symbol	Element name	Scope	Type	Subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference	% Identity to reference	Alignment length	Closest reference accession	Closest reference name	HMM accession	HMM description
+WP_004342665.1	NZ_CP024591.1	430869	431669	-	erm	23S ribosomal RNA methyltransferase Erm	core	AMR	AMR	MACROLIDE	MACROLIDE	HMM	266	266	100.00	63.53	266	WP_032488512.1	23S ribosomal RNA methyltransferase Erm	NF000499.2	23S ribosomal RNA methyltransferase Erm

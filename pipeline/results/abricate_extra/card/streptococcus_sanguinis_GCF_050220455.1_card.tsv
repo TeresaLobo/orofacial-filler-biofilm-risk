@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/streptococcus_sanguinis/ncbi_dataset/data/GCF_050220455.1/GCF_050220455.1_x_genomic.fna	NZ_CP071414.1	1491364	1492581	-	mel	1-1218/1218	===============	0/0	100.00	89.90	card	AF227521.1:3269-4487	Mel a homolog of MsrA is an ABC-F subfamily protein associated with macrolide resistance. It is expressed on the same operon as mefA and mefE both MFS-type efflux proteins that confer macrolide resistance.	macrolide;streptogramin

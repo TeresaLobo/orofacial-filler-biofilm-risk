@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/streptococcus_oralis/ncbi_dataset/data/GCF_001983955.1/GCF_001983955.1_ASM198395v1_genomic.fna	NZ_CP019562.1	935477	936694	+	mef(A)_2	1-1218/1218	===============	0/0	100.00	97.37	resfinder	U83667	mef(A)	Azithromycin;Erythromycin
+data/unzipped_genomes/streptococcus_oralis/ncbi_dataset/data/GCF_001983955.1/GCF_001983955.1_ASM198395v1_genomic.fna	NZ_CP019562.1	936814	938277	+	msr(D)_2	1-1464/1464	===============	0/0	100.00	100.00	resfinder	AF274302	msr(D)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Telithromycin;Virginiamycin_S

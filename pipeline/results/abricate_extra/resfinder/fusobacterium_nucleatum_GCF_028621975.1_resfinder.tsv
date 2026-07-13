@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_028621975.1/GCF_028621975.1_ASM2862197v1_genomic.fna	NZ_CP117525.1	1966491	1967253	+	erm(B)_18	1-762/762	========/======	1/1	100.00	98.95	resfinder	X66468	erm(B)	Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_028621975.1/GCF_028621975.1_ASM2862197v1_genomic.fna	NZ_CP117525.1	1977171	1979089	+	tet(M)_12	1-1919/1920	===============	0/0	99.95	97.81	resfinder	FR671418	tet(M)	Doxycycline;Minocycline;Tetracycline

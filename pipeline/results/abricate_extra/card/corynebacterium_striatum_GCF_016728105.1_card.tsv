@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/corynebacterium_striatum/ncbi_dataset/data/GCF_016728105.1/GCF_016728105.1_ASM1672810v1_genomic.fna	NZ_CP068158.1	27295	28149	-	ErmX	1-855/855	========/======	2/2	99.88	99.18	card	M36726.1:295-1150	ErmX is a rRNA methyltransferase that protects the ribosome from inactivation due to antibiotic binding.	lincosamide;macrolide;streptogramin;streptogramin_A;streptogramin_B

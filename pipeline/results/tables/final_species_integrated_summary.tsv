@@ -1,0 +1,18 @@
+species_folder	n_genomes	amr_hit_count	vfdb_hit_count	biofilm_adhesion_hit_count	amr_hits_per_genome	vfdb_hits_per_genome	biofilm_adhesion_hits_per_genome	species_label
+actinomyces_naeslundii	4	0	0	10464	0.0	0.0	2616.0	Actinomyces naeslundii
+corynebacterium_striatum	5	19	0	10171	3.8	0.0	2034.2	Corynebacterium striatum
+cutibacterium_acnes	5	0	0	9142	0.0	0.0	1828.4	Cutibacterium acnes
+enterococcus_faecalis	5	14	114	6880	2.8	22.8	1376.0	Enterococcus faecalis
+fusobacterium_nucleatum	5	2	0	4525	0.4	0.0	905.0	Fusobacterium nucleatum
+porphyromonas_gingivalis	5	2	0	5583	0.4	0.0	1116.6	Porphyromonas gingivalis
+prevotella_intermedia	5	5	0	5258	1.0	0.0	1051.6	Prevotella intermedia
+staphylococcus_capitis	5	32	0	5959	6.4	0.0	1191.8	Staphylococcus capitis
+staphylococcus_epidermidis	5	18	1	5700	3.6	0.2	1140.0	Staphylococcus epidermidis
+staphylococcus_haemolyticus	5	44	0	5964	8.8	0.0	1192.8	Staphylococcus haemolyticus
+streptococcus_anginosus	5	13	0	5024	2.6	0.0	1004.8	Streptococcus anginosus
+streptococcus_mitis	5	8	9	5089	1.6	1.8	1017.8	Streptococcus mitis
+streptococcus_oralis	5	7	21	5147	1.4	4.2	1029.4	Streptococcus oralis
+streptococcus_sanguinis	5	2	0	6318	0.4	0.0	1263.6	Streptococcus sanguinis
+tannerella_forsythia	3	1	0	4195	0.3333333333333333	0.0	1398.3333333333333	Tannerella forsythia
+treponema_denticola	5	0	0	5945	0.0	0.0	1189.0	Treponema denticola
+veillonella_parvula	5	1	0	5363	0.2	0.0	1072.6	Veillonella parvula

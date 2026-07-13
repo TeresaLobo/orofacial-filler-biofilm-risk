@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_002952715.2/GCF_002952715.2_ASM295271v2_genomic.fna	NZ_CP025031.1	549295	550417	-	cap8G	1-1123/1125	===============	0/0	99.82	81.21	vfdb	WP_000413169	(cap8G) type 8 capsular polysaccharide synthesis protein Cap8G [Capsule (VF0003) - Immune modulation (VFC0258)] [Staphylococcus aureus subsp. aureus MW2]	

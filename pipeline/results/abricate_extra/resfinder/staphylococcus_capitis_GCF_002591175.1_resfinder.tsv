@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_002591175.1/GCF_002591175.1_ASM259117v1_genomic.fna	NZ_CP023967.1	25584	26481	+	blaZ_29	3-900/900	===============	0/0	99.78	98.66	resfinder	JDXN01000019	blaZ	Amoxicillin;Ampicillin;Penicillin;Piperacillin

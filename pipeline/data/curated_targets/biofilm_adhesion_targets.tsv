@@ -1,0 +1,44 @@
+category	target_regex	description
+biofilm_ica	icaA|icaB|icaC|icaD|icaR	Staphylococcal intercellular adhesion locus
+biofilm_accumulation	aap|accumulation-associated protein	Biofilm accumulation-associated protein
+biofilm_bap	bap|biofilm-associated protein	Biofilm-associated protein
+adhesion_autolysin	atlE|autolysin	Autolysin-mediated adhesion
+adhesion_fibronectin	fnbA|fnbB|fibronectin	Fibronectin-binding proteins
+adhesion_clumping	clfA|clfB|clumping factor	Clumping factors
+adhesion_collagen	cna|collagen adhesin|collagen-binding	Collagen-binding adhesin
+adhesion_sdr	sdrC|sdrD|sdrE|serine-aspartate repeat	Serine-aspartate repeat adhesins
+biofilm_sasG	sasG	Staphylococcal surface protein G
+quorum_agr	agrA|agrB|agrC|agrD	Staphylococcal quorum sensing agr system
+regulation_sarA	sarA	Staphylococcal accessory regulator
+stress_sigB	sigB|sigma factor B	Stress response regulator
+streptococcus_gtf	gtfB|gtfC|gtfD|glucosyltransferase	Glucosyltransferases
+streptococcus_gbp	gbpA|gbpB|gbpC|gbpD|glucan-binding	Glucan-binding proteins
+streptococcus_spaP	spaP|pac|antigen I/II	Streptococcal adhesin antigen I/II
+biofilm_brpA	brpA	Biofilm regulatory protein A
+competence_com	comC|comD|comE	Competence quorum sensing
+quorum_luxS	luxS|autoinducer-2	AI-2 quorum sensing
+regulation_vicRK	vicR|vicK|covR|covS	Two-component biofilm regulation
+sortase	srtA|srtC|sortase	Sortase and surface protein anchoring
+adhesion_enolase	eno|enolase	Surface-associated enolase
+adhesion_fbp	fbp|fibronectin-binding	Fibronectin-binding protein
+enterococcus_esp	esp|enterococcal surface protein	Enterococcal biofilm surface protein
+enterococcus_asa	asa1|aggregation substance	Aggregation substance
+enterococcus_ace	ace|collagen adhesin	Collagen-binding adhesin
+enterococcus_efaA	efaA	Endocarditis-associated antigen
+enterococcus_gelE	gelE|gelatinase	Gelatinase
+enterococcus_fsr	fsrA|fsrB|fsrC	Enterococcal quorum sensing
+enterococcus_ebp	ebpA|ebpB|ebpC	Endocarditis/biofilm pili
+pseudomonas_alg	algD|algU|algR	Alginate pathway
+pseudomonas_pel	pelA|pelB|pelC|pelD|pelE|pelF|pelG	Pel exopolysaccharide
+pseudomonas_psl	pslA|pslB|pslC|pslD|pslE	Psl exopolysaccharide
+pseudomonas_las	lasI|lasR	Las quorum sensing
+pseudomonas_rhl	rhlI|rhlR	Rhl quorum sensing
+pseudomonas_pqs	pqsA|pqsB|pqsC|pqsD|pqsE|pqsR	PQS quorum sensing
+pseudomonas_pili	pilA|pilB|pilT|type IV pilus	Type IV pili
+pseudomonas_cup	cupA|cupB|cupC	CUP fimbriae
+pg_fimbriae	fimA|mfa1	Porphyromonas fimbriae
+pg_gingipain	rgpA|rgpB|kgp	Gingipain proteases
+pg_hagA	hagA	Hemagglutinin adhesin
+fn_adhesin	fadA|fap2|radD|fomA	Fusobacterium adhesins
+tf_bspA	bspA	Tannerella BspA adhesin
+td_virulence	prtP|dentilisin|msp	Treponema denticola virulence

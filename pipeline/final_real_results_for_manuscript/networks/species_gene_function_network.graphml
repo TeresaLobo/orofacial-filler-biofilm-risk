@@ -1,0 +1,3524 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="edge" attr.name="category" attr.type="string" />
+  <key id="d0" for="edge" attr.name="interaction" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="actinomyces_naeslundii" />
+    <node id="adhesion_autolysin" />
+    <node id="adhesion_collagen" />
+    <node id="adhesion_enolase" />
+    <node id="adhesion_fbp" />
+    <node id="adhesion_fibronectin" />
+    <node id="adhesion_sdr" />
+    <node id="biofilm_accumulation" />
+    <node id="biofilm_ica" />
+    <node id="biofilm_sasG" />
+    <node id="competence_com" />
+    <node id="enterococcus_ace" />
+    <node id="enterococcus_ebp" />
+    <node id="enterococcus_efaA" />
+    <node id="enterococcus_esp" />
+    <node id="enterococcus_fsr" />
+    <node id="enterococcus_gelE" />
+    <node id="fn_adhesin" />
+    <node id="pg_fimbriae" />
+    <node id="pg_gingipain" />
+    <node id="pg_hagA" />
+    <node id="pseudomonas_alg" />
+    <node id="pseudomonas_las" />
+    <node id="pseudomonas_pel" />
+    <node id="pseudomonas_pili" />
+    <node id="pseudomonas_pqs" />
+    <node id="pseudomonas_psl" />
+    <node id="pseudomonas_rhl" />
+    <node id="quorum_agr" />
+    <node id="regulation_sarA" />
+    <node id="regulation_vicRK" />
+    <node id="sortase" />
+    <node id="streptococcus_gtf" />
+    <node id="streptococcus_spaP" />
+    <node id="td_virulence" />
+    <node id="corynebacterium_striatum" />
+    <node id="aac(3)-XI" />
+    <node id="adhesion_clumping" />
+    <node id="aph(3'')-Ib" />
+    <node id="aph(3')-Ia" />
+    <node id="aph(6)-Id" />
+    <node id="cmx" />
+    <node id="erm(X)" />
+    <node id="pbp2m" />
+    <node id="tet(W)" />
+    <node id="tetA" />
+    <node id="cutibacterium_acnes" />
+    <node id="enterococcus_faecalis" />
+    <node id="aac(6')-Ie/aph(2'')-Ia" />
+    <node id="ant(6)-Ia" />
+    <node id="aph(3')-IIIa" />
+    <node id="dfrG" />
+    <node id="enterococcus_asa" />
+    <node id="erm(B)" />
+    <node id="lsa(A)" />
+    <node id="qacZ" />
+    <node id="sat4" />
+    <node id="tet(M)" />
+    <node id="tf_bspA" />
+    <node id="fusobacterium_nucleatum" />
+    <node id="porphyromonas_gingivalis" />
+    <node id="erm" />
+    <node id="prevotella_intermedia" />
+    <node id="cfxA" />
+    <node id="tet(Q)" />
+    <node id="staphylococcus_capitis" />
+    <node id="aadD1" />
+    <node id="ant(9)-Ia" />
+    <node id="blaI" />
+    <node id="blaR1" />
+    <node id="blaZ" />
+    <node id="bleO" />
+    <node id="dfrS1" />
+    <node id="erm(A)" />
+    <node id="fosB" />
+    <node id="mecA" />
+    <node id="mecI" />
+    <node id="mecR1" />
+    <node id="mph(C)" />
+    <node id="msr(A)" />
+    <node id="qacB" />
+    <node id="stress_sigB" />
+    <node id="vga(A)" />
+    <node id="staphylococcus_epidermidis" />
+    <node id="fusB" />
+    <node id="qacA" />
+    <node id="qacC" />
+    <node id="tet(K)" />
+    <node id="staphylococcus_haemolyticus" />
+    <node id="blaPC1" />
+    <node id="erm(C)" />
+    <node id="qac" />
+    <node id="streptococcus_anginosus" />
+    <node id="biofilm_brpA" />
+    <node id="mef(A)" />
+    <node id="msr(D)" />
+    <node id="streptococcus_gbp" />
+    <node id="tet(32)" />
+    <node id="tet(O)" />
+    <node id="vanG" />
+    <node id="vanR-G" />
+    <node id="vanS-G" />
+    <node id="vanT-G" />
+    <node id="vanU-G" />
+    <node id="vanW-G" />
+    <node id="vanXY" />
+    <node id="vanY-G1" />
+    <node id="streptococcus_mitis" />
+    <node id="aac(6')" />
+    <node id="streptococcus_oralis" />
+    <node id="streptococcus_sanguinis" />
+    <node id="tannerella_forsythia" />
+    <node id="tet" />
+    <node id="treponema_denticola" />
+    <node id="biofilm_bap" />
+    <node id="veillonella_parvula" />
+    <edge source="actinomyces_naeslundii" target="adhesion_autolysin">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="adhesion_collagen">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="adhesion_enolase">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="adhesion_fbp">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding protein</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="adhesion_fibronectin">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="adhesion_sdr">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="biofilm_accumulation">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="biofilm_ica">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="biofilm_sasG">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="competence_com">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="enterococcus_ace">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="enterococcus_ebp">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis/biofilm pili</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="enterococcus_efaA">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="enterococcus_esp">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="enterococcus_fsr">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="enterococcus_gelE">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="fn_adhesin">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="pg_fimbriae">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="pg_gingipain">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="pg_hagA">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="pseudomonas_alg">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="pseudomonas_las">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="pseudomonas_pel">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="pseudomonas_pili">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="pseudomonas_pqs">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="pseudomonas_psl">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="pseudomonas_rhl">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="quorum_agr">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="regulation_sarA">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="regulation_vicRK">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="sortase">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="streptococcus_gtf">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="streptococcus_spaP">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="actinomyces_naeslundii" target="td_virulence">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_autolysin" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Autolysin-mediated adhesion</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="adhesion_collagen" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_collagen" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="adhesion_enolase" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_enolase" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Surface-associated enolase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fbp" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fbp" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding protein</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="adhesion_fbp" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fbp" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fbp" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fbp" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fbp" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fbp" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fbp" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fbp" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_fibronectin" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fibronectin-binding proteins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="adhesion_sdr" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_sdr" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Serine-aspartate repeat adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_accumulation" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm accumulation-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="biofilm_ica" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_ica" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal intercellular adhesion locus</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="biofilm_sasG" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_sasG" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal surface protein G</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="competence_com" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="competence_com" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Competence quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="enterococcus_ace" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ace" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Collagen-binding adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ebp" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis/biofilm pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ebp" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis/biofilm pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_ebp" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis/biofilm pili</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_efaA" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Endocarditis-associated antigen</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="enterococcus_esp" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_esp" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal biofilm surface protein</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_fsr" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Enterococcal quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_gelE" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gelatinase</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="fn_adhesin" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="fn_adhesin" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Fusobacterium adhesins</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="pg_fimbriae" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_fimbriae" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Porphyromonas fimbriae</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="pg_gingipain" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_gingipain" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Gingipain proteases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="pg_hagA" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="pg_hagA" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pg_hagA" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Hemagglutinin adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_alg" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Alginate pathway</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="pseudomonas_las" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_las" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Las quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pel" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Pel exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pili" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Type IV pili</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_pqs" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">PQS quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_psl" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Psl exopolysaccharide</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="pseudomonas_rhl" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Rhl quorum sensing</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="quorum_agr" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="quorum_agr" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal quorum sensing agr system</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="regulation_sarA" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_sarA" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Staphylococcal accessory regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="regulation_vicRK" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="regulation_vicRK" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="regulation_vicRK" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Two-component biofilm regulation</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="sortase" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="sortase" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Sortase and surface protein anchoring</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_gtf" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucosyltransferases</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_spaP" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Streptococcal adhesin antigen I/II</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="corynebacterium_striatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="td_virulence" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="td_virulence" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Treponema denticola virulence</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="corynebacterium_striatum" target="aac(3)-XI">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="corynebacterium_striatum" target="adhesion_clumping">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="corynebacterium_striatum" target="aph(3'')-Ib">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="corynebacterium_striatum" target="aph(3')-Ia">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="corynebacterium_striatum" target="aph(6)-Id">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="corynebacterium_striatum" target="cmx">
+      <data key="d0">AMR</data>
+      <data key="d1">PHENICOL</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="corynebacterium_striatum" target="erm(X)">
+      <data key="d0">AMR</data>
+      <data key="d1">LINCOSAMIDE/MACROLIDE/STREPTOGRAMIN</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="corynebacterium_striatum" target="pbp2m">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="corynebacterium_striatum" target="tet(W)">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="corynebacterium_striatum" target="tetA">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="adhesion_clumping" target="cutibacterium_acnes">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="enterococcus_faecalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="porphyromonas_gingivalis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="staphylococcus_capitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="streptococcus_anginosus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="adhesion_clumping" target="treponema_denticola">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="adhesion_clumping" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Clumping factors</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="enterococcus_faecalis" target="aac(6')-Ie/aph(2'')-Ia">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="enterococcus_faecalis" target="ant(6)-Ia">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="enterococcus_faecalis" target="aph(3')-IIIa">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="enterococcus_faecalis" target="dfrG">
+      <data key="d0">AMR</data>
+      <data key="d1">TRIMETHOPRIM</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="enterococcus_faecalis" target="enterococcus_asa">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Aggregation substance</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="enterococcus_faecalis" target="erm(B)">
+      <data key="d0">AMR</data>
+      <data key="d1">LINCOSAMIDE/MACROLIDE/STREPTOGRAMIN</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="enterococcus_faecalis" target="lsa(A)">
+      <data key="d0">AMR</data>
+      <data key="d1">LINCOSAMIDE/STREPTOGRAMIN</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="enterococcus_faecalis" target="qacZ">
+      <data key="d0">AMR</data>
+      <data key="d1">QUATERNARY AMMONIUM</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="enterococcus_faecalis" target="sat4">
+      <data key="d0">AMR</data>
+      <data key="d1">STREPTOTHRICIN</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="enterococcus_faecalis" target="tet(M)">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="enterococcus_faecalis" target="tf_bspA">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Tannerella BspA adhesin</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="aac(6')-Ie/aph(2'')-Ia" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="ant(6)-Ia" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="aph(3')-IIIa" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="dfrG" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">TRIMETHOPRIM</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="erm(B)" target="fusobacterium_nucleatum">
+      <data key="d0">AMR</data>
+      <data key="d1">LINCOSAMIDE/MACROLIDE/STREPTOGRAMIN</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="sat4" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">STREPTOTHRICIN</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="tet(M)" target="fusobacterium_nucleatum">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="tet(M)" target="staphylococcus_capitis">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="tet(M)" target="streptococcus_anginosus">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="tet(M)" target="streptococcus_mitis">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="tet(M)" target="veillonella_parvula">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="tf_bspA" target="fusobacterium_nucleatum">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Tannerella BspA adhesin</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="tf_bspA" target="prevotella_intermedia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Tannerella BspA adhesin</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="tf_bspA" target="tannerella_forsythia">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Tannerella BspA adhesin</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="porphyromonas_gingivalis" target="erm">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="erm" target="prevotella_intermedia">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="prevotella_intermedia" target="cfxA">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="prevotella_intermedia" target="tet(Q)">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="aadD1">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="ant(9)-Ia">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="blaI">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="blaR1">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="blaZ">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="bleO">
+      <data key="d0">AMR</data>
+      <data key="d1">BLEOMYCIN</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="dfrS1">
+      <data key="d0">AMR</data>
+      <data key="d1">TRIMETHOPRIM</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="erm(A)">
+      <data key="d0">AMR</data>
+      <data key="d1">LINCOSAMIDE/MACROLIDE</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="fosB">
+      <data key="d0">AMR</data>
+      <data key="d1">FOSFOMYCIN</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="mecA">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="mecI">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="mecR1">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="mph(C)">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="msr(A)">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE/STREPTOGRAMIN</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="qacB">
+      <data key="d0">AMR</data>
+      <data key="d1">QUATERNARY AMMONIUM</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="stress_sigB">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Stress response regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="staphylococcus_capitis" target="vga(A)">
+      <data key="d0">AMR</data>
+      <data key="d1">LINCOSAMIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="blaI" target="staphylococcus_epidermidis">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="blaI" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="blaR1" target="staphylococcus_epidermidis">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="blaR1" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="blaZ" target="staphylococcus_epidermidis">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="fosB" target="staphylococcus_epidermidis">
+      <data key="d0">AMR</data>
+      <data key="d1">FOSFOMYCIN</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="mecA" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="mecR1" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="mph(C)" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="msr(A)" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE/STREPTOGRAMIN</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="qacB" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">QUATERNARY AMMONIUM</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="stress_sigB" target="staphylococcus_epidermidis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Stress response regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="stress_sigB" target="staphylococcus_haemolyticus">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Stress response regulator</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="vga(A)" target="staphylococcus_epidermidis">
+      <data key="d0">AMR</data>
+      <data key="d1">LINCOSAMIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="staphylococcus_epidermidis" target="fusB">
+      <data key="d0">AMR</data>
+      <data key="d1">FUSIDIC ACID</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="staphylococcus_epidermidis" target="qacA">
+      <data key="d0">AMR</data>
+      <data key="d1">QUATERNARY AMMONIUM</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="staphylococcus_epidermidis" target="qacC">
+      <data key="d0">AMR</data>
+      <data key="d1">QUATERNARY AMMONIUM</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="staphylococcus_epidermidis" target="tet(K)">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="qacA" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">QUATERNARY AMMONIUM</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="tet(K)" target="staphylococcus_haemolyticus">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="staphylococcus_haemolyticus" target="blaPC1">
+      <data key="d0">AMR</data>
+      <data key="d1">BETA-LACTAM</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="staphylococcus_haemolyticus" target="erm(C)">
+      <data key="d0">AMR</data>
+      <data key="d1">LINCOSAMIDE/MACROLIDE/STREPTOGRAMIN</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="staphylococcus_haemolyticus" target="qac">
+      <data key="d0">AMR</data>
+      <data key="d1">QUATERNARY AMMONIUM</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="biofilm_brpA">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm regulatory protein A</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="mef(A)">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="msr(D)">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE/STREPTOGRAMIN</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="streptococcus_gbp">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucan-binding proteins</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="tet(32)">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="tet(O)">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="vanG">
+      <data key="d0">AMR</data>
+      <data key="d1">GLYCOPEPTIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="vanR-G">
+      <data key="d0">AMR</data>
+      <data key="d1">GLYCOPEPTIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="vanS-G">
+      <data key="d0">AMR</data>
+      <data key="d1">GLYCOPEPTIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="vanT-G">
+      <data key="d0">AMR</data>
+      <data key="d1">GLYCOPEPTIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="vanU-G">
+      <data key="d0">AMR</data>
+      <data key="d1">GLYCOPEPTIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="vanW-G">
+      <data key="d0">AMR</data>
+      <data key="d1">GLYCOPEPTIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="vanXY">
+      <data key="d0">AMR</data>
+      <data key="d1">GLYCOPEPTIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_anginosus" target="vanY-G1">
+      <data key="d0">AMR</data>
+      <data key="d1">GLYCOPEPTIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="biofilm_brpA" target="streptococcus_mitis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm regulatory protein A</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_brpA" target="streptococcus_oralis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm regulatory protein A</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="biofilm_brpA" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm regulatory protein A</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="mef(A)" target="streptococcus_mitis">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="mef(A)" target="streptococcus_oralis">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="mef(A)" target="streptococcus_sanguinis">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="msr(D)" target="streptococcus_mitis">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE/STREPTOGRAMIN</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="msr(D)" target="streptococcus_oralis">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE/STREPTOGRAMIN</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="msr(D)" target="streptococcus_sanguinis">
+      <data key="d0">AMR</data>
+      <data key="d1">MACROLIDE/STREPTOGRAMIN</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="streptococcus_gbp" target="streptococcus_sanguinis">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Glucan-binding proteins</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="streptococcus_mitis" target="aac(6')">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="aac(6')" target="streptococcus_oralis">
+      <data key="d0">AMR</data>
+      <data key="d1">AMINOGLYCOSIDE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="tannerella_forsythia" target="tet">
+      <data key="d0">AMR</data>
+      <data key="d1">TETRACYCLINE</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="treponema_denticola" target="biofilm_bap">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm-associated protein</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="biofilm_bap" target="veillonella_parvula">
+      <data key="d0">Biofilm_adhesion</data>
+      <data key="d1">Biofilm-associated protein</data>
+      <data key="d2">5</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/tannerella_forsythia/ncbi_dataset/data/GCF_000238215.1/GCF_000238215.1_ASM23821v1_genomic.fna	NC_016610.1	1331035	1332960	+	tet(Q)_1	1-1926/1926	===============	0/0	100.00	90.50	resfinder	L33696	tet(Q)	Doxycycline;Minocycline;Tetracycline

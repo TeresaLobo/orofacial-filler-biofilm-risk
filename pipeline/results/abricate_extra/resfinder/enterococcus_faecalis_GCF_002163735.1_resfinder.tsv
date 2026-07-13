@@ -1,0 +1,2 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_002163735.1/GCF_002163735.1_ASM216373v1_genomic.fna	NZ_CP015883.1	2352704	2354200	-	lsa(A)_1	1-1497/1497	===============	0/0	100.00	99.06	resfinder	AY225127	lsa(A)	Clindamycin;Dalfopristin;Lincomycin;Pristinamycin_IIA;Virginiamycin_M
