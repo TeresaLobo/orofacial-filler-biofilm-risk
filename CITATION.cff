@@ -1,9 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 title: "Orofacial filler-associated biofilm risk: reproducible data and bioinformatic workflow"
-version: "1.0.2"
+version: "1.0.3"
 date-released: "2026-07-13"
-type: software
 authors:
   - family-names: "Lôbo"
     given-names: "Teresa de Lisieux Guedes Ferreira"
@@ -18,4 +17,3 @@ keywords:
   - "oral microbiota"
   - "antimicrobial resistance"
   - "comparative genomics"
-abstract: "Reproducible data, figures, Cytoscape networks and bioinformatic workflow associated with an integrative genomic analysis of oral and skin-associated bacteria relevant to orofacial filler-associated biofilm risk."
