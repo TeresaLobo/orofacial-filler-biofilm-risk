@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/corynebacterium_striatum/ncbi_dataset/data/GCF_002156805.1/GCF_002156805.1_ASM215680v1_genomic.fna
+Found 99 genes in data/unzipped_genomes/corynebacterium_striatum/ncbi_dataset/data/GCF_002156805.1/GCF_002156805.1_ASM215680v1_genomic.fna
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.

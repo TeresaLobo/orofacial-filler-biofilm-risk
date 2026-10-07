@@ -1,0 +1,5 @@
+Using nucl database card:  6052 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/streptococcus_oralis/ncbi_dataset/data/GCF_002386345.1/GCF_002386345.1_ASM238634v1_genomic.fna
+Found 5 genes in data/unzipped_genomes/streptococcus_oralis/ncbi_dataset/data/GCF_002386345.1/GCF_002386345.1_ASM238634v1_genomic.fna
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.

@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/prevotella_intermedia/ncbi_dataset/data/GCF_001548195.1/GCF_001548195.1_ASM154819v1_genomic.fna
+Found 37 genes in data/unzipped_genomes/prevotella_intermedia/ncbi_dataset/data/GCF_001548195.1/GCF_001548195.1_ASM154819v1_genomic.fna
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.

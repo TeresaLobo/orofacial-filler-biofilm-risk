@@ -1,0 +1,5 @@
+Using nucl database card:  6052 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_002085695.1/GCF_002085695.1_ASM208569v1_genomic.fna
+Found 3 genes in data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_002085695.1/GCF_002085695.1_ASM208569v1_genomic.fna
+Tip: the --fofn option allows you to feed in a big list of files to run on.
+Done.

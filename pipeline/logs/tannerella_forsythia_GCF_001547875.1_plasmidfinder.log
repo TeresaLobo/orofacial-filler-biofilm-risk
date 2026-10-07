@@ -1,0 +1,5 @@
+Using nucl database plasmidfinder:  488 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/tannerella_forsythia/ncbi_dataset/data/GCF_001547875.1/GCF_001547875.1_ASM154787v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/tannerella_forsythia/ncbi_dataset/data/GCF_001547875.1/GCF_001547875.1_ASM154787v1_genomic.fna
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.

@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/corynebacterium_striatum/ncbi_dataset/data/GCF_002803965.1/GCF_002803965.1_ASM280396v1_genomic.fna
+Found 103 genes in data/unzipped_genomes/corynebacterium_striatum/ncbi_dataset/data/GCF_002803965.1/GCF_002803965.1_ASM280396v1_genomic.fna
+Tip: the --fofn option allows you to feed in a big list of files to run on.
+Done.

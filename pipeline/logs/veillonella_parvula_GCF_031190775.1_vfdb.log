@@ -1,0 +1,5 @@
+Using nucl database vfdb:  4592 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/veillonella_parvula/ncbi_dataset/data/GCF_031190775.1/GCF_031190775.1_ASM3119077v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/veillonella_parvula/ncbi_dataset/data/GCF_031190775.1/GCF_031190775.1_ASM3119077v1_genomic.fna
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.

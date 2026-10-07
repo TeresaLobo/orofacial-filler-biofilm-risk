@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/actinomyces_naeslundii/ncbi_dataset/data/GCF_963340415.1/GCF_963340415.1_bc1017_genomic.fna
+Found 104 genes in data/unzipped_genomes/actinomyces_naeslundii/ncbi_dataset/data/GCF_963340415.1/GCF_963340415.1_bc1017_genomic.fna
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.

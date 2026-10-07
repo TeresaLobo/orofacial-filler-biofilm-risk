@@ -1,0 +1,5 @@
+Using nucl database card:  6052 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/cutibacterium_acnes/ncbi_dataset/data/GCF_001469655.1/GCF_001469655.1_ASM146965v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/cutibacterium_acnes/ncbi_dataset/data/GCF_001469655.1/GCF_001469655.1_ASM146965v1_genomic.fna
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.

@@ -1,0 +1,5 @@
+Using nucl database resfinder:  3206 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_002906615.1/GCF_002906615.1_ASM290661v1_genomic.fna
+Found 9 genes in data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_002906615.1/GCF_002906615.1_ASM290661v1_genomic.fna
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.

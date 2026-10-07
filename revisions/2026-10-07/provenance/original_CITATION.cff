@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Orofacial filler-associated biofilm risk: reproducible data and bioinformatic workflow"
+version: "1.0.3"
+date-released: "2026-07-13"
+authors:
+  - family-names: "Lôbo"
+    given-names: "Teresa de Lisieux Guedes Ferreira"
+    orcid: "https://orcid.org/0000-0003-0734-2284"
+repository-code: "https://github.com/TeresaLobo/orofacial-filler-biofilm-risk"
+url: "https://github.com/TeresaLobo/orofacial-filler-biofilm-risk"
+license: "MIT"
+keywords:
+  - "hyaluronic acid filler"
+  - "orofacial harmonization"
+  - "biofilm"
+  - "oral microbiota"
+  - "antimicrobial resistance"
+  - "comparative genomics"

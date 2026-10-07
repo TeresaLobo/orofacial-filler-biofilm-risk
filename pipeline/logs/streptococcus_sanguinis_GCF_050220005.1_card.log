@@ -1,0 +1,5 @@
+Using nucl database card:  6052 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/streptococcus_sanguinis/ncbi_dataset/data/GCF_050220005.1/GCF_050220005.1_x_genomic.fna
+Found 0 genes in data/unzipped_genomes/streptococcus_sanguinis/ncbi_dataset/data/GCF_050220005.1/GCF_050220005.1_x_genomic.fna
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.

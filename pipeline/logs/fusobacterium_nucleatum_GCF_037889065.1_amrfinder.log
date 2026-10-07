@@ -1,0 +1,12 @@
+Running: amrfinder -n data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_037889065.1/GCF_037889065.1_ASM3788906v1_genomic.fna -p data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_037889065.1/protein.faa -g data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_037889065.1/genomic.gff -o results/amr/fusobacterium_nucleatum_GCF_037889065.1_amrfinder.tsv
+Software directory: /home/lisieux/miniconda3/envs/orofacial_filler_biofilm/bin/
+Software version: 4.2.7
+Database directory: /home/lisieux/miniconda3/envs/orofacial_filler_biofilm/share/amrfinderplus/data/2026-05-15.1
+Database version: 2026-05-15.1
+AMRFinder combined translated and protein search
+  - include -O ORGANISM, --organism ORGANISM option to add mutation searches and suppress common proteins
+Running blastp
+Running hmmsearch
+Running tblastn
+Making report
+amrfinder took 22 seconds to complete

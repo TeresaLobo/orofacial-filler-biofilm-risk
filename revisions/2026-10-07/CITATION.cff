@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Review package, not publicly released. Confirm final release identifier before citation."
+title: "Resistance and adhesion annotations in 82 bacterial genomes relevant to orofacial filler research"
+version: "2026-10-07-review"
+authors:
+  - family-names: "Lôbo"
+    given-names: "Teresa de Lisieux Guedes Ferreira"
+    orcid: "https://orcid.org/0000-0003-0734-2284"
+repository-code: "https://github.com/TeresaLobo/orofacial-filler-biofilm-risk"
+license: "MIT"
+keywords:
+  - "bacterial annotation"
+  - "orofacial filler research"
+  - "antimicrobial resistance"
+  - "adhesion"

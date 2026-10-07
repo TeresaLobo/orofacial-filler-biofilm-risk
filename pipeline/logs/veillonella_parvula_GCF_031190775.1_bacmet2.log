@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/veillonella_parvula/ncbi_dataset/data/GCF_031190775.1/GCF_031190775.1_ASM3119077v1_genomic.fna
+Found 91 genes in data/unzipped_genomes/veillonella_parvula/ncbi_dataset/data/GCF_031190775.1/GCF_031190775.1_ASM3119077v1_genomic.fna
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.

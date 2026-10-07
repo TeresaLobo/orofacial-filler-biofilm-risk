@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/cutibacterium_acnes/ncbi_dataset/data/GCF_001469655.1/GCF_001469655.1_ASM146965v1_genomic.fna
+Found 89 genes in data/unzipped_genomes/cutibacterium_acnes/ncbi_dataset/data/GCF_001469655.1/GCF_001469655.1_ASM146965v1_genomic.fna
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.

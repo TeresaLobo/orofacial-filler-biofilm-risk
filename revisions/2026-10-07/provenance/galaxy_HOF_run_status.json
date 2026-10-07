@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-07",
+  "history_name": "HOF 82 genomas — bancos e rastreabilidade 2026-10-07",
+  "account_session_verified": true,
+  "genomes_uploaded": 82,
+  "input_zip_dataset": "26c75dcccb616ac85e537af19285de7d",
+  "unzip_job": "4838ba20a6d867653b519b788863da00",
+  "unzip_collection": "bbb5f8c3a3626246",
+  "database_inventory_job": "4838ba20a6d867652eb3f794457fa4cc",
+  "new_alignment_results_integrated": false,
+  "status": "Input transfer completed; Unzip and ABRicate List submitted. New alignment results not yet obtained.",
+  "unzip_job_state_observed": "running",
+  "database_inventory_state_observed": "queued",
+  "new_alignment_searches_submitted": false
+}

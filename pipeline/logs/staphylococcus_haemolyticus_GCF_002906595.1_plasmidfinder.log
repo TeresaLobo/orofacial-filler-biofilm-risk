@@ -1,0 +1,5 @@
+Using nucl database plasmidfinder:  488 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_002906595.1/GCF_002906595.1_ASM290659v1_genomic.fna
+Found 3 genes in data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_002906595.1/GCF_002906595.1_ASM290659v1_genomic.fna
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.

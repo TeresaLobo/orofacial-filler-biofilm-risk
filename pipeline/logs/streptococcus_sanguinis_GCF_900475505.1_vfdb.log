@@ -1,0 +1,5 @@
+Using nucl database vfdb:  4592 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/streptococcus_sanguinis/ncbi_dataset/data/GCF_900475505.1/GCF_900475505.1_42925_G01_genomic.fna
+Found 0 genes in data/unzipped_genomes/streptococcus_sanguinis/ncbi_dataset/data/GCF_900475505.1/GCF_900475505.1_42925_G01_genomic.fna
+Tip: the --fofn option allows you to feed in a big list of files to run on.
+Done.

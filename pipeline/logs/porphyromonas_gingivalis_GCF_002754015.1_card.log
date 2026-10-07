@@ -1,0 +1,5 @@
+Using nucl database card:  6052 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/porphyromonas_gingivalis/ncbi_dataset/data/GCF_002754015.1/GCF_002754015.1_ASM275401v1_genomic.fna
+Found 1 genes in data/unzipped_genomes/porphyromonas_gingivalis/ncbi_dataset/data/GCF_002754015.1/GCF_002754015.1_ASM275401v1_genomic.fna
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.

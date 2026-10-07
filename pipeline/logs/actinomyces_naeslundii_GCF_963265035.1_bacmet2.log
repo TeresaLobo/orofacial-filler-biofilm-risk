@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/actinomyces_naeslundii/ncbi_dataset/data/GCF_963265035.1/GCF_963265035.1_NZ_220527_assembly_041_genomic.fna
+Found 103 genes in data/unzipped_genomes/actinomyces_naeslundii/ncbi_dataset/data/GCF_963265035.1/GCF_963265035.1_NZ_220527_assembly_041_genomic.fna
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.

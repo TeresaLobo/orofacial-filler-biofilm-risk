@@ -1,0 +1,5 @@
+Using nucl database plasmidfinder:  488 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_020883475.1/GCF_020883475.1_ASM2088347v1_genomic.fna
+Found 1 genes in data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_020883475.1/GCF_020883475.1_ASM2088347v1_genomic.fna
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.

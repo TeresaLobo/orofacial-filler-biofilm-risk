@@ -1,0 +1,5 @@
+Using nucl database resfinder:  3206 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_002163735.1/GCF_002163735.1_ASM216373v1_genomic.fna
+Found 1 genes in data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_002163735.1/GCF_002163735.1_ASM216373v1_genomic.fna
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.

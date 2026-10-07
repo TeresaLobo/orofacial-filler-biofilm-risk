@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/tannerella_forsythia/ncbi_dataset/data/GCF_000238215.1/GCF_000238215.1_ASM23821v1_genomic.fna
+Found 53 genes in data/unzipped_genomes/tannerella_forsythia/ncbi_dataset/data/GCF_000238215.1/GCF_000238215.1_ASM23821v1_genomic.fna
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.

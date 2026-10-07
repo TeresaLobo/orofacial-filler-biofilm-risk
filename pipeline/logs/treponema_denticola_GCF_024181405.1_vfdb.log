@@ -1,0 +1,5 @@
+Using nucl database vfdb:  4592 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/treponema_denticola/ncbi_dataset/data/GCF_024181405.1/GCF_024181405.1_ASM2418140v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/treponema_denticola/ncbi_dataset/data/GCF_024181405.1/GCF_024181405.1_ASM2418140v1_genomic.fna
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.

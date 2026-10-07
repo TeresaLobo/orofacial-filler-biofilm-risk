@@ -1,0 +1,5 @@
+Using nucl database vfdb:  4592 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/streptococcus_mitis/ncbi_dataset/data/GCF_001281025.1/GCF_001281025.1_ASM128102v1_genomic.fna
+Found 3 genes in data/unzipped_genomes/streptococcus_mitis/ncbi_dataset/data/GCF_001281025.1/GCF_001281025.1_ASM128102v1_genomic.fna
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.

@@ -1,0 +1,12 @@
+Running: amrfinder -n data/unzipped_genomes/prevotella_intermedia/ncbi_dataset/data/GCF_002763575.1/GCF_002763575.1_ASM276357v1_genomic.fna -p data/unzipped_genomes/prevotella_intermedia/ncbi_dataset/data/GCF_002763575.1/protein.faa -g data/unzipped_genomes/prevotella_intermedia/ncbi_dataset/data/GCF_002763575.1/genomic.gff -o results/amr/prevotella_intermedia_GCF_002763575.1_amrfinder.tsv
+Software directory: /home/lisieux/miniconda3/envs/orofacial_filler_biofilm/bin/
+Software version: 4.2.7
+Database directory: /home/lisieux/miniconda3/envs/orofacial_filler_biofilm/share/amrfinderplus/data/2026-05-15.1
+Database version: 2026-05-15.1
+AMRFinder combined translated and protein search
+  - include -O ORGANISM, --organism ORGANISM option to add mutation searches and suppress common proteins
+Running blastp
+Running hmmsearch
+Running tblastn
+Making report
+amrfinder took 29 seconds to complete

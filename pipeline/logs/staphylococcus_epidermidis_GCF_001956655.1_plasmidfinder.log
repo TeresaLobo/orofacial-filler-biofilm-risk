@@ -1,0 +1,5 @@
+Using nucl database plasmidfinder:  488 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_001956655.1/GCF_001956655.1_ASM195665v2_genomic.fna
+Found 2 genes in data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_001956655.1/GCF_001956655.1_ASM195665v2_genomic.fna
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.

@@ -1,0 +1,5 @@
+Using nucl database victors:  4545 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_001611955.1/GCF_001611955.1_ASM161195v1_genomic.fna
+Found 7 genes in data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_001611955.1/GCF_001611955.1_ASM161195v1_genomic.fna
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.

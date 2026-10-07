@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_002591175.1/GCF_002591175.1_ASM259117v1_genomic.fna
+Found 112 genes in data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_002591175.1/GCF_002591175.1_ASM259117v1_genomic.fna
+Tip: the --fofn option allows you to feed in a big list of files to run on.
+Done.

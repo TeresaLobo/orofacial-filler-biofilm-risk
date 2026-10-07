@@ -1,0 +1,5 @@
+Using nucl database victors:  4545 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/streptococcus_mitis/ncbi_dataset/data/GCF_018603625.2/GCF_018603625.2_ASM1860362v2_genomic.fna
+Found 165 genes in data/unzipped_genomes/streptococcus_mitis/ncbi_dataset/data/GCF_018603625.2/GCF_018603625.2_ASM1860362v2_genomic.fna
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.

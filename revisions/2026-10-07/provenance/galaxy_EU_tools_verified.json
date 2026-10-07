@@ -1,0 +1,511 @@
+{
+  "url": "https://usegalaxy.eu/api/tools?in_panel=false",
+  "checked": "2026-10-07",
+  "tools": [
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate/1.0.1",
+      "name": "ABRicate",
+      "version": "1.0.1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate_list/1.0.1",
+      "name": "ABRicate List",
+      "version": "1.0.1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate_summary/1.0.1",
+      "name": "ABRicate Summary",
+      "version": "1.0.1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/amrfinderplus/amrfinderplus/3.11.26+galaxy0",
+      "name": "AMRFinderPlus",
+      "version": "3.11.26+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/amrfinderplus/amrfinderplus/3.11.26+galaxy1",
+      "name": "AMRFinderPlus",
+      "version": "3.11.26+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/amrfinderplus/amrfinderplus/3.12.8+galaxy0",
+      "name": "AMRFinderPlus",
+      "version": "3.12.8+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate/1.4.0",
+      "name": "ABRicate",
+      "version": "1.4.0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate_list/1.4.0",
+      "name": "ABRicate List",
+      "version": "1.4.0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate_summary/1.4.0",
+      "name": "ABRicate Summary",
+      "version": "1.4.0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/amrfinderplus/amrfinderplus/4.2.7+galaxy0",
+      "name": "AMRFinderPlus",
+      "version": "4.2.7+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate/1.4.0+galaxy1",
+      "name": "ABRicate",
+      "version": "1.4.0+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate_list/1.4.0+galaxy1",
+      "name": "ABRicate List",
+      "version": "1.4.0+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate_summary/1.4.0+galaxy1",
+      "name": "ABRicate Summary",
+      "version": "1.4.0+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/2.10.1+galaxy1",
+      "name": "NCBI BLAST+ blastp",
+      "version": "2.10.1+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/2.10.1+galaxy2",
+      "name": "NCBI BLAST+ blastp",
+      "version": "2.10.1+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/2.14.1+galaxy0",
+      "name": "NCBI BLAST+ blastp",
+      "version": "2.14.1+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/2.14.1+galaxy1",
+      "name": "NCBI BLAST+ blastp",
+      "version": "2.14.1+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/2.14.1+galaxy2",
+      "name": "NCBI BLAST+ blastp",
+      "version": "2.14.1+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/2.16.0+galaxy0",
+      "name": "NCBI BLAST+ blastp",
+      "version": "2.16.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.1.01",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.1.01"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.1.04",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.1.04"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_taxonomy_wf/checkm_taxonomy_wf/1.2.0+galaxy0",
+      "name": "CheckM taxonomy_wf",
+      "version": "1.2.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tree/checkm_tree/1.2.0+galaxy0",
+      "name": "CheckM tree",
+      "version": "1.2.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_lineage_wf/checkm_lineage_wf/1.2.0+galaxy0",
+      "name": "CheckM lineage_wf",
+      "version": "1.2.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tree_qa/checkm_tree_qa/1.2.0+galaxy0",
+      "name": "CheckM tree_qa",
+      "version": "1.2.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_analyze/checkm_analyze/1.2.0+galaxy0",
+      "name": "CheckM analyze",
+      "version": "1.2.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tetra/checkm_tetra/1.2.0+galaxy0",
+      "name": "CheckM tetra",
+      "version": "1.2.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_qa/checkm_qa/1.2.0+galaxy0",
+      "name": "CheckM qa",
+      "version": "1.2.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_taxon_set/checkm_taxon_set/1.2.0+galaxy0",
+      "name": "CheckM taxon_set",
+      "version": "1.2.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_plot/checkm_plot/1.2.0+galaxy0",
+      "name": "CheckM plot",
+      "version": "1.2.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_lineage_set/checkm_lineage_set/1.2.0+galaxy0",
+      "name": "CheckM lineage_set",
+      "version": "1.2.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_analyze/checkm_analyze/1.2.3+galaxy0",
+      "name": "CheckM analyze",
+      "version": "1.2.3+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_lineage_set/checkm_lineage_set/1.2.3+galaxy0",
+      "name": "CheckM lineage_set",
+      "version": "1.2.3+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_lineage_wf/checkm_lineage_wf/1.2.3+galaxy0",
+      "name": "CheckM lineage_wf",
+      "version": "1.2.3+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_plot/checkm_plot/1.2.3+galaxy0",
+      "name": "CheckM plot",
+      "version": "1.2.3+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_qa/checkm_qa/1.2.3+galaxy0",
+      "name": "CheckM qa",
+      "version": "1.2.3+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_taxon_set/checkm_taxon_set/1.2.3+galaxy0",
+      "name": "CheckM taxon_set",
+      "version": "1.2.3+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_taxonomy_wf/checkm_taxonomy_wf/1.2.3+galaxy0",
+      "name": "CheckM taxonomy_wf",
+      "version": "1.2.3+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tetra/checkm_tetra/1.2.3+galaxy0",
+      "name": "CheckM tetra",
+      "version": "1.2.3+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tree/checkm_tree/1.2.3+galaxy0",
+      "name": "CheckM tree",
+      "version": "1.2.3+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tree_qa/checkm_tree_qa/1.2.3+galaxy0",
+      "name": "CheckM tree_qa",
+      "version": "1.2.3+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm2/checkm2/1.0.2+galaxy0",
+      "name": "checkm2",
+      "version": "1.0.2+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm2/checkm2/1.0.2+galaxy1",
+      "name": "checkm2",
+      "version": "1.0.2+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_analyze/checkm_analyze/1.2.4+galaxy1",
+      "name": "CheckM analyze",
+      "version": "1.2.4+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_lineage_set/checkm_lineage_set/1.2.4+galaxy1",
+      "name": "CheckM lineage_set",
+      "version": "1.2.4+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_lineage_wf/checkm_lineage_wf/1.2.4+galaxy1",
+      "name": "CheckM lineage_wf",
+      "version": "1.2.4+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_plot/checkm_plot/1.2.4+galaxy1",
+      "name": "CheckM plot",
+      "version": "1.2.4+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_qa/checkm_qa/1.2.4+galaxy1",
+      "name": "CheckM qa",
+      "version": "1.2.4+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_taxon_set/checkm_taxon_set/1.2.4+galaxy1",
+      "name": "CheckM taxon_set",
+      "version": "1.2.4+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_taxonomy_wf/checkm_taxonomy_wf/1.2.4+galaxy1",
+      "name": "CheckM taxonomy_wf",
+      "version": "1.2.4+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tetra/checkm_tetra/1.2.4+galaxy1",
+      "name": "CheckM tetra",
+      "version": "1.2.4+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tree/checkm_tree/1.2.4+galaxy1",
+      "name": "CheckM tree",
+      "version": "1.2.4+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tree_qa/checkm_tree_qa/1.2.4+galaxy1",
+      "name": "CheckM tree_qa",
+      "version": "1.2.4+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_analyze/checkm_analyze/1.2.4+galaxy2",
+      "name": "CheckM analyze",
+      "version": "1.2.4+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_lineage_set/checkm_lineage_set/1.2.4+galaxy2",
+      "name": "CheckM lineage_set",
+      "version": "1.2.4+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_lineage_wf/checkm_lineage_wf/1.2.4+galaxy2",
+      "name": "CheckM lineage_wf",
+      "version": "1.2.4+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_plot/checkm_plot/1.2.4+galaxy2",
+      "name": "CheckM plot",
+      "version": "1.2.4+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_qa/checkm_qa/1.2.4+galaxy2",
+      "name": "CheckM qa",
+      "version": "1.2.4+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_taxon_set/checkm_taxon_set/1.2.4+galaxy2",
+      "name": "CheckM taxon_set",
+      "version": "1.2.4+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_taxonomy_wf/checkm_taxonomy_wf/1.2.4+galaxy2",
+      "name": "CheckM taxonomy_wf",
+      "version": "1.2.4+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tetra/checkm_tetra/1.2.4+galaxy2",
+      "name": "CheckM tetra",
+      "version": "1.2.4+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tree/checkm_tree/1.2.4+galaxy2",
+      "name": "CheckM tree",
+      "version": "1.2.4+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tree_qa/checkm_tree_qa/1.2.4+galaxy2",
+      "name": "CheckM tree_qa",
+      "version": "1.2.4+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm2/checkm2/1.0.2+galaxy2",
+      "name": "checkm2",
+      "version": "1.0.2+galaxy2"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm2/checkm2/1.1.0+galaxy0",
+      "name": "checkm2",
+      "version": "1.1.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_analyze/checkm_analyze/1.2.5+galaxy0",
+      "name": "CheckM analyze",
+      "version": "1.2.5+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_lineage_set/checkm_lineage_set/1.2.5+galaxy0",
+      "name": "CheckM lineage_set",
+      "version": "1.2.5+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_lineage_wf/checkm_lineage_wf/1.2.5+galaxy0",
+      "name": "CheckM lineage_wf",
+      "version": "1.2.5+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_plot/checkm_plot/1.2.5+galaxy0",
+      "name": "CheckM plot",
+      "version": "1.2.5+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_qa/checkm_qa/1.2.5+galaxy0",
+      "name": "CheckM qa",
+      "version": "1.2.5+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_taxon_set/checkm_taxon_set/1.2.5+galaxy0",
+      "name": "CheckM taxon_set",
+      "version": "1.2.5+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_taxonomy_wf/checkm_taxonomy_wf/1.2.5+galaxy0",
+      "name": "CheckM taxonomy_wf",
+      "version": "1.2.5+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tetra/checkm_tetra/1.2.5+galaxy0",
+      "name": "CheckM tetra",
+      "version": "1.2.5+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tree/checkm_tree/1.2.5+galaxy0",
+      "name": "CheckM tree",
+      "version": "1.2.5+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm_tree_qa/checkm_tree_qa/1.2.5+galaxy0",
+      "name": "CheckM tree_qa",
+      "version": "1.2.5+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/checkm2/checkm2/1.1.0+galaxy1",
+      "name": "checkm2",
+      "version": "1.1.0+galaxy1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.1.06",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.1.06"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.1.07",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.1.07"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.1.08",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.1.08"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.2.00",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.2.00"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.2.01",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.2.01"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.0.11",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.0.11"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate_list/0.1.0",
+      "name": "ABRicate List",
+      "version": "0.1.0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate/0.1.0",
+      "name": "ABRicate",
+      "version": "0.1.0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.0.22",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.0.22"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.1.00",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.1.00"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.0.14",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.0.14"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.0.19",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.0.19"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate/0.8",
+      "name": "ABRicate",
+      "version": "0.8"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate_list/0.8",
+      "name": "ABRicate List",
+      "version": "0.8"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.3.0",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.3.0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.3.1",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.3.1"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/0.3.3",
+      "name": "NCBI BLAST+ blastp",
+      "version": "0.3.3"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/maciek/spamr_vet_tools/mlst_amr_staramr/0.1.0+galaxy0",
+      "name": "MLST, AMRfinder, and STARamr Analysis",
+      "version": "0.1.0+galaxy0"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate/0.9.3",
+      "name": "ABRicate",
+      "version": "0.9.3"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate_list/0.9.3",
+      "name": "ABRicate List",
+      "version": "0.9.3"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate_list/0.9.7",
+      "name": "ABRicate List",
+      "version": "0.9.7"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate/0.9.7",
+      "name": "ABRicate",
+      "version": "0.9.7"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate/0.9.8",
+      "name": "ABRicate",
+      "version": "0.9.8"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/iuc/abricate/abricate_list/0.9.8",
+      "name": "ABRicate List",
+      "version": "0.9.8"
+    },
+    {
+      "id": "toolshed.g2.bx.psu.edu/repos/devteam/ncbi_blast_plus/ncbi_blastp_wrapper/2.10.1+galaxy0",
+      "name": "NCBI BLAST+ blastp",
+      "version": "2.10.1+galaxy0"
+    }
+  ]
+}

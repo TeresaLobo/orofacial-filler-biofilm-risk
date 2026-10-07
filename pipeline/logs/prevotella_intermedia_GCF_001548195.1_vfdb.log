@@ -1,0 +1,5 @@
+Using nucl database vfdb:  4592 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/prevotella_intermedia/ncbi_dataset/data/GCF_001548195.1/GCF_001548195.1_ASM154819v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/prevotella_intermedia/ncbi_dataset/data/GCF_001548195.1/GCF_001548195.1_ASM154819v1_genomic.fna
+Tip: the --fofn option allows you to feed in a big list of files to run on.
+Done.

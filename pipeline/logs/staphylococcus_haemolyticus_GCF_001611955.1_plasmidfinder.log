@@ -1,0 +1,5 @@
+Using nucl database plasmidfinder:  488 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_001611955.1/GCF_001611955.1_ASM161195v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_001611955.1/GCF_001611955.1_ASM161195v1_genomic.fna
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.

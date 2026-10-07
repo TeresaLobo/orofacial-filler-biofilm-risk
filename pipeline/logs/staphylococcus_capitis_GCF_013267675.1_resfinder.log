@@ -1,0 +1,5 @@
+Using nucl database resfinder:  3206 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_013267675.1/GCF_013267675.1_ASM1326767v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_013267675.1/GCF_013267675.1_ASM1326767v1_genomic.fna
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.

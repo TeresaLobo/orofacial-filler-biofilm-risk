@@ -1,0 +1,5 @@
+Using nucl database card:  6052 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_001689055.2/GCF_001689055.2_ASM168905v2_genomic.fna
+Found 6 genes in data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_001689055.2/GCF_001689055.2_ASM168905v2_genomic.fna
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.

@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_000759555.1/GCF_000759555.1_ASM75955v1_genomic.fna
+Found 114 genes in data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_000759555.1/GCF_000759555.1_ASM75955v1_genomic.fna
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.

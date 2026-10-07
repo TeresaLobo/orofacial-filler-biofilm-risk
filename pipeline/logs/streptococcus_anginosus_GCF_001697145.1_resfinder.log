@@ -1,0 +1,5 @@
+Using nucl database resfinder:  3206 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/streptococcus_anginosus/ncbi_dataset/data/GCF_001697145.1/GCF_001697145.1_ASM169714v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/streptococcus_anginosus/ncbi_dataset/data/GCF_001697145.1/GCF_001697145.1_ASM169714v1_genomic.fna
+Tip: the --fofn option allows you to feed in a big list of files to run on.
+Done.

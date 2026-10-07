@@ -1,0 +1,5 @@
+Using nucl database resfinder:  3206 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/prevotella_intermedia/ncbi_dataset/data/GCF_001953935.1/GCF_001953935.1_ASM195393v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/prevotella_intermedia/ncbi_dataset/data/GCF_001953935.1/GCF_001953935.1_ASM195393v1_genomic.fna
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.

@@ -1,0 +1,5 @@
+Using nucl database vfdb:  4592 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_002163735.1/GCF_002163735.1_ASM216373v1_genomic.fna
+Found 34 genes in data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_002163735.1/GCF_002163735.1_ASM216373v1_genomic.fna
+Tip: the --fofn option allows you to feed in a big list of files to run on.
+Done.

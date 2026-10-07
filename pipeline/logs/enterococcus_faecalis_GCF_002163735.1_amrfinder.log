@@ -1,0 +1,12 @@
+Running: amrfinder -n data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_002163735.1/GCF_002163735.1_ASM216373v1_genomic.fna -p data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_002163735.1/protein.faa -g data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_002163735.1/genomic.gff -o results/amr/enterococcus_faecalis_GCF_002163735.1_amrfinder.tsv
+Software directory: /home/lisieux/miniconda3/envs/orofacial_filler_biofilm/bin/
+Software version: 4.2.7
+Database directory: /home/lisieux/miniconda3/envs/orofacial_filler_biofilm/share/amrfinderplus/data/2026-05-15.1
+Database version: 2026-05-15.1
+AMRFinder combined translated and protein search
+  - include -O ORGANISM, --organism ORGANISM option to add mutation searches and suppress common proteins
+Running blastp
+Running hmmsearch
+Running tblastn
+Making report
+amrfinder took 43 seconds to complete

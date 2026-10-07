@@ -1,0 +1,5 @@
+Using nucl database vfdb:  4592 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_000759555.1/GCF_000759555.1_ASM75955v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_000759555.1/GCF_000759555.1_ASM75955v1_genomic.fna
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.

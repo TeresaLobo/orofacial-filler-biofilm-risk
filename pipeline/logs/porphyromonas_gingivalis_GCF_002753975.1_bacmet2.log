@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/porphyromonas_gingivalis/ncbi_dataset/data/GCF_002753975.1/GCF_002753975.1_ASM275397v1_genomic.fna
+Found 46 genes in data/unzipped_genomes/porphyromonas_gingivalis/ncbi_dataset/data/GCF_002753975.1/GCF_002753975.1_ASM275397v1_genomic.fna
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.

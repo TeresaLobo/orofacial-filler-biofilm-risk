@@ -1,0 +1,5 @@
+Using nucl database plasmidfinder:  488 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/corynebacterium_striatum/ncbi_dataset/data/GCF_002803965.1/GCF_002803965.1_ASM280396v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/corynebacterium_striatum/ncbi_dataset/data/GCF_002803965.1/GCF_002803965.1_ASM280396v1_genomic.fna
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.

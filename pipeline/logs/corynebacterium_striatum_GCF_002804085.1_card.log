@@ -1,0 +1,5 @@
+Using nucl database card:  6052 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/corynebacterium_striatum/ncbi_dataset/data/GCF_002804085.1/GCF_002804085.1_ASM280408v1_genomic.fna
+Found 2 genes in data/unzipped_genomes/corynebacterium_striatum/ncbi_dataset/data/GCF_002804085.1/GCF_002804085.1_ASM280408v1_genomic.fna
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.

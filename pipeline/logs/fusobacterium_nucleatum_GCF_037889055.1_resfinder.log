@@ -1,0 +1,5 @@
+Using nucl database resfinder:  3206 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_037889055.1/GCF_037889055.1_ASM3788905v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_037889055.1/GCF_037889055.1_ASM3788905v1_genomic.fna
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.

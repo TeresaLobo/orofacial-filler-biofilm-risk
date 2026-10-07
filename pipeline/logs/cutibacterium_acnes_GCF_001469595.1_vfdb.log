@@ -1,0 +1,5 @@
+Using nucl database vfdb:  4592 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/cutibacterium_acnes/ncbi_dataset/data/GCF_001469595.1/GCF_001469595.1_ASM146959v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/cutibacterium_acnes/ncbi_dataset/data/GCF_001469595.1/GCF_001469595.1_ASM146959v1_genomic.fna
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.

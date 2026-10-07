@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/cutibacterium_acnes/ncbi_dataset/data/GCF_001469565.1/GCF_001469565.1_ASM146956v1_genomic.fna
+Found 90 genes in data/unzipped_genomes/cutibacterium_acnes/ncbi_dataset/data/GCF_001469565.1/GCF_001469565.1_ASM146956v1_genomic.fna
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.

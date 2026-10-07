@@ -1,0 +1,5 @@
+Using nucl database vfdb:  4592 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/streptococcus_anginosus/ncbi_dataset/data/GCF_008726365.3/GCF_008726365.3_ASM872636v3_genomic.fna
+Found 1 genes in data/unzipped_genomes/streptococcus_anginosus/ncbi_dataset/data/GCF_008726365.3/GCF_008726365.3_ASM872636v3_genomic.fna
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.

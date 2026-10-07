@@ -1,45 +1,39 @@
-# Orofacial filler-associated biofilm risk
+# Resistance and adhesion annotations in 82 bacterial genomes
 
-This repository contains the reproducible materials, tables, figures, networks and bioinformatic workflow associated with the manuscript:
+The corrected review version is in [revisions/2026-10-07](revisions/2026-10-07/LEIA_PRIMEIRO.md). It supersedes the previous biological interpretation and derived outputs. This is an exploratory analysis of public genome annotations relevant to orofacial filler research; it does not measure clinical risk, experimentally confirm biofilms or evaluate botulinum toxin.
 
-**Orofacial filler-associated biofilm risk: an integrative genomic analysis of oral and skin-associated bacteria**
+## Corrections
 
-## Repository structure
+- The legacy adhesion screen searched amino acid strings and counted repeated annotations. The revised screen evaluates structured GFF annotation fields, uses bounded names and genus restrictions, excludes pseudogenes and deduplicates loci: 1,009 candidate loci, including 543 named-symbol candidates. These are not experimentally validated biofilm determinants.
+- The 82 assemblies cover 17 species selected as the first available entries of archived RefSeq complete-genome queries. Selection is by convenience. Sixty-six assemblies pass the post hoc strict CheckM and sequence-integrity filter; Prevotella intermedia has no retained assembly in that subset.
+- AMRFinderPlus outputs contain 158 AMR and 10 STRESS records, reported separately.
+- Individual ABRicate files were reconstructed with their actual #FILE header. Explicit BacMet2 protein identity >=80% and coverage >=70% filtering retains 192 of 7,412 archived alignments.
+- Species summaries, rank sensitivity, bootstrap summaries, PCA and association edges were regenerated. Rankings are descriptive and cannot predict clinical outcomes.
 
-- `tables/`: main and supplementary tables in Excel format.
-- `figures/`: publication-ready figures.
-- `pipeline/`: WSL/Ubuntu bioinformatic pipeline.
-- `scripts/`: helper scripts.
-- `results/`: processed outputs.
-- `networks/`: Cytoscape/GraphML network files.
-- `docs/`: protocol, extraction templates and submission documentation.
+## Read the corrected materials
 
-## Main analyses
+[Manuscript](revisions/2026-10-07/manuscript/HOF_BJOS_Manuscrito_REVISAR.pdf), [tables](revisions/2026-10-07/tables/), [figures](revisions/2026-10-07/figures/), [workbook](revisions/2026-10-07/HOF_Tabelas_Corrigidas.xlsx), [provenance](revisions/2026-10-07/provenance/) and [Galaxy guidance](revisions/2026-10-07/GALAXY.md).
 
-The workflow includes:
+## Reconstruct the corrected outputs without WSL
 
-- genome retrieval from NCBI RefSeq/GenBank;
-- AMRFinderPlus antimicrobial resistance screening;
-- ABRicate screening against VFDB, CARD, ResFinder, BacMet2, Victors and PlasmidFinder;
-- curated biofilm/adhesion screening;
-- species-level summary tables;
-- presence/absence matrices;
-- integrated network files for Cytoscape.
+Python 3.12 and the versions in the requirements file are sufficient for the archived-output reconstruction:
 
-## Data availability
+```sh
+python -m pip install -r revisions/2026-10-07/reproducibility/requirements.txt
+python revisions/2026-10-07/reproducibility/analyze_hof.py --source pipeline --out results_reproduced
+python revisions/2026-10-07/reproducibility/make_figures.py --results results_reproduced
+```
 
-The archived version of this repository is available at Zenodo:
+The archived inputs and 574 individual result/log pairs are preserved under pipeline/. Input hashes are in the corrected provenance directory. This command reconstructs and filters existing alignments; it does not execute fresh BLAST searches. Original reference database FASTA snapshots were not recovered, so exact alignment reruns remain unresolved. Tool versions and local database timestamps are documented; a timestamp is not a verified database release identifier.
 
-- GitHub repository: [GITHUB_REPOSITORY_URL]
-- Zenodo record: [ZENODO_RECORD_URL]
-- DOI: [ZENODO_DOI]
+The historical pipeline scripts and historical derived files are retained for audit. Do not use their biofilm counts or clinical-risk interpretation in a new submission. Use the corrected scripts and outputs linked above.
 
-## Citation
+## Publication status
 
-Please cite this repository as:
+This revision is a draft for author review, not a submitted or accepted article. Correspondence email, no preprint deposit and acceptance of both open-review options were confirmed by the author. Postal address, telephone, professional English review, final scientific approval and the complete research-data availability declaration remain pending.
 
-Lôbo TLGF. Orofacial filler-associated biofilm risk: reproducible data and bioinformatic workflow. Version 1.0.0. Zenodo. [ZENODO_DOI].
+The earlier archive [Zenodo record 21339092](https://zenodo.org/records/21339092), DOI 10.5281/zenodo.21339092, predates these corrections. It must not be presented as an archive of the corrected results. A new public deposit and DOI require verification after upload.
 
-## License
+## Licensing
 
-This repository is released under the MIT License for code and CC BY 4.0 for text, figures and tables, unless otherwise stated.
+Code: MIT. Author-generated text, figures and tables: CC BY 4.0 under DATA_LICENSE.md. Source genomic data and external reference databases retain their original terms. No reference database redistribution rights or experimental findings are implied.

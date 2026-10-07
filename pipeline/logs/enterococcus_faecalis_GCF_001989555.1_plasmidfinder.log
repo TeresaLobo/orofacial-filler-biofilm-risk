@@ -1,0 +1,5 @@
+Using nucl database plasmidfinder:  488 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_001989555.1/GCF_001989555.1_ASM198955v1_genomic.fna
+Found 4 genes in data/unzipped_genomes/enterococcus_faecalis/ncbi_dataset/data/GCF_001989555.1/GCF_001989555.1_ASM198955v1_genomic.fna
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.

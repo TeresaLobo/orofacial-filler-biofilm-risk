@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_002906615.1/GCF_002906615.1_ASM290661v1_genomic.fna
+Found 119 genes in data/unzipped_genomes/staphylococcus_haemolyticus/ncbi_dataset/data/GCF_002906615.1/GCF_002906615.1_ASM290661v1_genomic.fna
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.

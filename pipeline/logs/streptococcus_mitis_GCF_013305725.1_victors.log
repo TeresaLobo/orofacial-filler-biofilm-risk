@@ -1,0 +1,5 @@
+Using nucl database victors:  4545 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/streptococcus_mitis/ncbi_dataset/data/GCF_013305725.1/GCF_013305725.1_ASM1330572v1_genomic.fna
+Found 165 genes in data/unzipped_genomes/streptococcus_mitis/ncbi_dataset/data/GCF_013305725.1/GCF_013305725.1_ASM1330572v1_genomic.fna
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.

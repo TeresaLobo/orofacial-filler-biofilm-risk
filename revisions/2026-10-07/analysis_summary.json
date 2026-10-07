@@ -1,0 +1,196 @@
+{
+  "genomes": 82,
+  "species": 17,
+  "assembly_levels": {
+    "Complete Genome": 82
+  },
+  "sequence_lengths_all_match": true,
+  "ambiguous_bases": 1,
+  "missing_CDS_protein_sequences": 0,
+  "checkm_available": 82,
+  "checkm_completeness_range": [
+    88.18,
+    99.9
+  ],
+  "checkm_contamination_range": [
+    0.05,
+    19.66
+  ],
+  "strict_QC_pass": 66,
+  "strict_QC_failed_accessions": [
+    "GCF_028621995.1",
+    "GCF_037889065.1",
+    "GCF_001548195.1",
+    "GCF_001953935.1",
+    "GCF_002355195.1",
+    "GCF_002763535.1",
+    "GCF_002763575.1",
+    "GCF_000759555.1",
+    "GCF_002085695.1",
+    "GCF_002215535.1",
+    "GCF_006094375.1",
+    "GCF_001611955.1",
+    "GCF_002906595.1",
+    "GCF_002906615.1",
+    "GCF_006094395.1",
+    "GCF_008726365.3"
+  ],
+  "exact_duplicate_genomes": 0,
+  "repeated_strain_labels_genomes": 0,
+  "legacy_regex_total": 106727,
+  "legacy_sequence_only_matches": 67614,
+  "corrected_candidate_category_rows": 1062,
+  "corrected_unique_loci": 1009,
+  "named_symbol_unique_loci": 543,
+  "corrected_positive_genomes": 82,
+  "corrected_positive_categories": 30,
+  "AMR_records": 158,
+  "STRESS_records": 10,
+  "AMR_positive_genomes": 41,
+  "analysis_outputs": 574,
+  "analysis_logs_complete": 574,
+  "database_details": [
+    {
+      "database": "amrfinder",
+      "db_type": "",
+      "db_sequence_count": "",
+      "db_timestamp": "2026-05-15.1",
+      "software_version": "4.2.7"
+    },
+    {
+      "database": "vfdb",
+      "db_type": "nucl",
+      "db_sequence_count": 4592.0,
+      "db_timestamp": "2026-Apr-3",
+      "software_version": "1.4.0 (environment manifest)"
+    },
+    {
+      "database": "card",
+      "db_type": "nucl",
+      "db_sequence_count": 6052.0,
+      "db_timestamp": "2026-Apr-3",
+      "software_version": "1.4.0 (environment manifest)"
+    },
+    {
+      "database": "resfinder",
+      "db_type": "nucl",
+      "db_sequence_count": 3206.0,
+      "db_timestamp": "2026-Apr-3",
+      "software_version": "1.4.0 (environment manifest)"
+    },
+    {
+      "database": "bacmet2",
+      "db_type": "prot",
+      "db_sequence_count": 746.0,
+      "db_timestamp": "2026-Apr-3",
+      "software_version": "1.4.0 (environment manifest)"
+    },
+    {
+      "database": "victors",
+      "db_type": "nucl",
+      "db_sequence_count": 4545.0,
+      "db_timestamp": "2026-Apr-3",
+      "software_version": "1.4.0 (environment manifest)"
+    },
+    {
+      "database": "plasmidfinder",
+      "db_type": "nucl",
+      "db_sequence_count": 488.0,
+      "db_timestamp": "2026-Apr-3",
+      "software_version": "1.4.0 (environment manifest)"
+    }
+  ],
+  "PC_variance": [
+    0.34206932606571333,
+    0.2570753595237928
+  ],
+  "score_top5": {
+    "staphylococcus_haemolyticus": 1.6268302072631209,
+    "enterococcus_faecalis": 1.1253781550533837,
+    "staphylococcus_capitis": 0.9330560496740864,
+    "staphylococcus_epidermidis": 0.6270664516484238,
+    "streptococcus_mitis": 0.5308871702591953
+  },
+  "original_top5": {
+    "staphylococcus_haemolyticus": 1.4496111854053662,
+    "enterococcus_faecalis": 1.3208204733058901,
+    "staphylococcus_capitis": 0.9544617862059417,
+    "staphylococcus_epidermidis": 0.4940958976825476,
+    "streptococcus_mitis": 0.3935829049064437
+  },
+  "rank_ranges": {
+    "actinomyces_naeslundii": [
+      12.0,
+      15.0
+    ],
+    "corynebacterium_striatum": [
+      4.0,
+      8.0
+    ],
+    "cutibacterium_acnes": [
+      14.0,
+      15.0
+    ],
+    "enterococcus_faecalis": [
+      1.0,
+      4.0
+    ],
+    "fusobacterium_nucleatum": [
+      10.0,
+      12.0
+    ],
+    "porphyromonas_gingivalis": [
+      11.0,
+      17.0
+    ],
+    "prevotella_intermedia": [
+      9.0,
+      15.0
+    ],
+    "staphylococcus_capitis": [
+      2.0,
+      4.0
+    ],
+    "staphylococcus_epidermidis": [
+      3.0,
+      6.0
+    ],
+    "staphylococcus_haemolyticus": [
+      1.0,
+      2.0
+    ],
+    "streptococcus_anginosus": [
+      7.0,
+      8.0
+    ],
+    "streptococcus_mitis": [
+      4.0,
+      8.0
+    ],
+    "streptococcus_oralis": [
+      5.0,
+      6.0
+    ],
+    "streptococcus_sanguinis": [
+      9.0,
+      10.0
+    ],
+    "tannerella_forsythia": [
+      13.0,
+      16.0
+    ],
+    "treponema_denticola": [
+      10.0,
+      15.0
+    ],
+    "veillonella_parvula": [
+      10.0,
+      14.0
+    ]
+  },
+  "candidate_evidence_tiers": {
+    "named_symbol": 543,
+    "product_description": 519
+  },
+  "selected_first5_confirmed_species": 17
+}

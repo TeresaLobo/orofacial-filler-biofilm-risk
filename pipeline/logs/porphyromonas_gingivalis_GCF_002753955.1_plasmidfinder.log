@@ -1,0 +1,5 @@
+Using nucl database plasmidfinder:  488 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/porphyromonas_gingivalis/ncbi_dataset/data/GCF_002753955.1/GCF_002753955.1_ASM275395v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/porphyromonas_gingivalis/ncbi_dataset/data/GCF_002753955.1/GCF_002753955.1_ASM275395v1_genomic.fna
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.

@@ -1,0 +1,5 @@
+Using nucl database plasmidfinder:  488 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_037889065.1/GCF_037889065.1_ASM3788906v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_037889065.1/GCF_037889065.1_ASM3788906v1_genomic.fna
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.

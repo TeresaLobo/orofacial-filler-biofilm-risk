@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/porphyromonas_gingivalis/ncbi_dataset/data/GCF_001263815.1/GCF_001263815.1_ASM126381v1_genomic.fna
+Found 43 genes in data/unzipped_genomes/porphyromonas_gingivalis/ncbi_dataset/data/GCF_001263815.1/GCF_001263815.1_ASM126381v1_genomic.fna
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.

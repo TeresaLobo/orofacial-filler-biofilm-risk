@@ -1,0 +1,5 @@
+Using nucl database victors:  4545 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_002085695.1/GCF_002085695.1_ASM208569v1_genomic.fna
+Found 6 genes in data/unzipped_genomes/staphylococcus_epidermidis/ncbi_dataset/data/GCF_002085695.1/GCF_002085695.1_ASM208569v1_genomic.fna
+Tip: it's important to realise abricate uses DNA matching, not AA.
+Done.

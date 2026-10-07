@@ -1,0 +1,5 @@
+Using nucl database victors:  4545 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/veillonella_parvula/ncbi_dataset/data/GCF_002005185.1/GCF_002005185.1_ASM200518v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/veillonella_parvula/ncbi_dataset/data/GCF_002005185.1/GCF_002005185.1_ASM200518v1_genomic.fna
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.

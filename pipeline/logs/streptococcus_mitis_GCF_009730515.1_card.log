@@ -1,0 +1,5 @@
+Using nucl database card:  6052 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/streptococcus_mitis/ncbi_dataset/data/GCF_009730515.1/GCF_009730515.1_ASM973051v1_genomic.fna
+Found 4 genes in data/unzipped_genomes/streptococcus_mitis/ncbi_dataset/data/GCF_009730515.1/GCF_009730515.1_ASM973051v1_genomic.fna
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.

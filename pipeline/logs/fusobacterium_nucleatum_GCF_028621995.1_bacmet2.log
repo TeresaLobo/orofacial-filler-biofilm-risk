@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_028621995.1/GCF_028621995.1_ASM2862199v1_genomic.fna
+Found 82 genes in data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_028621995.1/GCF_028621995.1_ASM2862199v1_genomic.fna
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.

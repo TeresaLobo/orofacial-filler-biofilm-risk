@@ -1,0 +1,5 @@
+Using nucl database card:  6052 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/actinomyces_naeslundii/ncbi_dataset/data/GCF_963340285.1/GCF_963340285.1_bc1019_genomic.fna
+Found 0 genes in data/unzipped_genomes/actinomyces_naeslundii/ncbi_dataset/data/GCF_963340285.1/GCF_963340285.1_bc1019_genomic.fna
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.

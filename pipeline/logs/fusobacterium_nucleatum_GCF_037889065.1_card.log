@@ -1,0 +1,5 @@
+Using nucl database card:  6052 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_037889065.1/GCF_037889065.1_ASM3788906v1_genomic.fna
+Found 0 genes in data/unzipped_genomes/fusobacterium_nucleatum/ncbi_dataset/data/GCF_037889065.1/GCF_037889065.1_ASM3788906v1_genomic.fna
+Tip: found a bug in abricate? Post it at https://github.com/tseemann/abricate/issues.
+Done.

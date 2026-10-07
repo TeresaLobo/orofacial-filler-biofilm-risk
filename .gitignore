@@ -23,3 +23,10 @@ data/raw/*
 
 # Keep important compressed submission packages only if intentionally forced
 !submission_package.zip
+
+# Preserve audited per-genome run logs
+!pipeline/logs/**/*.log
+!pipeline/results/**/*.log
+!pipeline/data/**/*.log
+results_reproduced/
+.mplconfig/

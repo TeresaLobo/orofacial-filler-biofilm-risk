@@ -1,0 +1,5 @@
+Using nucl database victors:  4545 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_013267675.1/GCF_013267675.1_ASM1326767v1_genomic.fna
+Found 5 genes in data/unzipped_genomes/staphylococcus_capitis/ncbi_dataset/data/GCF_013267675.1/GCF_013267675.1_ASM1326767v1_genomic.fna
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.

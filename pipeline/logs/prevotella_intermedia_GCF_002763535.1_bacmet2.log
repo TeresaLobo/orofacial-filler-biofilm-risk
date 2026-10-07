@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/prevotella_intermedia/ncbi_dataset/data/GCF_002763535.1/GCF_002763535.1_ASM276353v1_genomic.fna
+Found 36 genes in data/unzipped_genomes/prevotella_intermedia/ncbi_dataset/data/GCF_002763535.1/GCF_002763535.1_ASM276353v1_genomic.fna
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.

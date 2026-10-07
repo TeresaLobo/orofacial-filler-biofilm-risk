@@ -1,0 +1,5 @@
+Using nucl database vfdb:  4592 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/streptococcus_oralis/ncbi_dataset/data/GCF_016028255.1/GCF_016028255.1_ASM1602825v1_genomic.fna
+Found 4 genes in data/unzipped_genomes/streptococcus_oralis/ncbi_dataset/data/GCF_016028255.1/GCF_016028255.1_ASM1602825v1_genomic.fna
+Tip: remember that abricate is unable to find AMR-mediated SNPs.
+Done.

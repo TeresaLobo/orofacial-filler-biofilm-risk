@@ -1,0 +1,5 @@
+Using prot database bacmet2:  746 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/streptococcus_sanguinis/ncbi_dataset/data/GCF_050220455.1/GCF_050220455.1_x_genomic.fna
+Found 103 genes in data/unzipped_genomes/streptococcus_sanguinis/ncbi_dataset/data/GCF_050220455.1/GCF_050220455.1_x_genomic.fna
+Tip: abricate can also find virulence factors; use --list to see all supported databases.
+Done.

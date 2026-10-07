@@ -1,0 +1,5 @@
+Using nucl database plasmidfinder:  488 sequences -  2026-Apr-3
+Processing: data/unzipped_genomes/actinomyces_naeslundii/ncbi_dataset/data/GCF_963265035.1/GCF_963265035.1_NZ_220527_assembly_041_genomic.fna
+Found 0 genes in data/unzipped_genomes/actinomyces_naeslundii/ncbi_dataset/data/GCF_963265035.1/GCF_963265035.1_NZ_220527_assembly_041_genomic.fna
+Tip: the abricate manual is at https://github.com/tseemann/abricate/blob/master/README.md
+Done.
