@@ -1,0 +1,2937 @@
+[
+  {
+    "database": "bacmet2",
+    "genomes": 82,
+    "raw_records": 7412,
+    "filtered_records": 192,
+    "archived_filtered_records": 192,
+    "added_records": 0,
+    "removed_records": 0,
+    "identical_records": true,
+    "zip_sha256": "44d8c863bc99591d1121e57864ccedb9470ae2d815a56d7d9abbed5ef767fefd",
+    "members": [
+      {
+        "accession": "GCF_000238215.1",
+        "member": "ABRicate on collection 2 report file/GCF_000238215.1__GCF_000238215.1_ASM23821v1_genomic.fna.tabular",
+        "sha256": "2b043ba74545cfaee5257b5a924052ccb0d2202db545881be685e48f435cbc21",
+        "raw_records": 53,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_000722765.2",
+        "member": "ABRicate on collection 2 report file/GCF_000722765.2__GCF_000722765.2_ASM72276v2_genomic.fna.tabular",
+        "sha256": "a49423d3fd80d84c4af58c0bb4ee50a499f9ec444352b778500dbe1559816358",
+        "raw_records": 73,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_000759555.1",
+        "member": "ABRicate on collection 2 report file/GCF_000759555.1__GCF_000759555.1_ASM75955v1_genomic.fna.tabular",
+        "sha256": "8361f474bc446f561abb43f0310863ab106048f55ddc58fd8d21de0b2a303c32",
+        "raw_records": 114,
+        "filtered_records": 7
+      },
+      {
+        "accession": "GCF_000831165.1",
+        "member": "ABRicate on collection 2 report file/GCF_000831165.1__GCF_000831165.1_ASM83116v1_genomic.fna.tabular",
+        "sha256": "8dc6af64659d1bf89a1ae45b35b64e8fec87bae55f07b55eeea9ad038c6e63de",
+        "raw_records": 78,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001263815.1",
+        "member": "ABRicate on collection 2 report file/GCF_001263815.1__GCF_001263815.1_ASM126381v1_genomic.fna.tabular",
+        "sha256": "e612e6144b4723a960341386ae9742f24c76dbfe37b356e08b83fedb917d9e1f",
+        "raw_records": 43,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001281025.1",
+        "member": "ABRicate on collection 2 report file/GCF_001281025.1__GCF_001281025.1_ASM128102v1_genomic.fna.tabular",
+        "sha256": "83c6397527473faf662a416ced8a1cb3785da1876561d5821dec2c1528abf14b",
+        "raw_records": 82,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_001281065.1",
+        "member": "ABRicate on collection 2 report file/GCF_001281065.1__GCF_001281065.1_ASM128106v1_genomic.fna.tabular",
+        "sha256": "45983ce356722d6472c4da2959ceb65f8b0af13dab3cada5df8606a873cb6212",
+        "raw_records": 86,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001412635.1",
+        "member": "ABRicate on collection 2 report file/GCF_001412635.1__GCF_001412635.1_ASM141263v1_genomic.fna.tabular",
+        "sha256": "05318a77200fbf938fca7607eb2e35bb972d92d4a0ae65117d3ea38033d4018f",
+        "raw_records": 76,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001469565.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469565.1__GCF_001469565.1_ASM146956v1_genomic.fna.tabular",
+        "sha256": "d16f43da2e6523075e28dc1627427d70deec3a7311258f97a7a460b23264be48",
+        "raw_records": 90,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469595.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469595.1__GCF_001469595.1_ASM146959v1_genomic.fna.tabular",
+        "sha256": "d85aebe5dfd6d7295015798c12e21c264829119ab7adb67af9a80fb2aaaa4a12",
+        "raw_records": 85,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469615.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469615.1__GCF_001469615.1_ASM146961v1_genomic.fna.tabular",
+        "sha256": "c26d953318b56e4be430ffe81269b04dfddff25d789ac6a45b5e5da9924f47f8",
+        "raw_records": 92,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469655.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469655.1__GCF_001469655.1_ASM146965v1_genomic.fna.tabular",
+        "sha256": "017fd7085039de0a81a8b6a443338f911b311573834cc59ab0e59fa91c4f4a87",
+        "raw_records": 89,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001547855.1",
+        "member": "ABRicate on collection 2 report file/GCF_001547855.1__GCF_001547855.1_ASM154785v1_genomic.fna.tabular",
+        "sha256": "f0b287751ed9bf873cce950f1d465d987cf297c35be463fa19547b0bff7da598",
+        "raw_records": 50,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001547875.1",
+        "member": "ABRicate on collection 2 report file/GCF_001547875.1__GCF_001547875.1_ASM154787v1_genomic.fna.tabular",
+        "sha256": "9a182977747294ead0eae23c3423c2b8d1cfd8c6f3cfd41f90e88652c04aa969",
+        "raw_records": 51,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001548195.1",
+        "member": "ABRicate on collection 2 report file/GCF_001548195.1__GCF_001548195.1_ASM154819v1_genomic.fna.tabular",
+        "sha256": "fbe09bd2149419f440d5ef5fb0f000196e7756970c3ee0e08a2ee8061ee278b8",
+        "raw_records": 37,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001598635.1",
+        "member": "ABRicate on collection 2 report file/GCF_001598635.1__GCF_001598635.1_ASM159863v1_genomic.fna.tabular",
+        "sha256": "aaf69f985f4200c3e55e2a46b0e9ea51c38b6531655d6c0214a4bf6ad0f17084",
+        "raw_records": 124,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_001611955.1",
+        "member": "ABRicate on collection 2 report file/GCF_001611955.1__GCF_001611955.1_ASM161195v1_genomic.fna.tabular",
+        "sha256": "4faed5e896f219e0260a14aa7675ebdd9898bf1519d2b5e0ad0f16b7b141080e",
+        "raw_records": 123,
+        "filtered_records": 11
+      },
+      {
+        "accession": "GCF_001689055.2",
+        "member": "ABRicate on collection 2 report file/GCF_001689055.2__GCF_001689055.2_ASM168905v2_genomic.fna.tabular",
+        "sha256": "11064cac0515833ebb3c6a2ef0c4719a1653cc565ec2eaca76ca77de9c909e17",
+        "raw_records": 134,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_001697145.1",
+        "member": "ABRicate on collection 2 report file/GCF_001697145.1__GCF_001697145.1_ASM169714v1_genomic.fna.tabular",
+        "sha256": "c669013094b508f21034c6289f0a3049f0a1737c0f63ad20e35af43b587b8d84",
+        "raw_records": 76,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001953935.1",
+        "member": "ABRicate on collection 2 report file/GCF_001953935.1__GCF_001953935.1_ASM195393v1_genomic.fna.tabular",
+        "sha256": "583d0e8a0ad2881a49439d2be8390949f0a95b00a4046a3ddf39fa143c3b726c",
+        "raw_records": 38,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001956655.1",
+        "member": "ABRicate on collection 2 report file/GCF_001956655.1__GCF_001956655.1_ASM195665v2_genomic.fna.tabular",
+        "sha256": "27182fd7cf41dd54cd99573c8bc60d507ff42a8cc6fc4281ee48d8544418b60d",
+        "raw_records": 119,
+        "filtered_records": 11
+      },
+      {
+        "accession": "GCF_001983955.1",
+        "member": "ABRicate on collection 2 report file/GCF_001983955.1__GCF_001983955.1_ASM198395v1_genomic.fna.tabular",
+        "sha256": "4374fe8251468ab971aebd4a4da33307b164b6a6445b5092ea9603bb90be1a66",
+        "raw_records": 75,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_001989555.1",
+        "member": "ABRicate on collection 2 report file/GCF_001989555.1__GCF_001989555.1_ASM198955v1_genomic.fna.tabular",
+        "sha256": "54b545ab9c798c4373f0304608716ba19783d8b9c889ce3f4ed5874ef6e6e044",
+        "raw_records": 129,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_002005185.1",
+        "member": "ABRicate on collection 2 report file/GCF_002005185.1__GCF_002005185.1_ASM200518v1_genomic.fna.tabular",
+        "sha256": "5a881a1088cd583e449806f2cbd8207ab44619cc4174c3abcd823ad2f2b911d8",
+        "raw_records": 84,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002085695.1",
+        "member": "ABRicate on collection 2 report file/GCF_002085695.1__GCF_002085695.1_ASM208569v1_genomic.fna.tabular",
+        "sha256": "0203077892d9df38fbfc3c28507dd1839efcadd48de8cd8b03434e2c782782db",
+        "raw_records": 108,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_002156805.1",
+        "member": "ABRicate on collection 2 report file/GCF_002156805.1__GCF_002156805.1_ASM215680v1_genomic.fna.tabular",
+        "sha256": "4cd7c960d3a080c32f4e40f261d45eba88301f3be5438c27bc41fc372abb9b16",
+        "raw_records": 99,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002163735.1",
+        "member": "ABRicate on collection 2 report file/GCF_002163735.1__GCF_002163735.1_ASM216373v1_genomic.fna.tabular",
+        "sha256": "1a010330e1f708c227475cf518744d530c1ddce95005c3a0311d58df5473520e",
+        "raw_records": 121,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002208945.1",
+        "member": "ABRicate on collection 2 report file/GCF_002208945.1__GCF_002208945.1_ASM220894v2_genomic.fna.tabular",
+        "sha256": "a6a3a84e4e2944d5763c47f242bd0ee9b6b7aab4e223cd2b20f2b07e3be5baa4",
+        "raw_records": 127,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002215535.1",
+        "member": "ABRicate on collection 2 report file/GCF_002215535.1__GCF_002215535.1_ASM221553v1_genomic.fna.tabular",
+        "sha256": "55edbd6090dc23ccad88b67568e947519ebcfc29632e331c7608c27a8cc28c60",
+        "raw_records": 121,
+        "filtered_records": 12
+      },
+      {
+        "accession": "GCF_002355195.1",
+        "member": "ABRicate on collection 2 report file/GCF_002355195.1__GCF_002355195.1_ASM235519v1_genomic.fna.tabular",
+        "sha256": "7cb3b96818fac31d717cd1561084b937a475959bdcae2ad96d841cc4bccd601e",
+        "raw_records": 38,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002356175.1",
+        "member": "ABRicate on collection 2 report file/GCF_002356175.1__GCF_002356175.1_ASM235617v1_genomic.fna.tabular",
+        "sha256": "7db822affdda1e7384f584f71c3b9b494502b77f2f0c5a947ed13ea1b6f7e0d0",
+        "raw_records": 104,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002386345.1",
+        "member": "ABRicate on collection 2 report file/GCF_002386345.1__GCF_002386345.1_ASM238634v1_genomic.fna.tabular",
+        "sha256": "60ba65c56163e052ffe8bfb0468687c46097851d867b196da19c564799293c41",
+        "raw_records": 78,
+        "filtered_records": 7
+      },
+      {
+        "accession": "GCF_002591175.1",
+        "member": "ABRicate on collection 2 report file/GCF_002591175.1__GCF_002591175.1_ASM259117v1_genomic.fna.tabular",
+        "sha256": "423451db040a27fd15dc831c77f236f94f9be3705170b8b88c665f765da48a7e",
+        "raw_records": 112,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_002753935.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753935.1__GCF_002753935.1_ASM275393v1_genomic.fna.tabular",
+        "sha256": "7a983c3c97598c98e4c2ebb9091ac67bd797f04d2e89ccde286b5c3624c8b64b",
+        "raw_records": 44,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002753955.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753955.1__GCF_002753955.1_ASM275395v1_genomic.fna.tabular",
+        "sha256": "f24ecba31d30fce0c8cfe2b4789f7985e1175d0ea2b88a99b1dd137c45ef6481",
+        "raw_records": 44,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002753975.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753975.1__GCF_002753975.1_ASM275397v1_genomic.fna.tabular",
+        "sha256": "eb6dba2738685d7312556a2b131ade6d95ba0824ef047c3f3e08d62970422189",
+        "raw_records": 46,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002754015.1",
+        "member": "ABRicate on collection 2 report file/GCF_002754015.1__GCF_002754015.1_ASM275401v1_genomic.fna.tabular",
+        "sha256": "1372efffd60ca064d429190032e7ee5435a638bb48565b3bca7e022c2828f658",
+        "raw_records": 43,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002763535.1",
+        "member": "ABRicate on collection 2 report file/GCF_002763535.1__GCF_002763535.1_ASM276353v1_genomic.fna.tabular",
+        "sha256": "55b84c54392cfbe6179c861fc8061f4dd892727b6f4fd2ab2f4e288769db3c4e",
+        "raw_records": 36,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002763575.1",
+        "member": "ABRicate on collection 2 report file/GCF_002763575.1__GCF_002763575.1_ASM276357v1_genomic.fna.tabular",
+        "sha256": "01da0b894324f53e53c73d82529bfdbd8aaf6cc942aeb8256cea7e1b9cd576a2",
+        "raw_records": 37,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002803965.1",
+        "member": "ABRicate on collection 2 report file/GCF_002803965.1__GCF_002803965.1_ASM280396v1_genomic.fna.tabular",
+        "sha256": "c99ce357208a3e10b4aa89390608c609b878e9adfb462cbb5a5cb8ec7e2ebe29",
+        "raw_records": 103,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002804085.1",
+        "member": "ABRicate on collection 2 report file/GCF_002804085.1__GCF_002804085.1_ASM280408v1_genomic.fna.tabular",
+        "sha256": "18846d887e42b914b8c3b87fe7c3eb3187a68b286e860311e678f4a250351ced",
+        "raw_records": 109,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002906595.1",
+        "member": "ABRicate on collection 2 report file/GCF_002906595.1__GCF_002906595.1_ASM290659v1_genomic.fna.tabular",
+        "sha256": "dc69d652b847584a8463ff48522c1e5777ebc77b19a96f865c04c76367d8a4d5",
+        "raw_records": 119,
+        "filtered_records": 13
+      },
+      {
+        "accession": "GCF_002906615.1",
+        "member": "ABRicate on collection 2 report file/GCF_002906615.1__GCF_002906615.1_ASM290661v1_genomic.fna.tabular",
+        "sha256": "ba3215cc9cbeaf8f27525356ed1d47982681f8945a895f21648d603f2dfa62a5",
+        "raw_records": 119,
+        "filtered_records": 13
+      },
+      {
+        "accession": "GCF_002952715.2",
+        "member": "ABRicate on collection 2 report file/GCF_002952715.2__GCF_002952715.2_ASM295271v2_genomic.fna.tabular",
+        "sha256": "027dc1a5072b09355335ebe8375e9c596dfa48c930f8e65e35bc72db3ead4b17",
+        "raw_records": 121,
+        "filtered_records": 9
+      },
+      {
+        "accession": "GCF_006094375.1",
+        "member": "ABRicate on collection 2 report file/GCF_006094375.1__GCF_006094375.1_ASM609437v1_genomic.fna.tabular",
+        "sha256": "c50a32fc8ed7efed21779706d930534053c34c8787fdab0d589cb2248bc76340",
+        "raw_records": 125,
+        "filtered_records": 11
+      },
+      {
+        "accession": "GCF_006094395.1",
+        "member": "ABRicate on collection 2 report file/GCF_006094395.1__GCF_006094395.1_ASM609439v1_genomic.fna.tabular",
+        "sha256": "fb5fa2905275c9788e1f8c77c43668dfa9cf30816da0ab80037ef33d00708e15",
+        "raw_records": 117,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_007475365.1",
+        "member": "ABRicate on collection 2 report file/GCF_007475365.1__GCF_007475365.1_ASM747536v1_genomic.fna.tabular",
+        "sha256": "fbb8f444b56620bf2fffb682fd419da59501fd86c7337e7987d5d79307976835",
+        "raw_records": 81,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_008726365.3",
+        "member": "ABRicate on collection 2 report file/GCF_008726365.3__GCF_008726365.3_ASM872636v3_genomic.fna.tabular",
+        "sha256": "6efb9bb689be26ce50ffc2b887dc13289359edc52987855065b842d983e26c72",
+        "raw_records": 77,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_009730515.1",
+        "member": "ABRicate on collection 2 report file/GCF_009730515.1__GCF_009730515.1_ASM973051v1_genomic.fna.tabular",
+        "sha256": "164652ab92f2b4004de5f2d84f36571a20dd7374dee8dcc6404cb433879950f2",
+        "raw_records": 76,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_013267675.1",
+        "member": "ABRicate on collection 2 report file/GCF_013267675.1__GCF_013267675.1_ASM1326767v1_genomic.fna.tabular",
+        "sha256": "82d77fdd9e4fb2460011239f0a73ae0cc8e8a8171fd19c6e50bd2f63a32b2d18",
+        "raw_records": 113,
+        "filtered_records": 6
+      },
+      {
+        "accession": "GCF_013305725.1",
+        "member": "ABRicate on collection 2 report file/GCF_013305725.1__GCF_013305725.1_ASM1330572v1_genomic.fna.tabular",
+        "sha256": "245b6d889c610abd719bb4a003d34a0d4432f2d3938d4179ff733f8e4bdfca18",
+        "raw_records": 81,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_013343115.1",
+        "member": "ABRicate on collection 2 report file/GCF_013343115.1__GCF_013343115.1_ASM1334311v1_genomic.fna.tabular",
+        "sha256": "61df1be3a8b68ae09603aaf836adcc89bc8d62b180f11f12aef29cb532b3e51f",
+        "raw_records": 104,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_013378355.1",
+        "member": "ABRicate on collection 2 report file/GCF_013378355.1__GCF_013378355.1_ASM1337835v1_genomic.fna.tabular",
+        "sha256": "bd70288c066e2a752510c7b5464b43177c52d9da0463f1bba7a224854cbbac85",
+        "raw_records": 84,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_015243435.1",
+        "member": "ABRicate on collection 2 report file/GCF_015243435.1__GCF_015243435.1_ASM1524343v1_genomic.fna.tabular",
+        "sha256": "04d19c333c3029332297f78b605bd5eee70ecd81829cc282d432064bd6ad1a87",
+        "raw_records": 115,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_016028175.1",
+        "member": "ABRicate on collection 2 report file/GCF_016028175.1__GCF_016028175.1_ASM1602817v1_genomic.fna.tabular",
+        "sha256": "022e1ca9542aaff9358edfeaf03e6aa59d63470494d86c62ea8a514c7af88733",
+        "raw_records": 82,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_016028255.1",
+        "member": "ABRicate on collection 2 report file/GCF_016028255.1__GCF_016028255.1_ASM1602825v1_genomic.fna.tabular",
+        "sha256": "c0ac697286e44a2e8510cfe35a528eb710716801f9d0470223671247efce2e8d",
+        "raw_records": 83,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_016127175.1",
+        "member": "ABRicate on collection 2 report file/GCF_016127175.1__GCF_016127175.1_ASM1612717v1_genomic.fna.tabular",
+        "sha256": "c833dab09636922a8da848d7dd10ff4be67c9af085285649956f3830e02ac0a7",
+        "raw_records": 93,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_016127855.1",
+        "member": "ABRicate on collection 2 report file/GCF_016127855.1__GCF_016127855.1_ASM1612785v1_genomic.fna.tabular",
+        "sha256": "f4edbb71d7a9d4fa3d49727716e9dd9ba5ef0869282491756d5ce150e9cb28e3",
+        "raw_records": 104,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016728105.1",
+        "member": "ABRicate on collection 2 report file/GCF_016728105.1__GCF_016728105.1_ASM1672810v1_genomic.fna.tabular",
+        "sha256": "9acd7581cba8dbca0f696ca051a25010aad36ddb2c96bd6205c5dc07c381df27",
+        "raw_records": 98,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016728205.1",
+        "member": "ABRicate on collection 2 report file/GCF_016728205.1__GCF_016728205.1_ASM1672820v1_genomic.fna.tabular",
+        "sha256": "4a5aa2cf385bea6e8ab0e6461eff0b9736c21fbb0460f4ebd8c93b7a2f4a1a00",
+        "raw_records": 100,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_018603625.2",
+        "member": "ABRicate on collection 2 report file/GCF_018603625.2__GCF_018603625.2_ASM1860362v2_genomic.fna.tabular",
+        "sha256": "46306a3c4e9ab9ea0826a0f6b74bd6c1e4e738a3e5666ca77e048e12d3814e80",
+        "raw_records": 78,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_020883475.1",
+        "member": "ABRicate on collection 2 report file/GCF_020883475.1__GCF_020883475.1_ASM2088347v1_genomic.fna.tabular",
+        "sha256": "242b61455dfbc96aa336a8ad30760fd7d9e4ec1de5659d8d42b9e318853463fc",
+        "raw_records": 106,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_024181405.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181405.1__GCF_024181405.1_ASM2418140v1_genomic.fna.tabular",
+        "sha256": "c7a63f2f5047b5bebd955d3a4a8b843fac2f3320e6f0d62c3036df70f1dfa4c0",
+        "raw_records": 100,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181425.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181425.1__GCF_024181425.1_ASM2418142v1_genomic.fna.tabular",
+        "sha256": "4741945100e9b08ccb6b5d7262fa1bbc99aa6f744968c2c76f256767a47ff9e5",
+        "raw_records": 122,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181445.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181445.1__GCF_024181445.1_ASM2418144v1_genomic.fna.tabular",
+        "sha256": "2c48dc00b3b1ff2ffc3aa8f1986a6a389c9b806b2001e856460f8b10c8f51c5b",
+        "raw_records": 114,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181465.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181465.1__GCF_024181465.1_ASM2418146v1_genomic.fna.tabular",
+        "sha256": "5099adf6bd7e79dac9d29add24a5cc1bc1a9da0f276d19e72ef73c9b7483879b",
+        "raw_records": 124,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181485.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181485.1__GCF_024181485.1_ASM2418148v1_genomic.fna.tabular",
+        "sha256": "a3bd63b0b1cc64f09fc17821d5f8881635e2f65b8e1d64fcfe6960385a70a08b",
+        "raw_records": 113,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_028621975.1",
+        "member": "ABRicate on collection 2 report file/GCF_028621975.1__GCF_028621975.1_ASM2862197v1_genomic.fna.tabular",
+        "sha256": "6e0aaa503fb5b067bd75be51684bf93222bf4d9bb18ee5c7a0071ec73c22bd1d",
+        "raw_records": 90,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_028621995.1",
+        "member": "ABRicate on collection 2 report file/GCF_028621995.1__GCF_028621995.1_ASM2862199v1_genomic.fna.tabular",
+        "sha256": "d279ad9f7629169e49589897704fe837a7566f90d7cd8c6494c21caa830228f4",
+        "raw_records": 82,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_031190775.1",
+        "member": "ABRicate on collection 2 report file/GCF_031190775.1__GCF_031190775.1_ASM3119077v1_genomic.fna.tabular",
+        "sha256": "0e4eb41b8e8434e895c86acb89803696bae7e1fd0ad3f093af65291797e9cee0",
+        "raw_records": 91,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_031191795.1",
+        "member": "ABRicate on collection 2 report file/GCF_031191795.1__GCF_031191795.1_ASM3119179v1_genomic.fna.tabular",
+        "sha256": "cb72cde4a24bac44318dd575bb8773aef2b428653d7b00222c6b5e18b5c87e49",
+        "raw_records": 86,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_036456085.1",
+        "member": "ABRicate on collection 2 report file/GCF_036456085.1__GCF_036456085.1_ASM3645608v1_genomic.fna.tabular",
+        "sha256": "03a2a8689d7e0eb21b4f171565d5449b870eb06b5c3292a6b1c4c69a408f77d8",
+        "raw_records": 84,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_037889055.1",
+        "member": "ABRicate on collection 2 report file/GCF_037889055.1__GCF_037889055.1_ASM3788905v1_genomic.fna.tabular",
+        "sha256": "c8c691df1f9a5194c005824cb99d8499ed6f252f4fe009d7d7e287fe4c7a5a82",
+        "raw_records": 84,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_037889065.1",
+        "member": "ABRicate on collection 2 report file/GCF_037889065.1__GCF_037889065.1_ASM3788906v1_genomic.fna.tabular",
+        "sha256": "1fa611688764d2f9e97463312537f084042ee5be3cc2d3082881cee08d3e4e73",
+        "raw_records": 82,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_050220005.1",
+        "member": "ABRicate on collection 2 report file/GCF_050220005.1__GCF_050220005.1_x_genomic.fna.tabular",
+        "sha256": "0e53b2c713c8703278e291c0521d1d3e4a1bf9a58b8accec61d6a05064e07105",
+        "raw_records": 106,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_050220455.1",
+        "member": "ABRicate on collection 2 report file/GCF_050220455.1__GCF_050220455.1_x_genomic.fna.tabular",
+        "sha256": "8d7f1c06501c1a7b9381fd3ecb680a22c01c1fecaee3a0252701da3e9d7f43f0",
+        "raw_records": 103,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_900186885.1",
+        "member": "ABRicate on collection 2 report file/GCF_900186885.1__GCF_900186885.1_48903_D01_genomic.fna.tabular",
+        "sha256": "e577ac8769600cb522a6aeea8cb3abd99582a8aafe34d2458755aa1654e2b975",
+        "raw_records": 92,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_900475505.1",
+        "member": "ABRicate on collection 2 report file/GCF_900475505.1__GCF_900475505.1_42925_G01_genomic.fna.tabular",
+        "sha256": "063f4f393ed56e5951d0e3a9467de357de340473ade1dad4b773ef7c030294e3",
+        "raw_records": 104,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_900636475.1",
+        "member": "ABRicate on collection 2 report file/GCF_900636475.1__GCF_900636475.1_42197_F01_genomic.fna.tabular",
+        "sha256": "245755bda711d9eddca83548ff1c4e7791867744470a6c2c09bcebbe123d3892",
+        "raw_records": 78,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_963265035.1",
+        "member": "ABRicate on collection 2 report file/GCF_963265035.1__GCF_963265035.1_NZ_220527_assembly_041_genomic.fna.tabular",
+        "sha256": "788330154b0a6799a5e27467e7582e57f586b6fe2b3e68b6413aca30447b6585",
+        "raw_records": 103,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963340285.1",
+        "member": "ABRicate on collection 2 report file/GCF_963340285.1__GCF_963340285.1_bc1019_genomic.fna.tabular",
+        "sha256": "05bc2b879916fdb7434737a35085b65ac7df5bea61a95b6795af8c933a774649",
+        "raw_records": 103,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963340415.1",
+        "member": "ABRicate on collection 2 report file/GCF_963340415.1__GCF_963340415.1_bc1017_genomic.fna.tabular",
+        "sha256": "5b5df587e03e780b679aeeb570d419bc53bd31dfc3d1d638116de13df9e21ca3",
+        "raw_records": 104,
+        "filtered_records": 0
+      }
+    ]
+  },
+  {
+    "database": "card",
+    "genomes": 82,
+    "raw_records": 214,
+    "filtered_records": 214,
+    "archived_filtered_records": 214,
+    "added_records": 0,
+    "removed_records": 0,
+    "identical_records": true,
+    "zip_sha256": "82065a3fd1d272fbb10157c040ad8aecf1f46340ac1bf140adb68013a45d9836",
+    "members": [
+      {
+        "accession": "GCF_000238215.1",
+        "member": "ABRicate on collection 2 report file/GCF_000238215.1__GCF_000238215.1_ASM23821v1_genomic.fna.tabular",
+        "sha256": "22bb0891f65ac6d626edfb872b09cf65d6aea8ddfcaba0d6e035de8da8c4f0fa",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_000722765.2",
+        "member": "ABRicate on collection 2 report file/GCF_000722765.2__GCF_000722765.2_ASM72276v2_genomic.fna.tabular",
+        "sha256": "c1325837345fbc946bdffc5121e5163ee083f302aaec83a34e49ba5635428512",
+        "raw_records": 5,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_000759555.1",
+        "member": "ABRicate on collection 2 report file/GCF_000759555.1__GCF_000759555.1_ASM75955v1_genomic.fna.tabular",
+        "sha256": "5b4b8b4f5038b1ffccb382d2feaf601876464e7db9b209e0004403401b172a57",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_000831165.1",
+        "member": "ABRicate on collection 2 report file/GCF_000831165.1__GCF_000831165.1_ASM83116v1_genomic.fna.tabular",
+        "sha256": "c36baf83fee4ec6fc8885d4292e3bb135d8b381f4158a775d1e73155148404d0",
+        "raw_records": 10,
+        "filtered_records": 10
+      },
+      {
+        "accession": "GCF_001263815.1",
+        "member": "ABRicate on collection 2 report file/GCF_001263815.1__GCF_001263815.1_ASM126381v1_genomic.fna.tabular",
+        "sha256": "84dfa3d5fba6ef0edaa96ce170edadef9588da521a48e55a6d7d2cbd6f5d9a49",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001281025.1",
+        "member": "ABRicate on collection 2 report file/GCF_001281025.1__GCF_001281025.1_ASM128102v1_genomic.fna.tabular",
+        "sha256": "2d076eb870ba34b5a53de67ff2836c14837cc860a3818f01890a6792731ff996",
+        "raw_records": 4,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_001281065.1",
+        "member": "ABRicate on collection 2 report file/GCF_001281065.1__GCF_001281065.1_ASM128106v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001412635.1",
+        "member": "ABRicate on collection 2 report file/GCF_001412635.1__GCF_001412635.1_ASM141263v1_genomic.fna.tabular",
+        "sha256": "f4a19ffa383298e2cc4b0d69259c0505b7f20b1e161b497801090f8034e82b10",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001469565.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469565.1__GCF_001469565.1_ASM146956v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469595.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469595.1__GCF_001469595.1_ASM146959v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469615.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469615.1__GCF_001469615.1_ASM146961v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469655.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469655.1__GCF_001469655.1_ASM146965v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001547855.1",
+        "member": "ABRicate on collection 2 report file/GCF_001547855.1__GCF_001547855.1_ASM154785v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001547875.1",
+        "member": "ABRicate on collection 2 report file/GCF_001547875.1__GCF_001547875.1_ASM154787v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001548195.1",
+        "member": "ABRicate on collection 2 report file/GCF_001548195.1__GCF_001548195.1_ASM154819v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001598635.1",
+        "member": "ABRicate on collection 2 report file/GCF_001598635.1__GCF_001598635.1_ASM159863v1_genomic.fna.tabular",
+        "sha256": "7cb725fb3dcc35c0b8a773fae406be79ca544e679135c4ac4af406382bc87483",
+        "raw_records": 6,
+        "filtered_records": 6
+      },
+      {
+        "accession": "GCF_001611955.1",
+        "member": "ABRicate on collection 2 report file/GCF_001611955.1__GCF_001611955.1_ASM161195v1_genomic.fna.tabular",
+        "sha256": "c727e210081345867d0381564bc66f52e7191e9af02d76504093b0566aa6ada7",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_001689055.2",
+        "member": "ABRicate on collection 2 report file/GCF_001689055.2__GCF_001689055.2_ASM168905v2_genomic.fna.tabular",
+        "sha256": "519d787e2115cc21bb2a128fe458f2204a8ad6d60da20f0b0b10cb3b983b153c",
+        "raw_records": 6,
+        "filtered_records": 6
+      },
+      {
+        "accession": "GCF_001697145.1",
+        "member": "ABRicate on collection 2 report file/GCF_001697145.1__GCF_001697145.1_ASM169714v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001953935.1",
+        "member": "ABRicate on collection 2 report file/GCF_001953935.1__GCF_001953935.1_ASM195393v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001956655.1",
+        "member": "ABRicate on collection 2 report file/GCF_001956655.1__GCF_001956655.1_ASM195665v2_genomic.fna.tabular",
+        "sha256": "8bee49b5c85756136ca675ebce4eb1f93571ff8f6a554f2f40d522e016e57bda",
+        "raw_records": 5,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_001983955.1",
+        "member": "ABRicate on collection 2 report file/GCF_001983955.1__GCF_001983955.1_ASM198395v1_genomic.fna.tabular",
+        "sha256": "9dbccc9b7c0cb412d127f02579d00f8403c408cd4de0d5a39c8e534f02933ced",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_001989555.1",
+        "member": "ABRicate on collection 2 report file/GCF_001989555.1__GCF_001989555.1_ASM198955v1_genomic.fna.tabular",
+        "sha256": "0fd55e5f3b310a4be37a822057bd165a785010e2174d1433e2a3bcd40e4887b6",
+        "raw_records": 14,
+        "filtered_records": 14
+      },
+      {
+        "accession": "GCF_002005185.1",
+        "member": "ABRicate on collection 2 report file/GCF_002005185.1__GCF_002005185.1_ASM200518v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002085695.1",
+        "member": "ABRicate on collection 2 report file/GCF_002085695.1__GCF_002085695.1_ASM208569v1_genomic.fna.tabular",
+        "sha256": "0035efb6a76c1d6dc3bc8dbbcba3c4c8d7acff47fd7aabc722d18d24b1af0fce",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_002156805.1",
+        "member": "ABRicate on collection 2 report file/GCF_002156805.1__GCF_002156805.1_ASM215680v1_genomic.fna.tabular",
+        "sha256": "1f7d1c705533eae94199d053f7f292f78d533af42978d92a6b509c6385286954",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002163735.1",
+        "member": "ABRicate on collection 2 report file/GCF_002163735.1__GCF_002163735.1_ASM216373v1_genomic.fna.tabular",
+        "sha256": "68b60e4b7f592c46ad01775249f918b6df3779d9f0a05df9b0eed20393a4edac",
+        "raw_records": 6,
+        "filtered_records": 6
+      },
+      {
+        "accession": "GCF_002208945.1",
+        "member": "ABRicate on collection 2 report file/GCF_002208945.1__GCF_002208945.1_ASM220894v2_genomic.fna.tabular",
+        "sha256": "1088e873ced3aeac868764dacd94fbf74471f23bd3f088e08822c8e1d847066a",
+        "raw_records": 7,
+        "filtered_records": 7
+      },
+      {
+        "accession": "GCF_002215535.1",
+        "member": "ABRicate on collection 2 report file/GCF_002215535.1__GCF_002215535.1_ASM221553v1_genomic.fna.tabular",
+        "sha256": "87a26523a9ce70e2aa78db35f5abf91809a44a2a9b8473553862a2ceed41392e",
+        "raw_records": 7,
+        "filtered_records": 7
+      },
+      {
+        "accession": "GCF_002355195.1",
+        "member": "ABRicate on collection 2 report file/GCF_002355195.1__GCF_002355195.1_ASM235519v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002356175.1",
+        "member": "ABRicate on collection 2 report file/GCF_002356175.1__GCF_002356175.1_ASM235617v1_genomic.fna.tabular",
+        "sha256": "a42d5fb3a31c2a6b372908ea030b62a2e7045f30c02b02e92e65dd53adf153e8",
+        "raw_records": 11,
+        "filtered_records": 11
+      },
+      {
+        "accession": "GCF_002386345.1",
+        "member": "ABRicate on collection 2 report file/GCF_002386345.1__GCF_002386345.1_ASM238634v1_genomic.fna.tabular",
+        "sha256": "037606763433d9920c53c4bd05d7ca8c4b9682759b7fcfffbb29779f05716b19",
+        "raw_records": 5,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_002591175.1",
+        "member": "ABRicate on collection 2 report file/GCF_002591175.1__GCF_002591175.1_ASM259117v1_genomic.fna.tabular",
+        "sha256": "44cf631c6c755d5b186f0bb9b69edaa1e981441bc53f42a2519896c0a573332e",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_002753935.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753935.1__GCF_002753935.1_ASM275393v1_genomic.fna.tabular",
+        "sha256": "0b54ca0e316b788960c8286a1585d63f00cdea3759cbea3aca7267e2e267bf8f",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002753955.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753955.1__GCF_002753955.1_ASM275395v1_genomic.fna.tabular",
+        "sha256": "8da95e14b49e6c2e2b16ff9cf3eac882f43f55f10a3fb03c8a65f00913ae3e7c",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002753975.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753975.1__GCF_002753975.1_ASM275397v1_genomic.fna.tabular",
+        "sha256": "ec08bd78286dd0d136e5c0ca28e059c62740115119296f5cdf29ab3ffe3cae2a",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002754015.1",
+        "member": "ABRicate on collection 2 report file/GCF_002754015.1__GCF_002754015.1_ASM275401v1_genomic.fna.tabular",
+        "sha256": "8e68ad497c73714e63969fa24fea398e39393b9241ea63ac65f080581ee99a94",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002763535.1",
+        "member": "ABRicate on collection 2 report file/GCF_002763535.1__GCF_002763535.1_ASM276353v1_genomic.fna.tabular",
+        "sha256": "0a8e0dfc77c2b13a6c7ad42f4e1f26481fba604414cdf7460b9e72417b062045",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002763575.1",
+        "member": "ABRicate on collection 2 report file/GCF_002763575.1__GCF_002763575.1_ASM276357v1_genomic.fna.tabular",
+        "sha256": "07d5a633c68e74ed3e80ae391bdc18b0049ed879e1c7939407c097982fc753e2",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002803965.1",
+        "member": "ABRicate on collection 2 report file/GCF_002803965.1__GCF_002803965.1_ASM280396v1_genomic.fna.tabular",
+        "sha256": "8196c15fea6e05f6572752f6db880b0a2727fcb96fb6f8fc79a84f685a7a2ce2",
+        "raw_records": 7,
+        "filtered_records": 7
+      },
+      {
+        "accession": "GCF_002804085.1",
+        "member": "ABRicate on collection 2 report file/GCF_002804085.1__GCF_002804085.1_ASM280408v1_genomic.fna.tabular",
+        "sha256": "4e5445869745adf9678bece524a76a7e7665ddba487c0f6402b995112e29e5a5",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002906595.1",
+        "member": "ABRicate on collection 2 report file/GCF_002906595.1__GCF_002906595.1_ASM290659v1_genomic.fna.tabular",
+        "sha256": "2ddfb665d57106682e181e1932386cdcd185e64c28b81769d9c858f089c56635",
+        "raw_records": 12,
+        "filtered_records": 12
+      },
+      {
+        "accession": "GCF_002906615.1",
+        "member": "ABRicate on collection 2 report file/GCF_002906615.1__GCF_002906615.1_ASM290661v1_genomic.fna.tabular",
+        "sha256": "e3ef46833fd6105de1e84b6edc9601c8cd17ad1fa89af94c9496fbab34b5679a",
+        "raw_records": 12,
+        "filtered_records": 12
+      },
+      {
+        "accession": "GCF_002952715.2",
+        "member": "ABRicate on collection 2 report file/GCF_002952715.2__GCF_002952715.2_ASM295271v2_genomic.fna.tabular",
+        "sha256": "98f091211a873b4e4e6c4ce025881480c70d247c389ef7faa4d6b61f737fdb1d",
+        "raw_records": 9,
+        "filtered_records": 9
+      },
+      {
+        "accession": "GCF_006094375.1",
+        "member": "ABRicate on collection 2 report file/GCF_006094375.1__GCF_006094375.1_ASM609437v1_genomic.fna.tabular",
+        "sha256": "20bec98e112e06010e1345a158ad5090a995aebb0932f6635989022632a53308",
+        "raw_records": 5,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_006094395.1",
+        "member": "ABRicate on collection 2 report file/GCF_006094395.1__GCF_006094395.1_ASM609439v1_genomic.fna.tabular",
+        "sha256": "eef89c483201adad931a6e08095f0ee8431a6c471fcc5dfbe67c693c7bcbc5a4",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_007475365.1",
+        "member": "ABRicate on collection 2 report file/GCF_007475365.1__GCF_007475365.1_ASM747536v1_genomic.fna.tabular",
+        "sha256": "590382ab9497d8f2831d005fd43f32034e2315bf7291cad478085625ee60e34d",
+        "raw_records": 4,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_008726365.3",
+        "member": "ABRicate on collection 2 report file/GCF_008726365.3__GCF_008726365.3_ASM872636v3_genomic.fna.tabular",
+        "sha256": "361e9f5751f3093f219f9c8bc3b138b0a5c227d5b4ef642961f882bee3902653",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_009730515.1",
+        "member": "ABRicate on collection 2 report file/GCF_009730515.1__GCF_009730515.1_ASM973051v1_genomic.fna.tabular",
+        "sha256": "27e69a0ce730cceb110b9763a98437864cbc02a7c211d6da3c16bdbd2feada49",
+        "raw_records": 4,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_013267675.1",
+        "member": "ABRicate on collection 2 report file/GCF_013267675.1__GCF_013267675.1_ASM1326767v1_genomic.fna.tabular",
+        "sha256": "b05b160b074db744904ef25839c764efb99703b56b2760025f07ffc43a3ebc39",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_013305725.1",
+        "member": "ABRicate on collection 2 report file/GCF_013305725.1__GCF_013305725.1_ASM1330572v1_genomic.fna.tabular",
+        "sha256": "afe351b52b0915ff27dba97e71e98dfaa69edf2ae9aef165079e801a45803a7f",
+        "raw_records": 6,
+        "filtered_records": 6
+      },
+      {
+        "accession": "GCF_013343115.1",
+        "member": "ABRicate on collection 2 report file/GCF_013343115.1__GCF_013343115.1_ASM1334311v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_013378355.1",
+        "member": "ABRicate on collection 2 report file/GCF_013378355.1__GCF_013378355.1_ASM1337835v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_015243435.1",
+        "member": "ABRicate on collection 2 report file/GCF_015243435.1__GCF_015243435.1_ASM1524343v1_genomic.fna.tabular",
+        "sha256": "963f758c58aac2f24a2555cdce8df02768ba6b205a79dbcc79dd05af303c39a1",
+        "raw_records": 5,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_016028175.1",
+        "member": "ABRicate on collection 2 report file/GCF_016028175.1__GCF_016028175.1_ASM1602817v1_genomic.fna.tabular",
+        "sha256": "bfc04c62c971eef46183ff4ba71752f2e4a24ceb471d0668273e012f27049bd2",
+        "raw_records": 5,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_016028255.1",
+        "member": "ABRicate on collection 2 report file/GCF_016028255.1__GCF_016028255.1_ASM1602825v1_genomic.fna.tabular",
+        "sha256": "ce0ab5f56211f0a6dfb6414c8a263b0f6ae07d052d026b82827d18c5f869fe6d",
+        "raw_records": 4,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_016127175.1",
+        "member": "ABRicate on collection 2 report file/GCF_016127175.1__GCF_016127175.1_ASM1612717v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016127855.1",
+        "member": "ABRicate on collection 2 report file/GCF_016127855.1__GCF_016127855.1_ASM1612785v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016728105.1",
+        "member": "ABRicate on collection 2 report file/GCF_016728105.1__GCF_016728105.1_ASM1672810v1_genomic.fna.tabular",
+        "sha256": "9932c599f4adbd8ad4513fb37edebaa273e3a65e9ee9fee878bf17f8728e1052",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_016728205.1",
+        "member": "ABRicate on collection 2 report file/GCF_016728205.1__GCF_016728205.1_ASM1672820v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_018603625.2",
+        "member": "ABRicate on collection 2 report file/GCF_018603625.2__GCF_018603625.2_ASM1860362v2_genomic.fna.tabular",
+        "sha256": "4d58337c56c938c87577909ba5abb17879d9e85ed11ed350519d6f0c7828f549",
+        "raw_records": 5,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_020883475.1",
+        "member": "ABRicate on collection 2 report file/GCF_020883475.1__GCF_020883475.1_ASM2088347v1_genomic.fna.tabular",
+        "sha256": "319f7760bbced4a13938d4c4a58a301209ae8b6d07cddba06058b866ed6dae63",
+        "raw_records": 11,
+        "filtered_records": 11
+      },
+      {
+        "accession": "GCF_024181405.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181405.1__GCF_024181405.1_ASM2418140v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181425.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181425.1__GCF_024181425.1_ASM2418142v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181445.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181445.1__GCF_024181445.1_ASM2418144v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181465.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181465.1__GCF_024181465.1_ASM2418146v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181485.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181485.1__GCF_024181485.1_ASM2418148v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_028621975.1",
+        "member": "ABRicate on collection 2 report file/GCF_028621975.1__GCF_028621975.1_ASM2862197v1_genomic.fna.tabular",
+        "sha256": "704c592c0db67b506ac53b79a9ae4107013d5fe41f4b6585d42d9b052d9039bd",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_028621995.1",
+        "member": "ABRicate on collection 2 report file/GCF_028621995.1__GCF_028621995.1_ASM2862199v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_031190775.1",
+        "member": "ABRicate on collection 2 report file/GCF_031190775.1__GCF_031190775.1_ASM3119077v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_031191795.1",
+        "member": "ABRicate on collection 2 report file/GCF_031191795.1__GCF_031191795.1_ASM3119179v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_036456085.1",
+        "member": "ABRicate on collection 2 report file/GCF_036456085.1__GCF_036456085.1_ASM3645608v1_genomic.fna.tabular",
+        "sha256": "abfab5ef3e39daf5e71d956748f754741de7dbc6066412b87863966678c38d7d",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_037889055.1",
+        "member": "ABRicate on collection 2 report file/GCF_037889055.1__GCF_037889055.1_ASM3788905v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_037889065.1",
+        "member": "ABRicate on collection 2 report file/GCF_037889065.1__GCF_037889065.1_ASM3788906v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_050220005.1",
+        "member": "ABRicate on collection 2 report file/GCF_050220005.1__GCF_050220005.1_x_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_050220455.1",
+        "member": "ABRicate on collection 2 report file/GCF_050220455.1__GCF_050220455.1_x_genomic.fna.tabular",
+        "sha256": "2f30ec64dc6c126d91a489cf8649664cec498a64c8da2c3158c5a73a401d7a66",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_900186885.1",
+        "member": "ABRicate on collection 2 report file/GCF_900186885.1__GCF_900186885.1_48903_D01_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_900475505.1",
+        "member": "ABRicate on collection 2 report file/GCF_900475505.1__GCF_900475505.1_42925_G01_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_900636475.1",
+        "member": "ABRicate on collection 2 report file/GCF_900636475.1__GCF_900636475.1_42197_F01_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963265035.1",
+        "member": "ABRicate on collection 2 report file/GCF_963265035.1__GCF_963265035.1_NZ_220527_assembly_041_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963340285.1",
+        "member": "ABRicate on collection 2 report file/GCF_963340285.1__GCF_963340285.1_bc1019_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963340415.1",
+        "member": "ABRicate on collection 2 report file/GCF_963340415.1__GCF_963340415.1_bc1017_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      }
+    ]
+  },
+  {
+    "database": "plasmidfinder",
+    "genomes": 82,
+    "raw_records": 40,
+    "filtered_records": 40,
+    "archived_filtered_records": 40,
+    "added_records": 0,
+    "removed_records": 0,
+    "identical_records": true,
+    "zip_sha256": "4cb8a427363e58fe28656f4263f738e9c4869d303d33125361d475b8a08effd6",
+    "members": [
+      {
+        "accession": "GCF_000238215.1",
+        "member": "ABRicate on collection 2 report file/GCF_000238215.1__GCF_000238215.1_ASM23821v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_000722765.2",
+        "member": "ABRicate on collection 2 report file/GCF_000722765.2__GCF_000722765.2_ASM72276v2_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_000759555.1",
+        "member": "ABRicate on collection 2 report file/GCF_000759555.1__GCF_000759555.1_ASM75955v1_genomic.fna.tabular",
+        "sha256": "b04d39baff1d3c1a63bf9e6e00c3d8e8e6156415eaa8757805d02aa31939d21a",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_000831165.1",
+        "member": "ABRicate on collection 2 report file/GCF_000831165.1__GCF_000831165.1_ASM83116v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001263815.1",
+        "member": "ABRicate on collection 2 report file/GCF_001263815.1__GCF_001263815.1_ASM126381v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001281025.1",
+        "member": "ABRicate on collection 2 report file/GCF_001281025.1__GCF_001281025.1_ASM128102v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001281065.1",
+        "member": "ABRicate on collection 2 report file/GCF_001281065.1__GCF_001281065.1_ASM128106v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001412635.1",
+        "member": "ABRicate on collection 2 report file/GCF_001412635.1__GCF_001412635.1_ASM141263v1_genomic.fna.tabular",
+        "sha256": "fd979833f2e1df3dd1c59bb42abd5d65d292f89d809901db532abe576464f775",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001469565.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469565.1__GCF_001469565.1_ASM146956v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469595.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469595.1__GCF_001469595.1_ASM146959v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469615.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469615.1__GCF_001469615.1_ASM146961v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469655.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469655.1__GCF_001469655.1_ASM146965v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001547855.1",
+        "member": "ABRicate on collection 2 report file/GCF_001547855.1__GCF_001547855.1_ASM154785v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001547875.1",
+        "member": "ABRicate on collection 2 report file/GCF_001547875.1__GCF_001547875.1_ASM154787v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001548195.1",
+        "member": "ABRicate on collection 2 report file/GCF_001548195.1__GCF_001548195.1_ASM154819v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001598635.1",
+        "member": "ABRicate on collection 2 report file/GCF_001598635.1__GCF_001598635.1_ASM159863v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001611955.1",
+        "member": "ABRicate on collection 2 report file/GCF_001611955.1__GCF_001611955.1_ASM161195v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001689055.2",
+        "member": "ABRicate on collection 2 report file/GCF_001689055.2__GCF_001689055.2_ASM168905v2_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001697145.1",
+        "member": "ABRicate on collection 2 report file/GCF_001697145.1__GCF_001697145.1_ASM169714v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001953935.1",
+        "member": "ABRicate on collection 2 report file/GCF_001953935.1__GCF_001953935.1_ASM195393v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001956655.1",
+        "member": "ABRicate on collection 2 report file/GCF_001956655.1__GCF_001956655.1_ASM195665v2_genomic.fna.tabular",
+        "sha256": "a825637df1264a9d4f287abcb46170a1829b73382385eb6b7a2178ce3fbc0468",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_001983955.1",
+        "member": "ABRicate on collection 2 report file/GCF_001983955.1__GCF_001983955.1_ASM198395v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001989555.1",
+        "member": "ABRicate on collection 2 report file/GCF_001989555.1__GCF_001989555.1_ASM198955v1_genomic.fna.tabular",
+        "sha256": "ee2cea8a5390f2df11ebafc0b80b514589d37ff341d70d8113fec44806696693",
+        "raw_records": 4,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_002005185.1",
+        "member": "ABRicate on collection 2 report file/GCF_002005185.1__GCF_002005185.1_ASM200518v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002085695.1",
+        "member": "ABRicate on collection 2 report file/GCF_002085695.1__GCF_002085695.1_ASM208569v1_genomic.fna.tabular",
+        "sha256": "ce5716ce71a37ae82300afa855e01b76c860cfa5d516e0c5f60788c13c7aba94",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002156805.1",
+        "member": "ABRicate on collection 2 report file/GCF_002156805.1__GCF_002156805.1_ASM215680v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002163735.1",
+        "member": "ABRicate on collection 2 report file/GCF_002163735.1__GCF_002163735.1_ASM216373v1_genomic.fna.tabular",
+        "sha256": "84910684555661dcf2676fc88ff8f76568c5d5ed402730f23150a5c7e6cbdc32",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002208945.1",
+        "member": "ABRicate on collection 2 report file/GCF_002208945.1__GCF_002208945.1_ASM220894v2_genomic.fna.tabular",
+        "sha256": "badc88de26363d19ea3c5f0672f927c6b170dab20318da7e0cb934a39f328889",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002215535.1",
+        "member": "ABRicate on collection 2 report file/GCF_002215535.1__GCF_002215535.1_ASM221553v1_genomic.fna.tabular",
+        "sha256": "54e34db64a4979a732bbdfe27abab66d9f1aee141bff2f79e77c737187d12095",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002355195.1",
+        "member": "ABRicate on collection 2 report file/GCF_002355195.1__GCF_002355195.1_ASM235519v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002356175.1",
+        "member": "ABRicate on collection 2 report file/GCF_002356175.1__GCF_002356175.1_ASM235617v1_genomic.fna.tabular",
+        "sha256": "91ef7ec5653d6586c52cd5d52414c83c4871d8de38d5ff9f214e4f4d9e92c0c9",
+        "raw_records": 4,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_002386345.1",
+        "member": "ABRicate on collection 2 report file/GCF_002386345.1__GCF_002386345.1_ASM238634v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002591175.1",
+        "member": "ABRicate on collection 2 report file/GCF_002591175.1__GCF_002591175.1_ASM259117v1_genomic.fna.tabular",
+        "sha256": "049ec325220484c8ef443575453e41dd3ea7b2e0006a9d8414e1ea31ae5989b7",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002753935.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753935.1__GCF_002753935.1_ASM275393v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002753955.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753955.1__GCF_002753955.1_ASM275395v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002753975.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753975.1__GCF_002753975.1_ASM275397v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002754015.1",
+        "member": "ABRicate on collection 2 report file/GCF_002754015.1__GCF_002754015.1_ASM275401v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002763535.1",
+        "member": "ABRicate on collection 2 report file/GCF_002763535.1__GCF_002763535.1_ASM276353v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002763575.1",
+        "member": "ABRicate on collection 2 report file/GCF_002763575.1__GCF_002763575.1_ASM276357v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002803965.1",
+        "member": "ABRicate on collection 2 report file/GCF_002803965.1__GCF_002803965.1_ASM280396v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002804085.1",
+        "member": "ABRicate on collection 2 report file/GCF_002804085.1__GCF_002804085.1_ASM280408v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002906595.1",
+        "member": "ABRicate on collection 2 report file/GCF_002906595.1__GCF_002906595.1_ASM290659v1_genomic.fna.tabular",
+        "sha256": "1db8c04ddb0921a913f52c02b6424dc6869392084cb03eb3f68367e72f768b7d",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_002906615.1",
+        "member": "ABRicate on collection 2 report file/GCF_002906615.1__GCF_002906615.1_ASM290661v1_genomic.fna.tabular",
+        "sha256": "7291455ef30f0d6e0cb7986b9159d9e151ca212713cf138f7c899c167741a4ce",
+        "raw_records": 4,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_002952715.2",
+        "member": "ABRicate on collection 2 report file/GCF_002952715.2__GCF_002952715.2_ASM295271v2_genomic.fna.tabular",
+        "sha256": "dc3aa549493c7680b43fa424c67ffb6ffdf626a121dc6abf228f8891be69bc3e",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_006094375.1",
+        "member": "ABRicate on collection 2 report file/GCF_006094375.1__GCF_006094375.1_ASM609437v1_genomic.fna.tabular",
+        "sha256": "2ee43dd8318d96d853223f93a52670fb9586dd3031f34f7d714ccf52e259667d",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_006094395.1",
+        "member": "ABRicate on collection 2 report file/GCF_006094395.1__GCF_006094395.1_ASM609439v1_genomic.fna.tabular",
+        "sha256": "fba35854356cd7667f5189917bdc117bb5ccd56f7616ff9a3e958fe854b36d73",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_007475365.1",
+        "member": "ABRicate on collection 2 report file/GCF_007475365.1__GCF_007475365.1_ASM747536v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_008726365.3",
+        "member": "ABRicate on collection 2 report file/GCF_008726365.3__GCF_008726365.3_ASM872636v3_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_009730515.1",
+        "member": "ABRicate on collection 2 report file/GCF_009730515.1__GCF_009730515.1_ASM973051v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_013267675.1",
+        "member": "ABRicate on collection 2 report file/GCF_013267675.1__GCF_013267675.1_ASM1326767v1_genomic.fna.tabular",
+        "sha256": "6de061df4b1d6b269e923d2ac824d297fbfde0d3001a130d5c124477f46e8a75",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_013305725.1",
+        "member": "ABRicate on collection 2 report file/GCF_013305725.1__GCF_013305725.1_ASM1330572v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_013343115.1",
+        "member": "ABRicate on collection 2 report file/GCF_013343115.1__GCF_013343115.1_ASM1334311v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_013378355.1",
+        "member": "ABRicate on collection 2 report file/GCF_013378355.1__GCF_013378355.1_ASM1337835v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_015243435.1",
+        "member": "ABRicate on collection 2 report file/GCF_015243435.1__GCF_015243435.1_ASM1524343v1_genomic.fna.tabular",
+        "sha256": "01616111458934c64846dc699f77db0c729a956a2b140efe734c912cc818d149",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_016028175.1",
+        "member": "ABRicate on collection 2 report file/GCF_016028175.1__GCF_016028175.1_ASM1602817v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016028255.1",
+        "member": "ABRicate on collection 2 report file/GCF_016028255.1__GCF_016028255.1_ASM1602825v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016127175.1",
+        "member": "ABRicate on collection 2 report file/GCF_016127175.1__GCF_016127175.1_ASM1612717v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016127855.1",
+        "member": "ABRicate on collection 2 report file/GCF_016127855.1__GCF_016127855.1_ASM1612785v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016728105.1",
+        "member": "ABRicate on collection 2 report file/GCF_016728105.1__GCF_016728105.1_ASM1672810v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016728205.1",
+        "member": "ABRicate on collection 2 report file/GCF_016728205.1__GCF_016728205.1_ASM1672820v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_018603625.2",
+        "member": "ABRicate on collection 2 report file/GCF_018603625.2__GCF_018603625.2_ASM1860362v2_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_020883475.1",
+        "member": "ABRicate on collection 2 report file/GCF_020883475.1__GCF_020883475.1_ASM2088347v1_genomic.fna.tabular",
+        "sha256": "3e6b2b585f74d5a1c2cc78611b6faab4a5f6d9168f6a4a9175ec80b1022c4b17",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_024181405.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181405.1__GCF_024181405.1_ASM2418140v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181425.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181425.1__GCF_024181425.1_ASM2418142v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181445.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181445.1__GCF_024181445.1_ASM2418144v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181465.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181465.1__GCF_024181465.1_ASM2418146v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181485.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181485.1__GCF_024181485.1_ASM2418148v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_028621975.1",
+        "member": "ABRicate on collection 2 report file/GCF_028621975.1__GCF_028621975.1_ASM2862197v1_genomic.fna.tabular",
+        "sha256": "7d1270404601cf1a9f553055040a09fd684f899958d5c859dbc2ff3de9061d1e",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_028621995.1",
+        "member": "ABRicate on collection 2 report file/GCF_028621995.1__GCF_028621995.1_ASM2862199v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_031190775.1",
+        "member": "ABRicate on collection 2 report file/GCF_031190775.1__GCF_031190775.1_ASM3119077v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_031191795.1",
+        "member": "ABRicate on collection 2 report file/GCF_031191795.1__GCF_031191795.1_ASM3119179v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_036456085.1",
+        "member": "ABRicate on collection 2 report file/GCF_036456085.1__GCF_036456085.1_ASM3645608v1_genomic.fna.tabular",
+        "sha256": "866a8786238ce312d06d73212f560d8f307e4af7484937e3e9f1c410a1ae4da6",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_037889055.1",
+        "member": "ABRicate on collection 2 report file/GCF_037889055.1__GCF_037889055.1_ASM3788905v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_037889065.1",
+        "member": "ABRicate on collection 2 report file/GCF_037889065.1__GCF_037889065.1_ASM3788906v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_050220005.1",
+        "member": "ABRicate on collection 2 report file/GCF_050220005.1__GCF_050220005.1_x_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_050220455.1",
+        "member": "ABRicate on collection 2 report file/GCF_050220455.1__GCF_050220455.1_x_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_900186885.1",
+        "member": "ABRicate on collection 2 report file/GCF_900186885.1__GCF_900186885.1_48903_D01_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_900475505.1",
+        "member": "ABRicate on collection 2 report file/GCF_900475505.1__GCF_900475505.1_42925_G01_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_900636475.1",
+        "member": "ABRicate on collection 2 report file/GCF_900636475.1__GCF_900636475.1_42197_F01_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963265035.1",
+        "member": "ABRicate on collection 2 report file/GCF_963265035.1__GCF_963265035.1_NZ_220527_assembly_041_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963340285.1",
+        "member": "ABRicate on collection 2 report file/GCF_963340285.1__GCF_963340285.1_bc1019_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963340415.1",
+        "member": "ABRicate on collection 2 report file/GCF_963340415.1__GCF_963340415.1_bc1017_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      }
+    ]
+  },
+  {
+    "database": "resfinder",
+    "genomes": 82,
+    "raw_records": 105,
+    "filtered_records": 105,
+    "archived_filtered_records": 105,
+    "added_records": 0,
+    "removed_records": 0,
+    "identical_records": true,
+    "zip_sha256": "e3c9e143f3aa92e497ad516a191ba71e9604199b1740325309bd8299bff9dc69",
+    "members": [
+      {
+        "accession": "GCF_000238215.1",
+        "member": "ABRicate on collection 2 report file/GCF_000238215.1__GCF_000238215.1_ASM23821v1_genomic.fna.tabular",
+        "sha256": "b462754bdc8bd5c424d0c6fe56f4769706ecbbcccae9ccbe8f6fed8012d40758",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_000722765.2",
+        "member": "ABRicate on collection 2 report file/GCF_000722765.2__GCF_000722765.2_ASM72276v2_genomic.fna.tabular",
+        "sha256": "1bc9c416fe2d809384dd410f382fb2f4ee09b8866bea3140265bacbd44d54f0d",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_000759555.1",
+        "member": "ABRicate on collection 2 report file/GCF_000759555.1__GCF_000759555.1_ASM75955v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_000831165.1",
+        "member": "ABRicate on collection 2 report file/GCF_000831165.1__GCF_000831165.1_ASM83116v1_genomic.fna.tabular",
+        "sha256": "68f244e9f0e616964d23291a3cf6bd538ee788f4d3114362d25ec5c1f70df3aa",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_001263815.1",
+        "member": "ABRicate on collection 2 report file/GCF_001263815.1__GCF_001263815.1_ASM126381v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001281025.1",
+        "member": "ABRicate on collection 2 report file/GCF_001281025.1__GCF_001281025.1_ASM128102v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001281065.1",
+        "member": "ABRicate on collection 2 report file/GCF_001281065.1__GCF_001281065.1_ASM128106v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001412635.1",
+        "member": "ABRicate on collection 2 report file/GCF_001412635.1__GCF_001412635.1_ASM141263v1_genomic.fna.tabular",
+        "sha256": "cd79f0bffe6435a35d68e8e6fc4569dd97393d98c43f61c8729830bd1467c0a6",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001469565.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469565.1__GCF_001469565.1_ASM146956v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469595.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469595.1__GCF_001469595.1_ASM146959v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469615.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469615.1__GCF_001469615.1_ASM146961v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469655.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469655.1__GCF_001469655.1_ASM146965v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001547855.1",
+        "member": "ABRicate on collection 2 report file/GCF_001547855.1__GCF_001547855.1_ASM154785v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001547875.1",
+        "member": "ABRicate on collection 2 report file/GCF_001547875.1__GCF_001547875.1_ASM154787v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001548195.1",
+        "member": "ABRicate on collection 2 report file/GCF_001548195.1__GCF_001548195.1_ASM154819v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001598635.1",
+        "member": "ABRicate on collection 2 report file/GCF_001598635.1__GCF_001598635.1_ASM159863v1_genomic.fna.tabular",
+        "sha256": "15f8f30cfc9e721b53a764ad23eddffacded6d01fd888188f288382f8f975045",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001611955.1",
+        "member": "ABRicate on collection 2 report file/GCF_001611955.1__GCF_001611955.1_ASM161195v1_genomic.fna.tabular",
+        "sha256": "bfdc394b2ff3d2ea9b2aa2bf3148a58382e1e1e70fa803e2db495ec76171a9c8",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_001689055.2",
+        "member": "ABRicate on collection 2 report file/GCF_001689055.2__GCF_001689055.2_ASM168905v2_genomic.fna.tabular",
+        "sha256": "b9071c61c9c6b8d3d6ce9dc3a246c63f493dec1887ac8d7014c3e8d38bce0bc2",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001697145.1",
+        "member": "ABRicate on collection 2 report file/GCF_001697145.1__GCF_001697145.1_ASM169714v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001953935.1",
+        "member": "ABRicate on collection 2 report file/GCF_001953935.1__GCF_001953935.1_ASM195393v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001956655.1",
+        "member": "ABRicate on collection 2 report file/GCF_001956655.1__GCF_001956655.1_ASM195665v2_genomic.fna.tabular",
+        "sha256": "30725c29f8c430f9d5c1426ec7c403db2fc9055be7f616748f9a9abd1e7dd465",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001983955.1",
+        "member": "ABRicate on collection 2 report file/GCF_001983955.1__GCF_001983955.1_ASM198395v1_genomic.fna.tabular",
+        "sha256": "1e5a17ad5274ef2f51a9c0e236ff1093d271de5e48acf14ea7474b59a3ac158a",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_001989555.1",
+        "member": "ABRicate on collection 2 report file/GCF_001989555.1__GCF_001989555.1_ASM198955v1_genomic.fna.tabular",
+        "sha256": "1eaca829ac44e91880c53d0000decc5ead1c348cf46acc92627a3ca5f3660276",
+        "raw_records": 7,
+        "filtered_records": 7
+      },
+      {
+        "accession": "GCF_002005185.1",
+        "member": "ABRicate on collection 2 report file/GCF_002005185.1__GCF_002005185.1_ASM200518v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002085695.1",
+        "member": "ABRicate on collection 2 report file/GCF_002085695.1__GCF_002085695.1_ASM208569v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002156805.1",
+        "member": "ABRicate on collection 2 report file/GCF_002156805.1__GCF_002156805.1_ASM215680v1_genomic.fna.tabular",
+        "sha256": "a1cd7ad84d93586badcde352d550ce8217fb5c32102ffa0a1e5f6e33b5c3e39d",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002163735.1",
+        "member": "ABRicate on collection 2 report file/GCF_002163735.1__GCF_002163735.1_ASM216373v1_genomic.fna.tabular",
+        "sha256": "d9cf06d674683482d8d563b6325bba2c0d4ad6b5793fb4acff00f50ce80a052e",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002208945.1",
+        "member": "ABRicate on collection 2 report file/GCF_002208945.1__GCF_002208945.1_ASM220894v2_genomic.fna.tabular",
+        "sha256": "ad0e32ab9fb3dbaca5ac017b76569c9f07a429110f51e390d8da0238b5295da7",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002215535.1",
+        "member": "ABRicate on collection 2 report file/GCF_002215535.1__GCF_002215535.1_ASM221553v1_genomic.fna.tabular",
+        "sha256": "94e027abb0199d568c97cb6d6b856391662bbcce6177fb015a1f76eb071b9a88",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_002355195.1",
+        "member": "ABRicate on collection 2 report file/GCF_002355195.1__GCF_002355195.1_ASM235519v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002356175.1",
+        "member": "ABRicate on collection 2 report file/GCF_002356175.1__GCF_002356175.1_ASM235617v1_genomic.fna.tabular",
+        "sha256": "e7cf41cc6f420680e9d07dd803415094c84aad54c390bfaa6fb39567dbfdf57a",
+        "raw_records": 8,
+        "filtered_records": 8
+      },
+      {
+        "accession": "GCF_002386345.1",
+        "member": "ABRicate on collection 2 report file/GCF_002386345.1__GCF_002386345.1_ASM238634v1_genomic.fna.tabular",
+        "sha256": "f568e6179ddd6303d1e1033759cc28fe0fe5dcfae4a9815a364312e11b80d2c2",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002591175.1",
+        "member": "ABRicate on collection 2 report file/GCF_002591175.1__GCF_002591175.1_ASM259117v1_genomic.fna.tabular",
+        "sha256": "d54676607619057b68352ab556e674628206ae00f0eac620dc6324d9c7c42211",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002753935.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753935.1__GCF_002753935.1_ASM275393v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002753955.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753955.1__GCF_002753955.1_ASM275395v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002753975.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753975.1__GCF_002753975.1_ASM275397v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002754015.1",
+        "member": "ABRicate on collection 2 report file/GCF_002754015.1__GCF_002754015.1_ASM275401v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002763535.1",
+        "member": "ABRicate on collection 2 report file/GCF_002763535.1__GCF_002763535.1_ASM276353v1_genomic.fna.tabular",
+        "sha256": "67fc11959ee75b9ce4325b14457136113d9388d20ecac406e59384a394f88137",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002763575.1",
+        "member": "ABRicate on collection 2 report file/GCF_002763575.1__GCF_002763575.1_ASM276357v1_genomic.fna.tabular",
+        "sha256": "3024b2e232045bda9646d9d54e17c0f6feff371e43d636a9a46f6d87c9a0da6e",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_002803965.1",
+        "member": "ABRicate on collection 2 report file/GCF_002803965.1__GCF_002803965.1_ASM280396v1_genomic.fna.tabular",
+        "sha256": "ff9e350edc98579e42a9960c8c6734cccb1103954740e725d6dcd3bd4658d961",
+        "raw_records": 7,
+        "filtered_records": 7
+      },
+      {
+        "accession": "GCF_002804085.1",
+        "member": "ABRicate on collection 2 report file/GCF_002804085.1__GCF_002804085.1_ASM280408v1_genomic.fna.tabular",
+        "sha256": "7de17fd3039b1e9eeec6c83992b90ec632bdb6578dd7e7539bdd1495cdb97600",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_002906595.1",
+        "member": "ABRicate on collection 2 report file/GCF_002906595.1__GCF_002906595.1_ASM290659v1_genomic.fna.tabular",
+        "sha256": "f03e76ad1575825ad03047fcb3c0f1f3fcc31cea3b5f097618b0fe98cc2f00a9",
+        "raw_records": 9,
+        "filtered_records": 9
+      },
+      {
+        "accession": "GCF_002906615.1",
+        "member": "ABRicate on collection 2 report file/GCF_002906615.1__GCF_002906615.1_ASM290661v1_genomic.fna.tabular",
+        "sha256": "31d8f1827d5b9316fbcba440a1ffa02b982e30ad76960167b7abac016ff0dfd6",
+        "raw_records": 9,
+        "filtered_records": 9
+      },
+      {
+        "accession": "GCF_002952715.2",
+        "member": "ABRicate on collection 2 report file/GCF_002952715.2__GCF_002952715.2_ASM295271v2_genomic.fna.tabular",
+        "sha256": "18a1a78565e9b87b14688a4982548d30c1308adf8717dce7b5a747cd46af6248",
+        "raw_records": 6,
+        "filtered_records": 6
+      },
+      {
+        "accession": "GCF_006094375.1",
+        "member": "ABRicate on collection 2 report file/GCF_006094375.1__GCF_006094375.1_ASM609437v1_genomic.fna.tabular",
+        "sha256": "3e0e861e759234eeaee47c91e23c863a6399044785d1266aa499a02bd95e3a6b",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_006094395.1",
+        "member": "ABRicate on collection 2 report file/GCF_006094395.1__GCF_006094395.1_ASM609439v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_007475365.1",
+        "member": "ABRicate on collection 2 report file/GCF_007475365.1__GCF_007475365.1_ASM747536v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_008726365.3",
+        "member": "ABRicate on collection 2 report file/GCF_008726365.3__GCF_008726365.3_ASM872636v3_genomic.fna.tabular",
+        "sha256": "dd58d1074be22538f3d4efc104c7fd5746bc813c4247d3482fc9670090d4d78a",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_009730515.1",
+        "member": "ABRicate on collection 2 report file/GCF_009730515.1__GCF_009730515.1_ASM973051v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_013267675.1",
+        "member": "ABRicate on collection 2 report file/GCF_013267675.1__GCF_013267675.1_ASM1326767v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_013305725.1",
+        "member": "ABRicate on collection 2 report file/GCF_013305725.1__GCF_013305725.1_ASM1330572v1_genomic.fna.tabular",
+        "sha256": "ce8021eb05eb160f9598f50a6b1a9a6390ec355f8effba625359726ea8ff3c12",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_013343115.1",
+        "member": "ABRicate on collection 2 report file/GCF_013343115.1__GCF_013343115.1_ASM1334311v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_013378355.1",
+        "member": "ABRicate on collection 2 report file/GCF_013378355.1__GCF_013378355.1_ASM1337835v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_015243435.1",
+        "member": "ABRicate on collection 2 report file/GCF_015243435.1__GCF_015243435.1_ASM1524343v1_genomic.fna.tabular",
+        "sha256": "765752465f904aa85472317d7c28d49a5bed769d4358744116fb2a2998d88454",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_016028175.1",
+        "member": "ABRicate on collection 2 report file/GCF_016028175.1__GCF_016028175.1_ASM1602817v1_genomic.fna.tabular",
+        "sha256": "d890128959e60699d24dae1f29ab701bf0e68bb49ce7e215b115b45dcdc8df4e",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_016028255.1",
+        "member": "ABRicate on collection 2 report file/GCF_016028255.1__GCF_016028255.1_ASM1602825v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016127175.1",
+        "member": "ABRicate on collection 2 report file/GCF_016127175.1__GCF_016127175.1_ASM1612717v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016127855.1",
+        "member": "ABRicate on collection 2 report file/GCF_016127855.1__GCF_016127855.1_ASM1612785v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016728105.1",
+        "member": "ABRicate on collection 2 report file/GCF_016728105.1__GCF_016728105.1_ASM1672810v1_genomic.fna.tabular",
+        "sha256": "3668adf552427078673936a1f48bbb9b895801f4aec2a0a491b597f6f3bb5f20",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_016728205.1",
+        "member": "ABRicate on collection 2 report file/GCF_016728205.1__GCF_016728205.1_ASM1672820v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_018603625.2",
+        "member": "ABRicate on collection 2 report file/GCF_018603625.2__GCF_018603625.2_ASM1860362v2_genomic.fna.tabular",
+        "sha256": "bea26c04289de5989cd8099b21cee39f0f06a4d81d8cf503c327143e690f9c9a",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_020883475.1",
+        "member": "ABRicate on collection 2 report file/GCF_020883475.1__GCF_020883475.1_ASM2088347v1_genomic.fna.tabular",
+        "sha256": "2baac8917abe9a2c9c7ffd721a3089314f68b24303ee3576c6eaa50db6abcab6",
+        "raw_records": 7,
+        "filtered_records": 7
+      },
+      {
+        "accession": "GCF_024181405.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181405.1__GCF_024181405.1_ASM2418140v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181425.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181425.1__GCF_024181425.1_ASM2418142v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181445.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181445.1__GCF_024181445.1_ASM2418144v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181465.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181465.1__GCF_024181465.1_ASM2418146v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181485.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181485.1__GCF_024181485.1_ASM2418148v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_028621975.1",
+        "member": "ABRicate on collection 2 report file/GCF_028621975.1__GCF_028621975.1_ASM2862197v1_genomic.fna.tabular",
+        "sha256": "df8775880988f2cdc0d2ef5da2bfa7d71b54d75840b7eee7065bd9d2b396181c",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_028621995.1",
+        "member": "ABRicate on collection 2 report file/GCF_028621995.1__GCF_028621995.1_ASM2862199v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_031190775.1",
+        "member": "ABRicate on collection 2 report file/GCF_031190775.1__GCF_031190775.1_ASM3119077v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_031191795.1",
+        "member": "ABRicate on collection 2 report file/GCF_031191795.1__GCF_031191795.1_ASM3119179v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_036456085.1",
+        "member": "ABRicate on collection 2 report file/GCF_036456085.1__GCF_036456085.1_ASM3645608v1_genomic.fna.tabular",
+        "sha256": "8f873fdd98178dfb4824fb7d3ae027d8a39ebdfd464b82f71ec96a37470b553f",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_037889055.1",
+        "member": "ABRicate on collection 2 report file/GCF_037889055.1__GCF_037889055.1_ASM3788905v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_037889065.1",
+        "member": "ABRicate on collection 2 report file/GCF_037889065.1__GCF_037889065.1_ASM3788906v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_050220005.1",
+        "member": "ABRicate on collection 2 report file/GCF_050220005.1__GCF_050220005.1_x_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_050220455.1",
+        "member": "ABRicate on collection 2 report file/GCF_050220455.1__GCF_050220455.1_x_genomic.fna.tabular",
+        "sha256": "dd21ea63cfdcd7225427f26ca5d142de21e074726dad530b24c8ea40a57ecb98",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_900186885.1",
+        "member": "ABRicate on collection 2 report file/GCF_900186885.1__GCF_900186885.1_48903_D01_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_900475505.1",
+        "member": "ABRicate on collection 2 report file/GCF_900475505.1__GCF_900475505.1_42925_G01_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_900636475.1",
+        "member": "ABRicate on collection 2 report file/GCF_900636475.1__GCF_900636475.1_42197_F01_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963265035.1",
+        "member": "ABRicate on collection 2 report file/GCF_963265035.1__GCF_963265035.1_NZ_220527_assembly_041_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963340285.1",
+        "member": "ABRicate on collection 2 report file/GCF_963340285.1__GCF_963340285.1_bc1019_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963340415.1",
+        "member": "ABRicate on collection 2 report file/GCF_963340415.1__GCF_963340415.1_bc1017_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      }
+    ]
+  },
+  {
+    "database": "vfdb",
+    "genomes": 82,
+    "raw_records": 172,
+    "filtered_records": 172,
+    "archived_filtered_records": 172,
+    "added_records": 0,
+    "removed_records": 0,
+    "identical_records": true,
+    "zip_sha256": "a36560f1350b9cd5a53baee2aaa7fe997373a7846ca39b8547a8ff84be693b19",
+    "members": [
+      {
+        "accession": "GCF_000238215.1",
+        "member": "ABRicate on collection 2 report file/GCF_000238215.1__GCF_000238215.1_ASM23821v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_000722765.2",
+        "member": "ABRicate on collection 2 report file/GCF_000722765.2__GCF_000722765.2_ASM72276v2_genomic.fna.tabular",
+        "sha256": "9629c3b4f54b1fd0eb650464efbd31eed0daf5058ef00ca4a4611e526f4eea46",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_000759555.1",
+        "member": "ABRicate on collection 2 report file/GCF_000759555.1__GCF_000759555.1_ASM75955v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_000831165.1",
+        "member": "ABRicate on collection 2 report file/GCF_000831165.1__GCF_000831165.1_ASM83116v1_genomic.fna.tabular",
+        "sha256": "d07f46ccf9e28829b315b38f11e79cf7c24ff67274463a1757d58d73f4155ef1",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001263815.1",
+        "member": "ABRicate on collection 2 report file/GCF_001263815.1__GCF_001263815.1_ASM126381v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001281025.1",
+        "member": "ABRicate on collection 2 report file/GCF_001281025.1__GCF_001281025.1_ASM128102v1_genomic.fna.tabular",
+        "sha256": "0c384028cc730844b16dbcaa0fd3935ea5004d559e195e6a783ce0e320598e06",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_001281065.1",
+        "member": "ABRicate on collection 2 report file/GCF_001281065.1__GCF_001281065.1_ASM128106v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001412635.1",
+        "member": "ABRicate on collection 2 report file/GCF_001412635.1__GCF_001412635.1_ASM141263v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469565.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469565.1__GCF_001469565.1_ASM146956v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469595.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469595.1__GCF_001469595.1_ASM146959v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469615.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469615.1__GCF_001469615.1_ASM146961v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001469655.1",
+        "member": "ABRicate on collection 2 report file/GCF_001469655.1__GCF_001469655.1_ASM146965v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001547855.1",
+        "member": "ABRicate on collection 2 report file/GCF_001547855.1__GCF_001547855.1_ASM154785v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001547875.1",
+        "member": "ABRicate on collection 2 report file/GCF_001547875.1__GCF_001547875.1_ASM154787v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001548195.1",
+        "member": "ABRicate on collection 2 report file/GCF_001548195.1__GCF_001548195.1_ASM154819v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001598635.1",
+        "member": "ABRicate on collection 2 report file/GCF_001598635.1__GCF_001598635.1_ASM159863v1_genomic.fna.tabular",
+        "sha256": "65e84ca690ee6f7ed8df9ad90f48b19610fb56fe89ccd3ed58953e7c3bb3daa0",
+        "raw_records": 14,
+        "filtered_records": 14
+      },
+      {
+        "accession": "GCF_001611955.1",
+        "member": "ABRicate on collection 2 report file/GCF_001611955.1__GCF_001611955.1_ASM161195v1_genomic.fna.tabular",
+        "sha256": "da41fe79e82e2efdf01335bc50bc5a64bc4b6d15765412137030f7b470e83db1",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001689055.2",
+        "member": "ABRicate on collection 2 report file/GCF_001689055.2__GCF_001689055.2_ASM168905v2_genomic.fna.tabular",
+        "sha256": "2fda1eee333fd1b00f3890d71f54d58c1ce03185895e74a7f33bcb3c834cf0d7",
+        "raw_records": 23,
+        "filtered_records": 23
+      },
+      {
+        "accession": "GCF_001697145.1",
+        "member": "ABRicate on collection 2 report file/GCF_001697145.1__GCF_001697145.1_ASM169714v1_genomic.fna.tabular",
+        "sha256": "53e84f6b99f30cd344a2a595afd034b1dd6ff6a809afbb1adf72c9f6d9f0d32f",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_001953935.1",
+        "member": "ABRicate on collection 2 report file/GCF_001953935.1__GCF_001953935.1_ASM195393v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_001956655.1",
+        "member": "ABRicate on collection 2 report file/GCF_001956655.1__GCF_001956655.1_ASM195665v2_genomic.fna.tabular",
+        "sha256": "f3961940aa462abf975c2039817564bff4f56754772695e2e115d17ff4e794a5",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_001983955.1",
+        "member": "ABRicate on collection 2 report file/GCF_001983955.1__GCF_001983955.1_ASM198395v1_genomic.fna.tabular",
+        "sha256": "764ccaea55236dd758ede9c74b520082693ed58ba2072dbb3c6a07b2cdc3ea5d",
+        "raw_records": 5,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_001989555.1",
+        "member": "ABRicate on collection 2 report file/GCF_001989555.1__GCF_001989555.1_ASM198955v1_genomic.fna.tabular",
+        "sha256": "d3ef2d3695ef96d1fb9586b685deb543691716e7b805505a04493b84d8fc414e",
+        "raw_records": 34,
+        "filtered_records": 34
+      },
+      {
+        "accession": "GCF_002005185.1",
+        "member": "ABRicate on collection 2 report file/GCF_002005185.1__GCF_002005185.1_ASM200518v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002085695.1",
+        "member": "ABRicate on collection 2 report file/GCF_002085695.1__GCF_002085695.1_ASM208569v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002156805.1",
+        "member": "ABRicate on collection 2 report file/GCF_002156805.1__GCF_002156805.1_ASM215680v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002163735.1",
+        "member": "ABRicate on collection 2 report file/GCF_002163735.1__GCF_002163735.1_ASM216373v1_genomic.fna.tabular",
+        "sha256": "98e4ae1c98d035530e9f7fb8995aef4157e016a10870121d7437a2f479e25e84",
+        "raw_records": 34,
+        "filtered_records": 34
+      },
+      {
+        "accession": "GCF_002208945.1",
+        "member": "ABRicate on collection 2 report file/GCF_002208945.1__GCF_002208945.1_ASM220894v2_genomic.fna.tabular",
+        "sha256": "60bbc5cbe184087198ef2e172109018a0543e71aa44e16e66120bb6bfda569fb",
+        "raw_records": 14,
+        "filtered_records": 14
+      },
+      {
+        "accession": "GCF_002215535.1",
+        "member": "ABRicate on collection 2 report file/GCF_002215535.1__GCF_002215535.1_ASM221553v1_genomic.fna.tabular",
+        "sha256": "0aa8c97c29700c16a6b99a917257e4466f27776ac19597456b33505fc1ff61e4",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002355195.1",
+        "member": "ABRicate on collection 2 report file/GCF_002355195.1__GCF_002355195.1_ASM235519v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002356175.1",
+        "member": "ABRicate on collection 2 report file/GCF_002356175.1__GCF_002356175.1_ASM235617v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002386345.1",
+        "member": "ABRicate on collection 2 report file/GCF_002386345.1__GCF_002386345.1_ASM238634v1_genomic.fna.tabular",
+        "sha256": "bb00d85fee7b54bb1a898b72d1aa95b8db981a742408443afa11a27d3a503a6e",
+        "raw_records": 5,
+        "filtered_records": 5
+      },
+      {
+        "accession": "GCF_002591175.1",
+        "member": "ABRicate on collection 2 report file/GCF_002591175.1__GCF_002591175.1_ASM259117v1_genomic.fna.tabular",
+        "sha256": "bf40afdc13fb5d1f7b113441768cf3de597725fa7b91e9ebb07cd4719df479ed",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002753935.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753935.1__GCF_002753935.1_ASM275393v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002753955.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753955.1__GCF_002753955.1_ASM275395v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002753975.1",
+        "member": "ABRicate on collection 2 report file/GCF_002753975.1__GCF_002753975.1_ASM275397v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002754015.1",
+        "member": "ABRicate on collection 2 report file/GCF_002754015.1__GCF_002754015.1_ASM275401v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002763535.1",
+        "member": "ABRicate on collection 2 report file/GCF_002763535.1__GCF_002763535.1_ASM276353v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002763575.1",
+        "member": "ABRicate on collection 2 report file/GCF_002763575.1__GCF_002763575.1_ASM276357v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002803965.1",
+        "member": "ABRicate on collection 2 report file/GCF_002803965.1__GCF_002803965.1_ASM280396v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002804085.1",
+        "member": "ABRicate on collection 2 report file/GCF_002804085.1__GCF_002804085.1_ASM280408v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_002906595.1",
+        "member": "ABRicate on collection 2 report file/GCF_002906595.1__GCF_002906595.1_ASM290659v1_genomic.fna.tabular",
+        "sha256": "2c816d831322dd7fd17ba841224eafe9b500635073c905b949469b5798ce8762",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002906615.1",
+        "member": "ABRicate on collection 2 report file/GCF_002906615.1__GCF_002906615.1_ASM290661v1_genomic.fna.tabular",
+        "sha256": "04f06209593146ab9ad34f8598529f5be4224b679c8e018caa55c8404ed76cba",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_002952715.2",
+        "member": "ABRicate on collection 2 report file/GCF_002952715.2__GCF_002952715.2_ASM295271v2_genomic.fna.tabular",
+        "sha256": "c85d956da61f7263560f248bfecf11002b8b9dbb6ba917dc4a41a08758e91ab2",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_006094375.1",
+        "member": "ABRicate on collection 2 report file/GCF_006094375.1__GCF_006094375.1_ASM609437v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_006094395.1",
+        "member": "ABRicate on collection 2 report file/GCF_006094395.1__GCF_006094395.1_ASM609439v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_007475365.1",
+        "member": "ABRicate on collection 2 report file/GCF_007475365.1__GCF_007475365.1_ASM747536v1_genomic.fna.tabular",
+        "sha256": "5c0fbaa748cc08fa2d9651050092f5c9618e03e8498b315957afd4c1d6a135c2",
+        "raw_records": 8,
+        "filtered_records": 8
+      },
+      {
+        "accession": "GCF_008726365.3",
+        "member": "ABRicate on collection 2 report file/GCF_008726365.3__GCF_008726365.3_ASM872636v3_genomic.fna.tabular",
+        "sha256": "2b73a53b151f7d5b8bd70f70510f04f6c4ed93e5fc42751a83bf23b4cef33438",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_009730515.1",
+        "member": "ABRicate on collection 2 report file/GCF_009730515.1__GCF_009730515.1_ASM973051v1_genomic.fna.tabular",
+        "sha256": "eba7f19312f2a789282300c15bacd0010cf6852a8dbb5409f5c1e92bbbd35e50",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_013267675.1",
+        "member": "ABRicate on collection 2 report file/GCF_013267675.1__GCF_013267675.1_ASM1326767v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_013305725.1",
+        "member": "ABRicate on collection 2 report file/GCF_013305725.1__GCF_013305725.1_ASM1330572v1_genomic.fna.tabular",
+        "sha256": "36d27a5953c6b8536ae03e1a86061c97d5805bc5775fd5d33463f17bece8d6c0",
+        "raw_records": 3,
+        "filtered_records": 3
+      },
+      {
+        "accession": "GCF_013343115.1",
+        "member": "ABRicate on collection 2 report file/GCF_013343115.1__GCF_013343115.1_ASM1334311v1_genomic.fna.tabular",
+        "sha256": "b66035c0408db98e587d11bbde64dadd232dc97d74b7bd2573c655a6cc5d0e6c",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_013378355.1",
+        "member": "ABRicate on collection 2 report file/GCF_013378355.1__GCF_013378355.1_ASM1337835v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_015243435.1",
+        "member": "ABRicate on collection 2 report file/GCF_015243435.1__GCF_015243435.1_ASM1524343v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016028175.1",
+        "member": "ABRicate on collection 2 report file/GCF_016028175.1__GCF_016028175.1_ASM1602817v1_genomic.fna.tabular",
+        "sha256": "87576b42e9b69aaee403b14ea8c0a63ee2086bfad0dac6db05e9284ac3c4d275",
+        "raw_records": 4,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_016028255.1",
+        "member": "ABRicate on collection 2 report file/GCF_016028255.1__GCF_016028255.1_ASM1602825v1_genomic.fna.tabular",
+        "sha256": "d83ff4a8834645221b3aea198ce04c0d5b1604c8de4d73deecb72252038acffb",
+        "raw_records": 4,
+        "filtered_records": 4
+      },
+      {
+        "accession": "GCF_016127175.1",
+        "member": "ABRicate on collection 2 report file/GCF_016127175.1__GCF_016127175.1_ASM1612717v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016127855.1",
+        "member": "ABRicate on collection 2 report file/GCF_016127855.1__GCF_016127855.1_ASM1612785v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016728105.1",
+        "member": "ABRicate on collection 2 report file/GCF_016728105.1__GCF_016728105.1_ASM1672810v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_016728205.1",
+        "member": "ABRicate on collection 2 report file/GCF_016728205.1__GCF_016728205.1_ASM1672820v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_018603625.2",
+        "member": "ABRicate on collection 2 report file/GCF_018603625.2__GCF_018603625.2_ASM1860362v2_genomic.fna.tabular",
+        "sha256": "f39fc2eea99d1d1e46fbe0901e5ceabd9a0889b31b77d62722a0e6d7bbf60504",
+        "raw_records": 2,
+        "filtered_records": 2
+      },
+      {
+        "accession": "GCF_020883475.1",
+        "member": "ABRicate on collection 2 report file/GCF_020883475.1__GCF_020883475.1_ASM2088347v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181405.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181405.1__GCF_024181405.1_ASM2418140v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181425.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181425.1__GCF_024181425.1_ASM2418142v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181445.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181445.1__GCF_024181445.1_ASM2418144v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181465.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181465.1__GCF_024181465.1_ASM2418146v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_024181485.1",
+        "member": "ABRicate on collection 2 report file/GCF_024181485.1__GCF_024181485.1_ASM2418148v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_028621975.1",
+        "member": "ABRicate on collection 2 report file/GCF_028621975.1__GCF_028621975.1_ASM2862197v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_028621995.1",
+        "member": "ABRicate on collection 2 report file/GCF_028621995.1__GCF_028621995.1_ASM2862199v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_031190775.1",
+        "member": "ABRicate on collection 2 report file/GCF_031190775.1__GCF_031190775.1_ASM3119077v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_031191795.1",
+        "member": "ABRicate on collection 2 report file/GCF_031191795.1__GCF_031191795.1_ASM3119179v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_036456085.1",
+        "member": "ABRicate on collection 2 report file/GCF_036456085.1__GCF_036456085.1_ASM3645608v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_037889055.1",
+        "member": "ABRicate on collection 2 report file/GCF_037889055.1__GCF_037889055.1_ASM3788905v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_037889065.1",
+        "member": "ABRicate on collection 2 report file/GCF_037889065.1__GCF_037889065.1_ASM3788906v1_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_050220005.1",
+        "member": "ABRicate on collection 2 report file/GCF_050220005.1__GCF_050220005.1_x_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_050220455.1",
+        "member": "ABRicate on collection 2 report file/GCF_050220455.1__GCF_050220455.1_x_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_900186885.1",
+        "member": "ABRicate on collection 2 report file/GCF_900186885.1__GCF_900186885.1_48903_D01_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_900475505.1",
+        "member": "ABRicate on collection 2 report file/GCF_900475505.1__GCF_900475505.1_42925_G01_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_900636475.1",
+        "member": "ABRicate on collection 2 report file/GCF_900636475.1__GCF_900636475.1_42197_F01_genomic.fna.tabular",
+        "sha256": "cfd5f3f61041ef8356053ed017e498ec9ca2932a93c42e6c94924362f9d024e4",
+        "raw_records": 1,
+        "filtered_records": 1
+      },
+      {
+        "accession": "GCF_963265035.1",
+        "member": "ABRicate on collection 2 report file/GCF_963265035.1__GCF_963265035.1_NZ_220527_assembly_041_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963340285.1",
+        "member": "ABRicate on collection 2 report file/GCF_963340285.1__GCF_963340285.1_bc1019_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      },
+      {
+        "accession": "GCF_963340415.1",
+        "member": "ABRicate on collection 2 report file/GCF_963340415.1__GCF_963340415.1_bc1017_genomic.fna.tabular",
+        "sha256": "47d770a37c6bc4e5e4f8c30214e6b716d5990c0f9f0cce597b4079076eb4d0d9",
+        "raw_records": 0,
+        "filtered_records": 0
+      }
+    ]
+  }
+]

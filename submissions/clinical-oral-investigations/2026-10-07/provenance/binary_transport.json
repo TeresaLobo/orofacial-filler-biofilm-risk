@@ -1,0 +1,164 @@
+[
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig1.pdf",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig1.pdf.b64",
+    "sha256": "af7b45258648e1c5ad85288917625c836470d1b638ec7a01f90da67a571c238d",
+    "bytes": 38107
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig1.png",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig1.png.b64",
+    "sha256": "33283b8c4d74ee101c87af63383932e9a0c93458dfe0febb334685274935416c",
+    "bytes": 71699
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig1.tiff",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig1.tiff.b64",
+    "sha256": "1ab4ef1ce3eb296ffdea908c03a420c56818a3153543b725eb9491077584df29",
+    "bytes": 1108521
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig2.pdf",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig2.pdf.b64",
+    "sha256": "68260162c1795df29c843b955c4d65987eba5932cd937d7b67fd491a74c78169",
+    "bytes": 43866
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig2.png",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig2.png.b64",
+    "sha256": "7dea151152620a18e1c414e7b4305e98ede9a1248d1df3208c70c64849b89558",
+    "bytes": 312159
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig2.tiff",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig2.tiff.b64",
+    "sha256": "33e042750bf5cfbaeddd37d3c7fc0efeaac0c6d74a5d6d89ed913f2d0f25f420",
+    "bytes": 2180350
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig3.pdf",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig3.pdf.b64",
+    "sha256": "b0c3f9d1b81c31b915a4039500132ae69acca9c826b9d0d99c320db3fa2998e0",
+    "bytes": 49828
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig3.png",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig3.png.b64",
+    "sha256": "dd668d294b456628a6f08db7615adc0b110857ac64fba9dae5be4405e589b84e",
+    "bytes": 131376
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig3.tiff",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig3.tiff.b64",
+    "sha256": "154d49297d64868cc8dae0e460479db1bdba525fb8490517a2eaf6de53aabe4d",
+    "bytes": 1200694
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig4.pdf",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig4.pdf.b64",
+    "sha256": "865fc17c4239b99c36f85a636f268dbc1aba17e059d4b389256723efc1dc8c72",
+    "bytes": 57998
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig4.png",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig4.png.b64",
+    "sha256": "bfadad89208729f9b1e4e3e22c3c3cfb81f8990e60626394921c2cdaf4d447fb",
+    "bytes": 292212
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig4.tiff",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/Fig4.tiff.b64",
+    "sha256": "7090536783d9511490d0f8cfa19ce10a0f560261be225d9fe13df542b870782e",
+    "bytes": 1896290
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/FigS1.pdf",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/FigS1.pdf.b64",
+    "sha256": "7485190bf5435ea70054297b98b6b411b8885264fbe9ef40ec49eb8b0c079da7",
+    "bytes": 58035
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/FigS1.png",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/FigS1.png.b64",
+    "sha256": "5549e7717f1db480e4df4dce529d6f76f8b40eaa3596cb24d8e7b4511d5cb3fb",
+    "bytes": 136207
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/figures/FigS1.tiff",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/figures/FigS1.tiff.b64",
+    "sha256": "96014db8ee8438ef500015dfaefc241928147f372f5c665ded945f4cffa23fa4",
+    "bytes": 817763
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Cover_letter.docx",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Cover_letter.docx.b64",
+    "sha256": "584370d4114214a8686cc9105b8b7f0e29526a8ff14747d9a3a953babce9cd1c",
+    "bytes": 38111
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Cover_letter.pdf",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Cover_letter.pdf.b64",
+    "sha256": "776feca3063be4c55b9d6c4062e92d2acbfa7ceafab731a5a3f2da8c023d2073",
+    "bytes": 58237
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Manuscript.docx",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Manuscript.docx.b64",
+    "sha256": "8932eed9be434f001bf2d362cfc4df7f85fb577a80240b18f77914659bbd64ab",
+    "bytes": 789907
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Manuscript.pdf",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Manuscript.pdf.b64",
+    "sha256": "fb1fd6062954fa56b52ead86d8626918c936dc4c6f4ec7ac54925f6ceaba15bb",
+    "bytes": 1006684
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Title_page.docx",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Title_page.docx.b64",
+    "sha256": "f335398cfe93e9a03ea3cfbd516dc7dfb998c1f3df0d2968166b83fc72928936",
+    "bytes": 37637
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Title_page.pdf",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/manuscript/Title_page.pdf.b64",
+    "sha256": "ae7d5a9483a060dda6526dd2bd8e7d382060d81f72b13f73365803787e2d31e3",
+    "bytes": 60619
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/supplementary/ESM_1.docx",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/supplementary/ESM_1.docx.b64",
+    "sha256": "bd6cb727dd1437e701f5c2a062acff91779dc2767ccd35611df2633d08d1506c",
+    "bytes": 161582
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/supplementary/ESM_1.pdf",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/supplementary/ESM_1.pdf.b64",
+    "sha256": "10db4367d20c23157aa235ac74c4e1651008bd77601b3b23b6a06c9a4d230cc9",
+    "bytes": 224313
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/supplementary/ESM_2.zip",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/supplementary/ESM_2.zip.b64",
+    "sha256": "fbfcdfa56b1a989e66d475edd7e589ee9e12bc55075b3562056efdd29b1b8db2",
+    "bytes": 377163
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/supplementary/ESM_3.zip",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/supplementary/ESM_3.zip.b64",
+    "sha256": "9b2ca503e4c47cc0ffc5fc86fcf2e7cdb83109badd1f09c0813e3a74d64822b0",
+    "bytes": 330117
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/tables/Tables.docx",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/tables/Tables.docx.b64",
+    "sha256": "2093c48ea3ff7835fe5a871b7cd24ebf9a8341f76298f051c37157fe392425a7",
+    "bytes": 38930
+  },
+  {
+    "path": "submissions/clinical-oral-investigations/2026-10-07/tables/Tables.pdf",
+    "encoded_path": "submissions/clinical-oral-investigations/2026-10-07/tables/Tables.pdf.b64",
+    "sha256": "e05984d5b4449a8a8ef29ea9e1f04509d631fb14593312d081a29030d16dabab",
+    "bytes": 147283
+  }
+]

@@ -1,6 +1,12 @@
-# Resistance and adhesion annotations in 82 bacterial genomes
+# HOF: resistance and adhesion annotations in bacterial reference genomes
 
-The corrected review version is in [revisions/2026-10-07](revisions/2026-10-07/LEIA_PRIMEIRO.md). It supersedes the previous biological interpretation and derived outputs. This is an exploratory analysis of public genome annotations relevant to orofacial filler research; it does not measure clinical risk, experimentally confirm biofilms or evaluate botulinum toxin.
+## Current submission preparation — Clinical Oral Investigations
+
+The latest manuscript, editable tables, vector/EPS and 600-dpi TIFF figures, supplementary data, original Galaxy exports and portable code are in [submissions/clinical-oral-investigations/2026-10-07](submissions/clinical-oral-investigations/2026-10-07/LEIA_PRIMEIRO.md).
+
+Five new Galaxy screens completed 410 outputs (82 genomes per database). All filtered alignment multisets exactly match the corrected archive: CARD 214, ResFinder 105, VFDB 172, PlasmidFinder 40 and BacMet2 192. AMRFinderPlus and Victors remain archived-only. Reference FASTA provenance remains incomplete and is disclosed. All original scientific inputs remain under pipeline/; primary-input hashes are included in the submission materials. Unpack ESM_2.zip to obtain individual processed CSV/TSV tables and ESM_3.zip to obtain original Galaxy export ZIPs.
+
+Clinical Oral Investigations offers a subscription route without APC; optional open access is paid. The article is prepared for author review and has not been submitted. The author requested omission of telephone. The old Zenodo DOI describes the earlier deposit and does not represent these updated files.
 
 ## Corrections
 
