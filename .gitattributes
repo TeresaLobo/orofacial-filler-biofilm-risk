@@ -1,2 +1,3 @@
 pipeline/** -text
 revisions/** -text
+submissions/** -text

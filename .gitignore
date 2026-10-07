@@ -30,3 +30,6 @@ data/raw/*
 !pipeline/data/**/*.log
 results_reproduced/
 .mplconfig/
+
+# Audited current journal supplements
+!submissions/clinical-oral-investigations/2026-10-07/supplementary/*.zip
