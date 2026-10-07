@@ -32,7 +32,7 @@ The historical pipeline scripts and historical derived files are retained for au
 
 This revision is a draft for author review, not a submitted or accepted article. Correspondence email, no preprint deposit and acceptance of both open-review options were confirmed by the author. Postal address, telephone, professional English review, final scientific approval and the complete research-data availability declaration remain pending.
 
-The earlier archive [Zenodo record 21339092](https://zenodo.org/records/21339092), DOI 10.5281/zenodo.21339092, predates these corrections. It must not be presented as an archive of the corrected results. A new public deposit and DOI require verification after upload.
+The earlier archive [Zenodo record 21339092](https://zenodo.org/records/21339092), DOI 10.5281/zenodo.21339092, predates these corrections. It must not be presented as an archive of the corrected results. This corrected review revision is publicly available on GitHub. A new Zenodo archival deposit and DOI still require verification. See [publication status](PUBLICATION_STATUS.md).
 
 ## Licensing
 

@@ -57,4 +57,4 @@ As páginas do artigo, página de título, carta e suplemento foram renderizadas
 
 Atualização autoral: e-mail de correspondência teresa.lobo@esenfar.ufal.br. Endereço postal e telefone ainda não foram fornecidos.
 
-Repositório atualizado localmente em uma branch de revisão. Execução completa do script portátil: 27 tabelas idênticas às revisadas; 1.471 inputs verificados por SHA-256. Publicação no GitHub ainda depende de autenticação. Galaxy: histórico HOF exclusivo criado, ZIP com 82 genomas transferido; extração em execução e inventário dos bancos enfileirado. Nenhum novo alinhamento foi integrado.
+Repositório atualizado localmente em uma branch de revisão. Execução completa do script portátil: 27 tabelas idênticas às revisadas; 1.471 inputs verificados por SHA-256. Revisão publicada no GitHub; novo depósito no Zenodo ainda pendente. Galaxy: histórico HOF exclusivo criado, ZIP com 82 genomas transferido; extração concluída com exit code 0; novos alinhamentos ainda não integrados. Nenhum novo alinhamento foi integrado.

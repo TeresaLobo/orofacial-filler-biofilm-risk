@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-07",
+  "repository_url": "https://github.com/TeresaLobo/orofacial-filler-biofilm-risk",
+  "published_branch": "main",
+  "review_branch": "hof-corrections-2026-10-07",
+  "verified_revision_commit": "b45e5b9e8292ef7e169995db13dc82e4211b6016",
+  "verified_revision_tree": "5b2f3169a368d13cd0bf99be26899d06908f005a",
+  "uploaded_files": 666,
+  "verified_input_files": 1471,
+  "exactly_reproduced_tables": 27,
+  "GitHub_published": true,
+  "Zenodo_corrected_deposit_confirmed": false,
+  "article_submitted": false
+}
