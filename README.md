@@ -16,7 +16,7 @@ Clinical Oral Investigations offers a subscription route without APC; optional o
 - Individual ABRicate files were reconstructed with their actual #FILE header. Explicit BacMet2 protein identity >=80% and coverage >=70% filtering retains 192 of 7,412 archived alignments.
 - Species summaries, rank sensitivity, bootstrap summaries, PCA and association edges were regenerated. Rankings are descriptive and cannot predict clinical outcomes.
 
-## Read the corrected materials
+## Archived BJOS preparation (superseded by the current submission folder)
 
 [Manuscript](revisions/2026-10-07/manuscript/HOF_BJOS_Manuscrito_REVISAR.pdf), [tables](revisions/2026-10-07/tables/), [figures](revisions/2026-10-07/figures/), [workbook](revisions/2026-10-07/HOF_Tabelas_Corrigidas.xlsx), [provenance](revisions/2026-10-07/provenance/) and [Galaxy guidance](revisions/2026-10-07/GALAXY.md).
 
@@ -30,13 +30,13 @@ python revisions/2026-10-07/reproducibility/analyze_hof.py --source pipeline --o
 python revisions/2026-10-07/reproducibility/make_figures.py --results results_reproduced
 ```
 
-The archived inputs and 574 individual result/log pairs are preserved under pipeline/. Input hashes are in the corrected provenance directory. This command reconstructs and filters existing alignments; it does not execute fresh BLAST searches. Original reference database FASTA snapshots were not recovered, so exact alignment reruns remain unresolved. Tool versions and local database timestamps are documented; a timestamp is not a verified database release identifier.
+The archived inputs and 574 individual result/log pairs are preserved under pipeline/. Input hashes are in the corrected provenance directory. This command reconstructs and filters existing alignments; it does not execute fresh BLAST searches. Original reference database FASTA snapshots were not recovered. Five fresh Galaxy screens now reproduce all corrected filtered alignment multisets; identity of original reference FASTA files remains unverified. Tool versions and local database timestamps are documented; a timestamp is not a verified database release identifier.
 
-The historical pipeline scripts and historical derived files are retained for audit. Do not use their biofilm counts or clinical-risk interpretation in a new submission. Use the corrected scripts and outputs linked above.
+The historical pipeline scripts and historical derived files are retained for audit. Do not use their biofilm counts or clinical-risk interpretation in a new submission. Use the current submission materials or corrected scripts, rather than historical derived files.
 
 ## Publication status
 
-This revision is a draft for author review, not a submitted or accepted article. Correspondence email, no preprint deposit and acceptance of both open-review options were confirmed by the author. Postal address, telephone, professional English review, final scientific approval and the complete research-data availability declaration remain pending.
+The current manuscript is prepared for author review and has not been submitted or accepted. Correspondence email, postal address and FOUFAL/UFAL affiliation are incorporated. Telephone was omitted at the author’s request. English has been revised; professional editing is optional under the selected journal’s guide. Final author approval and originality declarations remain pending. The author reported no preprint deposition. The earlier BJOS open-review selections do not define the selected journal’s single-blind review process.
 
 The earlier archive [Zenodo record 21339092](https://zenodo.org/records/21339092), DOI 10.5281/zenodo.21339092, predates these corrections. It must not be presented as an archive of the corrected results. This corrected review revision is publicly available on GitHub. A new Zenodo archival deposit and DOI still require verification. See [publication status](PUBLICATION_STATUS.md).
 
